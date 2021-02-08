@@ -1,0 +1,22 @@
+diff --git a/src/analyzer/protocol/http/HTTP.cc b/src/analyzer/protocol/http/HTTP.cc
+index 1dbdcf9bd..10c368e84 100644
+--- a/src/analyzer/protocol/http/HTTP.cc
++++ b/src/analyzer/protocol/http/HTTP.cc
+@@ -863,7 +863,6 @@ HTTP_Analyzer::HTTP_Analyzer(Connection* conn)
+ 	AddSupportAnalyzer(content_line_orig);
+ 
+ 	content_line_resp = new tcp::ContentLine_Analyzer(conn, false);
+-	content_line_resp->SetSkipPartial(true);
+ 	AddSupportAnalyzer(content_line_resp);
+ 	}
+ 
+@@ -912,9 +911,6 @@ void HTTP_Analyzer::DeliverStream(int len, const u_char* data, bool is_orig)
+ 	{
+ 	tcp::TCP_ApplicationAnalyzer::DeliverStream(len, data, is_orig);
+ 
+-	if ( TCP() && TCP()->IsPartial() )
+-		return;
+-
+ 	if ( upgraded )
+ 		return;
+ 

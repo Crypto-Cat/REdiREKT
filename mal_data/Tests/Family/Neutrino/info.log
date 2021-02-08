@@ -1,0 +1,4062 @@
+Processing 196 PCAPs..
+
+Processing 2013-06-18-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.122.178
+
+Redirection Chains:
+
+insightcrime.org
+└── 93.171.172.220 (Unknown) [0.629]
+    └── 1208b83b81c141ecd6f05e24.webhop.org:8000 (Location) [0.544]
+1208b83b81c141ecd6f05e24.webhop.org
+
+Extracted Malicious Redirection Chain:
+
+insightcrime.org
+└── 93.171.172.220 (Unknown) [0.629]
+    └── 1208b83b81c141ecd6f05e24.webhop.org:8000 (Location) [0.544]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2013-12-19-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.1.107
+
+Redirection Chains:
+
+oceanicrealty.com
+└── t93jo0tumvjtke73neu1ixr.domestiquecleaning.com (Location/Referrer/HTML) [0.22]
+    └── t93jo0tumvjtke73neu1ixr53164e366ec7440dd42452677baa54d83.domestiquecleaning.com (Base64) [0.573]
+        ├── du8siun.frapdays.com (Referrer/Base64) [0.722]
+        └── aicjm9c5paqtiapsrz3v7nj.allsexopen.com (Base64) [21.844]
+
+Extracted Malicious Redirection Chain:
+
+oceanicrealty.com
+└── t93jo0tumvjtke73neu1ixr.domestiquecleaning.com (Location/Referrer/HTML) [0.22]
+    └── t93jo0tumvjtke73neu1ixr53164e366ec7440dd42452677baa54d83.domestiquecleaning.com (Base64) [0.573]
+        ├── du8siun.frapdays.com (Referrer/Base64) [0.722]
+        └── aicjm9c5paqtiapsrz3v7nj.allsexopen.com (Base64) [21.844]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-02-Neutrino-EK-traffic.pcap..
+
+Source IP: 198.61.173.192
+
+Redirection Chains:
+
+help.wugnet.com
+└── 686dkfe4k74v8nu1adebdm7.mychicagohardwoodflooring.com (Location/HTML) [0.487]
+    └── 686dkfe4k74v8nu1adebdm753605381e72f85acfc63dadc05f1098ee.mychicagohardwoodflooring.com (Referrer/Base64) [0.725]
+        ├── yaingeiy.aktinate.com (Referrer/Base64) [1.192]
+        └── 78gztei6jk3lt3gmsflesfi.amateurfreenow.com (Referrer/Base64) [21.526]
+
+Extracted Malicious Redirection Chain:
+
+help.wugnet.com
+└── 686dkfe4k74v8nu1adebdm7.mychicagohardwoodflooring.com (Location/HTML) [0.487]
+    └── 686dkfe4k74v8nu1adebdm753605381e72f85acfc63dadc05f1098ee.mychicagohardwoodflooring.com (Referrer/Base64) [0.725]
+        ├── yaingeiy.aktinate.com (Referrer/Base64) [1.192]
+        └── 78gztei6jk3lt3gmsflesfi.amateurfreenow.com (Referrer/Base64) [21.526]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-07-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.14.132
+
+Redirection Chains:
+
+help.lockergnome.com
+└── hsiammyy7hdin7jqu6hfnjt.shiningstarscleaningservice.com (Location/HTML) [0.248]
+    └── hsiammyy7hdin7jqu6hfnjt53365382c8e420ee542452677cded84d6.shiningstarscleaningservice.com (Referrer/Base64) [0.506]
+        ├── quohyiin.dikarlos.com (Referrer/Base64) [0.799]
+        └── dphjoqccuayhhg77dmdz2rw.amateurlogin.com (Referrer/Base64) [21.323]
+
+Extracted Malicious Redirection Chain:
+
+help.lockergnome.com
+└── hsiammyy7hdin7jqu6hfnjt.shiningstarscleaningservice.com (Location/HTML) [0.248]
+    └── hsiammyy7hdin7jqu6hfnjt53365382c8e420ee542452677cded84d6.shiningstarscleaningservice.com (Referrer/Base64) [0.506]
+        ├── quohyiin.dikarlos.com (Referrer/Base64) [0.799]
+        └── dphjoqccuayhhg77dmdz2rw.amateurlogin.com (Referrer/Base64) [21.323]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-21-Neutrino-EK-traffic.pcap..
+
+Source IP: 172.16.2.163
+
+Redirection Chains:
+
+exchangefreaks.com
+└── a7euhl1i6c1ev2e1mrw13xg.blueblack.com.tr (Location/HTML) [0.471]
+    └── a7euhl1i6c1ev2e1mrw13xg52265384c9da87b525c344c8704cd096a.blueblack.com.tr (Referrer/Base64) [0.819]
+        └── iepheiph.bandrets.com (Referrer/Base64) [0.843]
+
+Extracted Malicious Redirection Chain:
+
+exchangefreaks.com
+└── a7euhl1i6c1ev2e1mrw13xg.blueblack.com.tr (Location/HTML) [0.471]
+    └── a7euhl1i6c1ev2e1mrw13xg52265384c9da87b525c344c8704cd096a.blueblack.com.tr (Referrer/Base64) [0.819]
+        └── iepheiph.bandrets.com (Referrer/Base64) [0.843]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-02-Neutrino-EK-users-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.161
+
+Redirection Chains:
+
+bloggingwithdogs.com
+├── 38hartrobertsroad.com (Referrer/iFrame) [0.32]
+│   └── 62.76.177.211 (Referrer/HTML) [0]
+│       └── 30oct2007.com (Location) [0.134]
+│           └── oojahphi.brittmany.com (Referrer/iFrame) [1.162]
+└── pracowniahistoryczna.pl (Referrer/iFrame) [0.563]
+    └── 92.53.105.34 (Referrer/HTML) [0.252]
+
+Extracted Malicious Redirection Chain:
+
+bloggingwithdogs.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.32]
+    └── 62.76.177.211 (Referrer/HTML) [0]
+        └── 30oct2007.com (Location) [0.134]
+            └── oojahphi.brittmany.com (Referrer/iFrame) [1.162]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-02-Neutrino-EK-uses-java-exploit.pcap..
+
+Source IP: 192.168.204.160
+
+Redirection Chains:
+
+bloggingwithdogs.com
+├── pracowniahistoryczna.pl (Referrer/iFrame) [1.001]
+│   └── 92.53.105.34 (Referrer/HTML) [0.246]
+└── 38hartrobertsroad.com (Referrer/iFrame) [1.051]
+    └── 62.76.177.211 (Referrer/HTML) [0.103]
+        └── 30oct2007.com (Location) [0.767]
+            └── weilaeni.brittmany.com (Referrer/iFrame) [0.646]
+
+Extracted Malicious Redirection Chain:
+
+bloggingwithdogs.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [1.051]
+    └── 62.76.177.211 (Referrer/HTML) [0.103]
+        └── 30oct2007.com (Location) [0.767]
+            └── weilaeni.brittmany.com (Referrer/iFrame) [0.646]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Neutrino-EK-traffic-01.pcap..
+
+Source IP: 192.168.204.162
+
+Redirection Chains:
+
+valerierobinson.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.812]
+    └── 62.76.177.211 (Referrer/HTML) [0.334]
+        └── 30oct2007.com (Location) [0.841]
+            └── eesheshi.ontowess.com (Referrer/iFrame) [0.792]
+kimsa.vn
+gminalubiewo.pl
+
+Extracted Malicious Redirection Chain:
+
+valerierobinson.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.812]
+    └── 62.76.177.211 (Referrer/HTML) [0.334]
+        └── 30oct2007.com (Location) [0.841]
+            └── eesheshi.ontowess.com (Referrer/iFrame) [0.792]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Neutrino-EK-traffic-02.pcap..
+
+Source IP: 192.168.204.163
+
+Redirection Chains:
+
+sorbix.com
+├── taleroom.com (Referrer/iFrame) [1.271]
+│   └── eesheshi.ontowess.com:8000 (Location) [0.408]
+└── eesheshi.ontowess.com (Referrer) [2.081]
+grossform.ru
+
+Extracted Malicious Redirection Chain:
+
+sorbix.com
+└── taleroom.com (Referrer/iFrame) [1.271]
+    └── eesheshi.ontowess.com:8000 (Location) [0.408]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-09-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.160
+
+Redirection Chains:
+
+sugarloafweddings.com
+├── irfan.ca (Referrer/iFrame) [0.88]
+│   └── 62.76.177.211 (Referrer/HTML) [0.342]
+│       └── asyscert.com (Referrer/HTML/JavaScript) [0.505]
+├── taleroom.com (Referrer/iFrame) [0.102]
+│   └── yeegegie.amcancode.com:8000 (Location) [0.537]
+└── yeegegie.amcancode.com (Referrer) [0.963]
+salomblog.com
+
+Extracted Malicious Redirection Chain:
+
+sugarloafweddings.com
+└── taleroom.com (Referrer/iFrame) [0.102]
+    └── yeegegie.amcancode.com:8000 (Location) [0.537]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-22-Neutrino-and-Nuclear-EK-traffic01.pcap..
+
+Source IP: 192.168.204.172
+
+Redirection Chains:
+
+afghanchopankebab.ca
+├── themes.googleusercontent.com (Referrer) [0.091]
+├── statcounter.com (Referrer) [0.124]
+├── c.statcounter.com (Referrer) [0.269]
+├── ezdomainset.net (Referrer/iFrame) [0.983]
+│   ├── eikohhou.tieshuwo.com:8000 (Location) [0]
+│   ├── ksrqm.fieldingclerk.in.net (Location) [0.174]
+│   └── wu3.zuxixamydu.com (Location) [1.61]
+│       └── stavl7.fieldingclerk.in.net (Referrer) [0.183]
+├── eikohhou.tieshuwo.com (Referrer) [1.815]
+└── linkstorm.ru (Referrer/iFrame) [0.56]
+212-lithium.com
+gp-search2014.com
+└── tor-host.com (Referrer) [11.188]
+jully-search.com
+└── tor-host.com (Referrer) [9.816]
+insurejj-search.com
+└── tor-host.com (Referrer) [11.364]
+online-marker2014.com
+└── tor-host.com (Referrer) [11.498]
+cian-search.com
+└── tor-host.com (Referrer) [9.457]
+red-search2014.com
+└── tor-host.com (Referrer) [9.537]
+name-traffersearch.com
+└── tor-host.com (Referrer) [10.069]
+step-count10.com
+cioco-froll.com
+paralimp-search.com
+└── tor-host.com (Referrer) [11.579]
+vapor-sarch.com
+└── tor-host.com (Referrer) [11.364]
+work-bus-search.com
+└── tor-host.com (Referrer) [11.735]
+rest-2014search.com
+└── tor-host.com (Referrer) [10.128]
+pet-shop-new.com
+└── tor-host.com (Referrer) [9.599]
+host-search-14.com
+└── tor-host.com (Referrer) [11.073]
+
+Extracted Malicious Redirection Chain:
+
+afghanchopankebab.ca
+└── ezdomainset.net (Referrer/iFrame) [0.983]
+    ├── eikohhou.tieshuwo.com:8000 (Location) [0]
+    ├── ksrqm.fieldingclerk.in.net (Location) [0.174]
+    └── wu3.zuxixamydu.com (Location) [1.61]
+        └── stavl7.fieldingclerk.in.net (Referrer) [0.183]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-01-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.174
+
+Redirection Chains:
+
+adelaidecommercialrealestate.com.au
+├── diablo3keygen.net (Referrer/iFrame) [6.225]
+│   └── chaongoi.fingieng.com:8000 (Location) [3.101]
+└── chaongoi.fingieng.com (Referrer) [9.327]
+wsxcv.net
+qustats.net
+
+Extracted Malicious Redirection Chain:
+
+adelaidecommercialrealestate.com.au
+└── diablo3keygen.net (Referrer/iFrame) [6.225]
+    └── chaongoi.fingieng.com:8000 (Location) [3.101]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-08-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.173
+
+Redirection Chains:
+
+tollywood.net
+└── xfd35snx9ucrvtppxre8xti.estetikcerrahlar.gen.tr (Location) [0.509]
+    └── xfd35snx9ucrvtppxre8xti517653a14e12616e742451e29574fc161.estetikcerrahlar.gen.tr (Referrer/Base64) [0.676]
+        ├── fixeghoh.koivaino.com (Referrer/Base64) [1.251]
+        └── 97x100nb11dugoxv93z019i.assparadefree.com (Referrer/Base64) [21.244]
+graphics.pop6.com
+178.86.17.32
+glean.pop6.com
+
+Extracted Malicious Redirection Chain:
+
+tollywood.net
+└── xfd35snx9ucrvtppxre8xti.estetikcerrahlar.gen.tr (Location) [0.509]
+    └── xfd35snx9ucrvtppxre8xti517653a14e12616e742451e29574fc161.estetikcerrahlar.gen.tr (Referrer/Base64) [0.676]
+        ├── fixeghoh.koivaino.com (Referrer/Base64) [1.251]
+        └── 97x100nb11dugoxv93z019i.assparadefree.com (Referrer/Base64) [21.244]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-29-Neutrino-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.204.164
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.379]
+    └── cjcpevng.kommonly.eu (JavaScript/iFrame) [6.139]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.379]
+    └── cjcpevng.kommonly.eu (JavaScript/iFrame) [6.139]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-29-Neutrino-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.204.166
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.925]
+    └── quftaugmfx.kommonly.eu (iFrame/JavaScript) [2.133]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.925]
+    └── quftaugmfx.kommonly.eu (iFrame/JavaScript) [2.133]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-01-Neutrino-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.204.171
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.484]
+    └── prerbwh.freedlyaccupay.eu (JavaScript/iFrame) [4.454]
+        └── oiqgp.freedlyaccupay.eu (Subdomain) [6.184]
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.484]
+    └── prerbwh.freedlyaccupay.eu (JavaScript/iFrame) [4.454]
+        └── oiqgp.freedlyaccupay.eu (Subdomain) [6.184]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-01-Neutrino-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.204.172
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.186]
+    └── vosng.freedlyaccupay.eu (iFrame/JavaScript) [2.066]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.186]
+    └── vosng.freedlyaccupay.eu (iFrame/JavaScript) [2.066]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-07-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.137.63
+
+Redirection Chains:
+
+scottishquality.com
+├── ls.spire-project.com (Referrer/JavaScript) [0]
+│   └── eytmxgnqlm.nirval.eu (iFrame/JavaScript) [1.518]
+├── media.datahc.com (Referrer/HTML) [0.055]
+├── static.laterooms.com (Referrer/HTML) [0.093]
+├── newsnetscotland.scot (Referrer/HTML) [0]
+└── ponsonbypost.com (Referrer/HTML) [0]
+msftncsi.com
+109.234.37.192
+109.234.37.192
+
+Extracted Malicious Redirection Chain:
+
+scottishquality.com
+└── ls.spire-project.com (Referrer/JavaScript) [0]
+    └── eytmxgnqlm.nirval.eu (iFrame/JavaScript) [1.518]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-04-24-Neutrino-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.122.15
+
+Redirection Chains:
+
+books.eaiesb.org
+└── rmuxvayun.pkrgzrpdebksbl.gq (iFrame/JavaScript) [6.833]
+    └── soeon.pkrgzrpdebksbl.gq (Referrer) [2.093]
+
+Extracted Malicious Redirection Chain:
+
+books.eaiesb.org
+└── rmuxvayun.pkrgzrpdebksbl.gq (iFrame/JavaScript) [6.833]
+    └── soeon.pkrgzrpdebksbl.gq (Referrer) [2.093]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-08-31-Neutrino-EK-exercise.pcap..
+
+Source IP: 192.168.137.239
+
+Redirection Chains:
+
+bluproducts.com
+├── platform.linkedin.com (Referrer) [0]
+├── s.amazon-adsystem.com (Referrer) [0.14]
+├── stravitili.com (Referrer/JavaScript) [0]
+└── platform.twitter.com (Referrer) [0.148]
+web.feeddigest.com
+├── fonts.gstatic.com (Referrer) [0.034]
+├── js-agent.newrelic.com (Referrer) [4.184]
+├── bam.nr-data.net (Referrer) [4.378]
+└── channels.feeddigest.com (Referrer) [13.745]
+    ├── static.feeddigest.com (Referrer) [0]
+    └── vitaminsthatrock.com (Location/Referrer) [0.196]
+        ├── pagead2.googlesyndication.com (Referrer) [0.097]
+        ├── vclphjybj.ioxbpjgtqvwqfzmwhn.ga (Referrer/iFrame/HTML) [0.619]
+        └── tpfnmvg.ioxbpjgtqvwqfzmwhn.ga (Referrer/iFrame/HTML) [0.378]
+asecproteccion.com
+ocsp.geotrust.com
+sf.symcd.com
+msftncsi.com
+ipinfo.io
+lk2gaflsgh.jgy658snfyfnvh.com
+ocsp.verisign.com
+
+Extracted Malicious Redirection Chain:
+
+vitaminsthatrock.com
+└── vclphjybj.ioxbpjgtqvwqfzmwhn.ga (Referrer/iFrame/HTML) [0.619]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-09-02-Neutrino-EK-sends-Teslacrypt-2.0-traffic.pcap..
+
+Source IP: 192.168.122.155
+
+Redirection Chains:
+
+designsbytony.net
+└── designsbytony.co (Location) [0.221]
+    ├── thedancingbutterfly.com (Referrer/JavaScript) [0]
+    └── kbwqfz.nkzppqzzzumhoap.ml (Referrer/HTML/iFrame) [1.067]
+ipinfo.io
+lk2gaflsgh.jgy658snfyfnvh.com
+aia.startssl.com
+fpdownload2.macromedia.com
+light-tech.pl
+dg62wor94m.sdsfg834mfuuw.com
+download.windowsupdate.com
+
+Extracted Malicious Redirection Chain:
+
+designsbytony.net
+└── designsbytony.co (Location) [0.221]
+    ├── thedancingbutterfly.com (Referrer/JavaScript) [0]
+    └── kbwqfz.nkzppqzzzumhoap.ml (Referrer/HTML/iFrame) [1.067]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-09-11-BizCN-gate-actor-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.122.250
+
+Redirection Chains:
+
+ip-addr.es
+essayspro.com
+greenevap.com
+ayh2m57ruxjtwyd5.vremlreafpa.com
+forums.macnn.com
+├── kroentro.com (Referrer/JavaScript) [0.21]
+└── wotpga.zukonline.xyz (Referrer) [0.345]
+g6securitysystems.com
+europe-academy.net
+ayh2m57ruxjtwyd5.speralreaopio.com
+
+Extracted Malicious Redirection Chain:
+
+forums.macnn.com
+└── wotpga.zukonline.xyz (Referrer) [0.345]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+forums.macnn.com
+└── kroentro.com (Referrer) [0.21]
+    └── wotpga.zukonline.xyz (Advanced) [?]
+
+====================================================================================================
+
+Processing 2015-09-14-BizCN-gate-actor-Neutrino-EK-sends-CryptoWall-3.0.pcap..
+
+Source IP: 192.168.122.93
+
+Redirection Chains:
+
+i-programmer.info
+├── evattown.com (Referrer/JavaScript) [0]
+└── yjojvu.uoqbzfyxdct.cf (Referrer) [0.685]
+    └── kxhgokbjqc.uoqbzfyxdct.cf (Referrer) [3.083]
+erointernet.com
+fan-out.com
+ip-addr.es
+eugeniobonato.com
+
+Extracted Malicious Redirection Chain:
+
+i-programmer.info
+└── yjojvu.uoqbzfyxdct.cf (Referrer) [0.685]
+    └── kxhgokbjqc.uoqbzfyxdct.cf (Referrer) [3.083]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+i-programmer.info
+├── evattown.com (JavaScript/Referrer) [0]
+└── yjojvu.uoqbzfyxdct.cf (Referrer) [0.685]
+    └── kxhgokbjqc.uoqbzfyxdct.cf (Referrer) [3.083]
+
+====================================================================================================
+
+Processing 2015-10-13-Neutrino-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.122.185
+
+Redirection Chains:
+
+piatti.com
+└── net.decolefacil.com.br (Referrer/JavaScript) [0.837]
+    └── lrhfeynui.zkteekqtrutoi.tk (JavaScript/iFrame) [1.254]
+net.decolefacil.com.br
+└── lrhfeynui.zkteekqtrutoi.tk (JavaScript/iFrame) [1.254]
+195.22.28.194
+└── sso.anbtr.com (Location) [0.747]
+
+Extracted Malicious Redirection Chain:
+
+piatti.com
+└── net.decolefacil.com.br (Referrer/JavaScript) [0.837]
+    └── lrhfeynui.zkteekqtrutoi.tk (JavaScript/iFrame) [1.254]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-10-13-Neutrino-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.122.132
+
+Redirection Chains:
+
+piatti.com
+└── net.decolefacil.com.br (Referrer/JavaScript) [0.86]
+    └── icbvir.zkteekqtrutoi.tk (JavaScript/iFrame) [3.447]
+        └── bwcfvs.zkteekqtrutoi.tk (Referrer) [15.403]
+178.20.159.29
+195.22.28.194
+└── sso.anbtr.com (Location) [0.602]
+107.181.187.200
+
+Extracted Malicious Redirection Chain:
+
+piatti.com
+└── net.decolefacil.com.br (Referrer/JavaScript) [0.86]
+    └── icbvir.zkteekqtrutoi.tk (JavaScript/iFrame) [3.447]
+        └── bwcfvs.zkteekqtrutoi.tk (Referrer) [15.403]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-10-21-Neutrino-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.122.200
+
+Redirection Chains:
+
+195.22.28.194
+└── sso.anbtr.com (Location) [0.542]
+vid.fotografofamoso.com.br
+└── btsjywn.xmqbsmyofchd.gq (iFrame/JavaScript) [0.948]
+
+Extracted Malicious Redirection Chain:
+
+vid.fotografofamoso.com.br
+└── btsjywn.xmqbsmyofchd.gq (iFrame/JavaScript) [0.948]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2015-11-25-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.122.196
+
+Redirection Chains:
+
+avant-age.fr
+└── link.guiaste.com.br (Referrer/JavaScript) [3.814]
+    └── zmwcvhzpbb.goppre.eu (JavaScript/iFrame) [1.693]
+109.234.35.95
+195.22.28.194
+└── sso.anbtr.com (Location) [0.771]
+91.229.79.119
+109.234.35.95
+
+Extracted Malicious Redirection Chain:
+
+avant-age.fr
+└── link.guiaste.com.br (Referrer/JavaScript) [3.814]
+    └── zmwcvhzpbb.goppre.eu (JavaScript/iFrame) [1.693]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-01-04-Neutrino-EK-sends-CryptoWall-traffic.pcap..
+
+Source IP: 192.168.122.145
+
+Redirection Chains:
+
+fga-agency.com
+sydneygroup.com.au
+└── xktzjm.topcentc.top (Referrer) [4.731]
+homealldaylong.com
+
+Extracted Malicious Redirection Chain:
+
+sydneygroup.com.au
+└── xktzjm.topcentc.top (Referrer) [4.731]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-02-12-Neutrino-EK-traffic.pcap..
+
+Source IP: 172.16.19.214
+
+Redirection Chains:
+
+utensileriecorag.it
+└── sid.nussvital.com.ar (Referrer/JavaScript) [4.928]
+    └── lwejkszzt.uinvolve.link (iFrame/JavaScript) [0.769]
+        └── hgomee.uinvolve.link (Referrer) [3.038]
+
+Extracted Malicious Redirection Chain:
+
+utensileriecorag.it
+└── sid.nussvital.com.ar (Referrer/JavaScript) [4.928]
+    └── lwejkszzt.uinvolve.link (iFrame/JavaScript) [0.769]
+        └── hgomee.uinvolve.link (Referrer) [3.038]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-04-27-EITest-Neutrino-EK-sends-TeslaCrypt.pcap..
+
+Source IP: 10.4.27.101
+
+Redirection Chains:
+
+blackstorkstudio.com
+└── volide.tk (Referrer/HTML) [2.434]
+    └── oleelzds.jothoxe.eu (HTML/JavaScript) [1.389]
+teacherassist.info
+
+Extracted Malicious Redirection Chain:
+
+blackstorkstudio.com
+└── volide.tk (Referrer/HTML) [2.434]
+    └── oleelzds.jothoxe.eu (HTML/JavaScript) [1.389]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-04-29-Neutrino-EK-first-run_missingC.pcap..
+
+Source IP: 10.4.29.101
+
+Redirection Chains:
+
+rtuqmdjr.afthis.top
+└── drejzeyok.afthis.top (Referrer) [2.933]
+
+Extracted Malicious Redirection Chain:
+
+rtuqmdjr.afthis.top
+└── drejzeyok.afthis.top (Referrer) [2.933]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-04-29-Neutrino-EK-second-run.pcap..
+
+Source IP: 10.4.29.104
+
+Redirection Chains:
+
+ilovemychurch.com
+└── hfqmww.afthis.top (Referrer/JavaScript/iFrame) [3.109]
+    └── jolouc.afthis.top (Referrer) [1.479]
+
+Extracted Malicious Redirection Chain:
+
+ilovemychurch.com
+└── hfqmww.afthis.top (Referrer/JavaScript/iFrame) [3.109]
+    └── jolouc.afthis.top (Referrer) [1.479]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-05-03-Neutrino-EK-sends-Cerber-first-run.pcap..
+
+Source IP: 10.5.3.102
+
+Redirection Chains:
+
+londonlifestyleflooring.co.uk
+└── blmeujdhcb.eilong.top (Referrer/iFrame) [2.227]
+    └── mifblup.eilong.top (Referrer) [1.484]
+ipinfo.io
+
+Extracted Malicious Redirection Chain:
+
+londonlifestyleflooring.co.uk
+└── blmeujdhcb.eilong.top (Referrer/iFrame) [2.227]
+    └── mifblup.eilong.top (Referrer) [1.484]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-05-03-Neutrino-EK-sends-Cerber-second-run.pcap..
+
+Source IP: 10.5.3.103
+
+Redirection Chains:
+
+londonlifestyleflooring.co.uk
+└── psjebmwpes.eaautomatic.top (Referrer/iFrame) [2.635]
+    └── wocvx.eaautomatic.top (Referrer) [1.979]
+
+Extracted Malicious Redirection Chain:
+
+londonlifestyleflooring.co.uk
+└── psjebmwpes.eaautomatic.top (Referrer/iFrame) [2.635]
+    └── wocvx.eaautomatic.top (Referrer) [1.979]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-05-05-EITest-Neutrino-EK-sends-Cerber.pcap..
+
+Source IP: 10.5.5.102
+
+Redirection Chains:
+
+newswii.tk
+└── lwrziawoax.xcaimane.top (HTML/JavaScript) [1.834]
+    └── jtxff.xcaimane.top (Referrer) [1.149]
+
+Extracted Malicious Redirection Chain:
+
+newswii.tk
+└── lwrziawoax.xcaimane.top (HTML/JavaScript) [1.834]
+    └── jtxff.xcaimane.top (Referrer) [1.149]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-05-19-EITest-Neutrino-EK_missingC.pcap..
+
+Source IP: 10.5.19.104
+
+Redirection Chains:
+
+true.imwright.co.uk
+└── ndczaqefc.anein.top (JavaScript/HTML) [1.243]
+
+Extracted Malicious Redirection Chain:
+
+true.imwright.co.uk
+└── ndczaqefc.anein.top (JavaScript/HTML) [1.243]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-05-25-EITest-Neutrino-EK_missingC.pcap..
+
+Source IP: 10.5.25.103
+
+Redirection Chains:
+
+mexyhe.tk
+└── mibwwm.wugreenu.top (HTML/JavaScript) [2.655]
+
+Extracted Malicious Redirection Chain:
+
+mexyhe.tk
+└── mibwwm.wugreenu.top (HTML/JavaScript) [2.655]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-06-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-first-run.pcap..
+
+Source IP: 10.6.6.102
+
+Redirection Chains:
+
+garlocksafety.com
+└── uesrjjwbk.exiteam.top (Referrer) [3.77]
+
+Extracted Malicious Redirection Chain:
+
+garlocksafety.com
+└── uesrjjwbk.exiteam.top (Referrer) [3.77]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-06-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-second-run.pcap..
+
+Source IP: 10.6.6.105
+
+Redirection Chains:
+
+garlocksafety.com
+└── glsmafknv.5issuei.top (Referrer) [2.408]
+
+Extracted Malicious Redirection Chain:
+
+garlocksafety.com
+└── glsmafknv.5issuei.top (Referrer) [2.408]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-07-EITest-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.7.102
+
+Redirection Chains:
+
+shoutout.com.br
+└── nulesz.tk (Referrer/HTML) [9.24]
+    └── vnogjnbaf.c0ecompare.top (JavaScript/HTML) [1.062]
+        └── zijkhhcsrd.c0ecompare.top (Referrer) [3.183]
+
+Extracted Malicious Redirection Chain:
+
+shoutout.com.br
+└── nulesz.tk (Referrer/HTML) [9.24]
+    └── vnogjnbaf.c0ecompare.top (JavaScript/HTML) [1.062]
+        └── zijkhhcsrd.c0ecompare.top (Referrer) [3.183]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-07-pseudoDarkleech-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.7.101
+
+Redirection Chains:
+
+shoutout.com.br
+└── ktljl.g3alead.top (Referrer) [1.772]
+7d7dkaulayebb3s3.onion.to
+ktljl.g3alead.top
+
+Extracted Malicious Redirection Chain:
+
+shoutout.com.br
+└── ktljl.g3alead.top (Referrer) [1.772]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-10-pseudoDarkleech-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.10.102
+
+Redirection Chains:
+
+joellipman.com
+└── flmez.f1iguana.top (Referrer) [4.047]
+flmez.f1iguana.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── flmez.f1iguana.top (Referrer) [4.047]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-16-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.163
+
+Redirection Chains:
+
+ladepresion.org
+└── bexytf.ml (Referrer/HTML) [3.732]
+    └── jywqrwwea.ogahza.xyz (HTML/JavaScript) [0.645]
+        └── einkdd.ogahza.xyz (Referrer) [113.374]
+
+Extracted Malicious Redirection Chain:
+
+ladepresion.org
+└── bexytf.ml (Referrer/HTML) [3.732]
+    └── jywqrwwea.ogahza.xyz (HTML/JavaScript) [0.645]
+        └── einkdd.ogahza.xyz (Referrer) [113.374]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-17-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-ex.technor.com.pcap..
+
+Source IP: 10.6.17.102
+
+Redirection Chains:
+
+ex.technor.com
+└── clyburnjtrennten.japaneseknotweedremovals.com (Referrer) [3.023]
+
+Extracted Malicious Redirection Chain:
+
+ex.technor.com
+└── clyburnjtrennten.japaneseknotweedremovals.com (Referrer) [3.023]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-17-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-nuvon.com.pcap..
+
+Source IP: 10.6.17.101
+
+Redirection Chains:
+
+nuvon.com
+└── clyburnjtrennten.japaneseknotweedremovals.com (Referrer) [4.035]
+
+Extracted Malicious Redirection Chain:
+
+nuvon.com
+└── clyburnjtrennten.japaneseknotweedremovals.com (Referrer) [4.035]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-19-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.50
+
+Redirection Chains:
+
+prodefencekravmaga.co.uk
+└── realstatistics.info (Referrer/JavaScript) [6.741]
+    └── magnesia.alliedtherapys.co.uk (JavaScript/iFrame) [110.236]
+
+Extracted Malicious Redirection Chain:
+
+prodefencekravmaga.co.uk
+└── realstatistics.info (Referrer/JavaScript) [6.741]
+    └── magnesia.alliedtherapys.co.uk (JavaScript/iFrame) [110.236]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-20-Afraidgate-Neutrino-EK_sends-CryptXXX_missingC.pcap..
+
+Source IP: 10.6.20.106
+
+Redirection Chains:
+
+galop.serviciosgeologicos.com.ar
+└── montbelv.morgansltd.com (iFrame/JavaScript) [1.04]
+
+Extracted Malicious Redirection Chain:
+
+galop.serviciosgeologicos.com.ar
+└── montbelv.morgansltd.com (iFrame/JavaScript) [1.04]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-20-EITest-Neutrino-EK-sends-CryptXXX_missingC.pcap..
+
+Source IP: 10.6.20.105
+
+Redirection Chains:
+
+mionne.tk
+└── neopyralidarumuncacheable.morgansdecorators.com (JavaScript/HTML) [0.607]
+
+Extracted Malicious Redirection Chain:
+
+mionne.tk
+└── neopyralidarumuncacheable.morgansdecorators.com (JavaScript/HTML) [0.607]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-20-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-contaratosbeach.gr.pcap..
+
+Source IP: 10.6.20.103
+
+Redirection Chains:
+
+contaratosbeach.gr
+└── neopyralidarumuncacheable.morgansdecorators.com (Referrer) [12.182]
+
+Extracted Malicious Redirection Chain:
+
+contaratosbeach.gr
+└── neopyralidarumuncacheable.morgansdecorators.com (Referrer) [12.182]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-20-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-salentoeasy.it.pcap..
+
+Source IP: 10.6.20.102
+
+Redirection Chains:
+
+salentoeasy.it
+└── neopyralidarumuncacheable.morgansdecorators.com (Referrer) [1.659]
+neopyralidarumuncacheable.morgansdecorators.com
+
+Extracted Malicious Redirection Chain:
+
+salentoeasy.it
+└── neopyralidarumuncacheable.morgansdecorators.com (Referrer) [1.659]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-20-pseudoDarkleech-using-hopto.org-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.20.108
+
+Redirection Chains:
+
+biokominek.org
+└── lklhmmtev.hopto.org (Referrer/iFrame) [6.324]
+    └── inknee.morgansruthin.co.uk (Referrer) [1.029]
+
+Extracted Malicious Redirection Chain:
+
+biokominek.org
+└── lklhmmtev.hopto.org (Referrer/iFrame) [6.324]
+    └── inknee.morgansruthin.co.uk (Referrer) [1.029]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-21-Afraidgate-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.21.103
+
+Redirection Chains:
+
+jkanime.net
+└── galop.serviciosgeologicos.com.ar (Referrer/JavaScript) [0.576]
+    └── faro0prokaryo.rubymcguire.co.uk (iFrame/JavaScript) [0.571]
+
+Extracted Malicious Redirection Chain:
+
+jkanime.net
+└── galop.serviciosgeologicos.com.ar (Referrer/JavaScript) [0.576]
+    └── faro0prokaryo.rubymcguire.co.uk (iFrame/JavaScript) [0.571]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-21-EITest-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.6.21.104
+
+Redirection Chains:
+
+ladepresion.org
+└── dertyt.ml (Referrer/HTML) [4.999]
+    └── miserons-burchten.scillcharity.co.uk (JavaScript/HTML) [0.793]
+
+Extracted Malicious Redirection Chain:
+
+ladepresion.org
+└── dertyt.ml (Referrer/HTML) [4.999]
+    └── miserons-burchten.scillcharity.co.uk (JavaScript/HTML) [0.793]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-21-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.200
+
+Redirection Chains:
+
+sorribaspsicologia.com
+└── dod0.tk (Referrer/HTML) [5.852]
+    └── schildhouder.dbcb.uk (HTML/JavaScript) [0.216]
+
+Extracted Malicious Redirection Chain:
+
+sorribaspsicologia.com
+└── dod0.tk (Referrer/HTML) [5.852]
+    └── schildhouder.dbcb.uk (HTML/JavaScript) [0.216]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-21-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-fsm-europe.eu.pcap..
+
+Source IP: 10.6.21.102
+
+Redirection Chains:
+
+fsm-europe.eu
+└── contentview.rtbb.co.uk (Referrer) [1.487]
+
+Extracted Malicious Redirection Chain:
+
+fsm-europe.eu
+└── contentview.rtbb.co.uk (Referrer) [1.487]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-21-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-xenon.com.au.pcap..
+
+Source IP: 10.6.21.101
+
+Redirection Chains:
+
+xenon.com.au
+└── contentview.rtbb.co.uk (Referrer) [5.576]
+
+Extracted Malicious Redirection Chain:
+
+xenon.com.au
+└── contentview.rtbb.co.uk (Referrer) [5.576]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-23-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.216
+
+Redirection Chains:
+
+gtsparts.com
+└── milez.tk (Referrer/HTML) [4.378]
+    └── umfragefsymfunny.bettercarlighting.com (JavaScript/HTML) [0.52]
+
+Extracted Malicious Redirection Chain:
+
+gtsparts.com
+└── milez.tk (Referrer/HTML) [4.378]
+    └── umfragefsymfunny.bettercarlighting.com (JavaScript/HTML) [0.52]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-23-Neutrino-EK-sends-CryptXXX-after-visajourney.com.pcap..
+
+Source IP: 10.6.23.102
+
+Redirection Chains:
+
+visajourney.com
+├── support-a.online (Referrer/JavaScript) [0.834]
+└── umfragefsymfunny.bettercarlighting.com (Referrer) [7.031]
+
+Extracted Malicious Redirection Chain:
+
+visajourney.com
+└── umfragefsymfunny.bettercarlighting.com (Referrer) [7.031]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+visajourney.com
+└── support-a.online (JavaScript/Referrer) [0.834]
+    └── umfragefsymfunny.bettercarlighting.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2016-06-23-realstatistics-gate-Neutrino-EK-sends-Gootkit-after-nebularoficial.com.pcap..
+
+Source IP: 10.6.29.104
+
+Redirection Chains:
+
+nebularoficial.com
+└── realstatistics.info (Referrer/JavaScript) [1.886]
+    └── hoqthplimn.fsblim.xyz (JavaScript/iFrame) [0.057]
+
+Extracted Malicious Redirection Chain:
+
+nebularoficial.com
+└── realstatistics.info (Referrer/JavaScript) [1.886]
+    └── hoqthplimn.fsblim.xyz (JavaScript/iFrame) [0.057]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-24-pseudoDarkleech-Neutrino-EK-after-fiocchidiriso.com.pcap..
+
+Source IP: 10.6.24.104
+
+Redirection Chains:
+
+fiocchidiriso.com
+└── natuurgenot.drauk.com (Referrer) [1.681]
+
+Extracted Malicious Redirection Chain:
+
+fiocchidiriso.com
+└── natuurgenot.drauk.com (Referrer) [1.681]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-24-pseudoDarkleech-Neutrino-EK-after-sunlait.com.pcap..
+
+Source IP: 10.6.24.101
+
+Redirection Chains:
+
+sunlait.com
+└── pozwalajacehevosvoimien.drauk.co.uk (Referrer) [2.376]
+
+Extracted Malicious Redirection Chain:
+
+sunlait.com
+└── pozwalajacehevosvoimien.drauk.co.uk (Referrer) [2.376]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-28-Neutrino-EK-after-mu-media.co.uk.pcap..
+
+Source IP: 10.6.28.104
+
+Redirection Chains:
+
+mu-media.co.uk
+└── realstatistics.info (Referrer/JavaScript) [0.843]
+    └── vxovtphxu.llxfqt.xyz (iFrame/JavaScript) [0.786]
+
+Extracted Malicious Redirection Chain:
+
+mu-media.co.uk
+└── realstatistics.info (Referrer/JavaScript) [0.843]
+    └── vxovtphxu.llxfqt.xyz (iFrame/JavaScript) [0.786]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-28-Neutrino-EK-after-tonyattwood.com.au.pcap..
+
+Source IP: 10.6.28.101
+
+Redirection Chains:
+
+tonyattwood.com.au
+└── realstatistics.info (Referrer/JavaScript) [2.813]
+    └── poyuw.kpigmq.xyz (iFrame/JavaScript) [0.975]
+
+Extracted Malicious Redirection Chain:
+
+tonyattwood.com.au
+└── realstatistics.info (Referrer/JavaScript) [2.813]
+    └── poyuw.kpigmq.xyz (iFrame/JavaScript) [0.975]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-28-pseudoDarkleech-Neutrino-EK-after-airbornehydrography.com.pcap..
+
+Source IP: 10.6.28.102
+
+Redirection Chains:
+
+airbornehydrography.com
+└── condir.lenderconvey.com (Referrer) [2.005]
+
+Extracted Malicious Redirection Chain:
+
+airbornehydrography.com
+└── condir.lenderconvey.com (Referrer) [2.005]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-28-pseudoDarkleech-Neutrino-EK-after-gennaroespositomilano.it.pcap..
+
+Source IP: 10.6.28.103
+
+Redirection Chains:
+
+gennaroespositomilano.it
+└── condir.lenderconvey.com (Referrer) [5.4]
+
+Extracted Malicious Redirection Chain:
+
+gennaroespositomilano.it
+└── condir.lenderconvey.com (Referrer) [5.4]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-29-afraidgate-Neutrino-EK-sends-Locky-after-marketingguerrilla.es.pcap..
+
+Source IP: 10.6.29.103
+
+Redirection Chains:
+
+marketingguerrilla.es
+└── live.keeprunning.com.br (Referrer/JavaScript) [1.118]
+    └── wcmlqfklmn.wwmeaa.xyz (JavaScript/iFrame) [0.471]
+151.236.17.45
+
+Extracted Malicious Redirection Chain:
+
+marketingguerrilla.es
+└── live.keeprunning.com.br (Referrer/JavaScript) [1.118]
+    └── wcmlqfklmn.wwmeaa.xyz (JavaScript/iFrame) [0.471]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-29-Neutrino-EK-sends-GootKit.pcap..
+
+Source IP: 192.168.2.167
+
+Redirection Chains:
+
+capitalautorepairing.com
+└── realstatistics.info (Referrer/JavaScript) [1.869]
+    └── acptuamm.odwczx.xyz (JavaScript/iFrame) [1.217]
+
+Extracted Malicious Redirection Chain:
+
+capitalautorepairing.com
+└── realstatistics.info (Referrer/JavaScript) [1.869]
+    └── acptuamm.odwczx.xyz (JavaScript/iFrame) [1.217]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-Afraidgate-Neutrino-EK-sends-Locky-after-marketingguerilla.es.pcap..
+
+Source IP: 10.6.30.104
+
+Redirection Chains:
+
+marketingguerrilla.es
+└── live.keeprunning.com.br (Referrer/JavaScript) [1.229]
+    └── pcricdl.snhmht.xyz (JavaScript/iFrame) [0.637]
+dcjtojmwdrpjs.ru
+
+Extracted Malicious Redirection Chain:
+
+marketingguerrilla.es
+└── live.keeprunning.com.br (Referrer/JavaScript) [1.229]
+    └── pcricdl.snhmht.xyz (JavaScript/iFrame) [0.637]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-EITest-Neutrino-EK-sends-CryptXXX-after-4county.org.pcap..
+
+Source IP: 10.6.30.109
+
+Redirection Chains:
+
+4county.org
+└── fryex.tk (Referrer/HTML) [6.92]
+    └── bacillisirtisanoutuminen.doctorbargain.co.uk (HTML/JavaScript) [1.609]
+
+Extracted Malicious Redirection Chain:
+
+4county.org
+└── fryex.tk (Referrer/HTML) [6.92]
+    └── bacillisirtisanoutuminen.doctorbargain.co.uk (HTML/JavaScript) [1.609]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-EITest-Neutrino-EK-sends-CryptXXX-after-cliniqueh.dk.pcap..
+
+Source IP: 10.6.30.106
+
+Redirection Chains:
+
+cliniqueh.dk
+└── uucilo.ml (Referrer/HTML) [3.578]
+    └── geschaeftsjahre.doctorbargain.co.uk (JavaScript/HTML) [0.584]
+
+Extracted Malicious Redirection Chain:
+
+cliniqueh.dk
+└── uucilo.ml (Referrer/HTML) [3.578]
+    └── geschaeftsjahre.doctorbargain.co.uk (JavaScript/HTML) [0.584]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-EITest-Neutrino-EK-sends-CryptXXX-after-pekabex.pl.pcap..
+
+Source IP: 10.6.30.103
+
+Redirection Chains:
+
+pekabex.pl
+└── lokffd.tk (Referrer/HTML) [19.971]
+    └── lensvogsulphamino.databasewebeditor.co.uk (HTML/JavaScript) [1.582]
+
+Extracted Malicious Redirection Chain:
+
+pekabex.pl
+└── lokffd.tk (Referrer/HTML) [19.971]
+    └── lensvogsulphamino.databasewebeditor.co.uk (HTML/JavaScript) [1.582]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.200
+
+Redirection Chains:
+
+comoayudaraunalcoholico.org
+└── juioo.ml (Referrer/HTML) [4.184]
+    └── bacillisirtisanoutuminen.doctorbargain.co.uk (HTML/JavaScript) [0.507]
+
+Extracted Malicious Redirection Chain:
+
+comoayudaraunalcoholico.org
+└── juioo.ml (Referrer/HTML) [4.184]
+    └── bacillisirtisanoutuminen.doctorbargain.co.uk (HTML/JavaScript) [0.507]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-alphamedical02.fr.pcap..
+
+Source IP: 10.6.30.102
+
+Redirection Chains:
+
+alphamedical02.fr
+└── lensvogsulphamino.databasewebeditor.co.uk (Referrer/iFrame) [3.262]
+
+Extracted Malicious Redirection Chain:
+
+alphamedical02.fr
+└── lensvogsulphamino.databasewebeditor.co.uk (Referrer/iFrame) [3.262]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-chromechurch.com.pcap..
+
+Source IP: 10.6.30.108
+
+Redirection Chains:
+
+chromechurch.com
+└── geschaeftsjahre.doctorbargain.co.uk (Referrer/iFrame) [17.712]
+
+Extracted Malicious Redirection Chain:
+
+chromechurch.com
+└── geschaeftsjahre.doctorbargain.co.uk (Referrer/iFrame) [17.712]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-psuedoDarkleech-Neutrino-EK-sends-CryptXXX-after-austinbioidenticaldoctor.com.pcap..
+
+Source IP: 10.6.30.105
+
+Redirection Chains:
+
+austinbioidenticaldoctor.com
+└── 1fissure.dinsystems.co.uk (Referrer/iFrame) [16.991]
+
+Extracted Malicious Redirection Chain:
+
+austinbioidenticaldoctor.com
+└── 1fissure.dinsystems.co.uk (Referrer/iFrame) [16.991]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-realstatistics-gate-Neutrino-EK-sends-Gootkit-after-lostreschiles.com.pcap..
+
+Source IP: 10.6.30.107
+
+Redirection Chains:
+
+lostreschiles.com
+└── realstatistics.info (Referrer/JavaScript) [0.813]
+    └── bdhvbntu.uwxdpb.xyz (JavaScript/iFrame) [0.55]
+
+Extracted Malicious Redirection Chain:
+
+lostreschiles.com
+└── realstatistics.info (Referrer/JavaScript) [0.813]
+    └── bdhvbntu.uwxdpb.xyz (JavaScript/iFrame) [0.55]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-06-30-realstatistics-gate-Neutrino-EK-sends-Gootkit-after-tne.mx.pcap..
+
+Source IP: 10.6.30.101
+
+Redirection Chains:
+
+tne.mx
+└── realstatistics.info (Referrer/JavaScript) [0.563]
+    └── iavevp.uvukzf.xyz (JavaScript/iFrame) [1.007]
+
+Extracted Malicious Redirection Chain:
+
+tne.mx
+└── realstatistics.info (Referrer/JavaScript) [0.563]
+    └── iavevp.uvukzf.xyz (JavaScript/iFrame) [1.007]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-01-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-gennaroespositomilano.it.pcap..
+
+Source IP: 10.7.1.101
+
+Redirection Chains:
+
+gennaroespositomilano.it
+└── koushuu.lumenmaster.co.uk (Referrer/iFrame) [8.555]
+
+Extracted Malicious Redirection Chain:
+
+gennaroespositomilano.it
+└── koushuu.lumenmaster.co.uk (Referrer/iFrame) [8.555]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-03-Neutrino-EK-sends-GootKit.pcap..
+
+Source IP: 192.168.2.196
+
+Redirection Chains:
+
+bikeuniverse.net
+└── realstatistics.pro (Referrer/JavaScript) [0.04]
+    └── hizhr.ouovxl.xyz (JavaScript/iFrame) [1.022]
+
+Extracted Malicious Redirection Chain:
+
+bikeuniverse.net
+└── realstatistics.pro (Referrer/JavaScript) [0.04]
+    └── hizhr.ouovxl.xyz (JavaScript/iFrame) [1.022]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-06-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.184
+
+Redirection Chains:
+
+musicmix.co
+└── polgty.tk (Referrer/HTML) [0.186]
+    └── gortighe-asiakaskyselyt.discountaerials.co.uk (HTML/JavaScript) [0.61]
+
+Extracted Malicious Redirection Chain:
+
+musicmix.co
+└── polgty.tk (Referrer/HTML) [0.186]
+    └── gortighe-asiakaskyselyt.discountaerials.co.uk (HTML/JavaScript) [0.61]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-06-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.7.6.102
+
+Redirection Chains:
+
+chromechurch.com
+└── hise.emergencyserviceslodge.co.uk (Referrer/iFrame) [4.507]
+
+Extracted Malicious Redirection Chain:
+
+chromechurch.com
+└── hise.emergencyserviceslodge.co.uk (Referrer/iFrame) [4.507]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-EITest-Neutrino-EK-after-musicmix.co.pcap..
+
+Source IP: 10.7.7.107
+
+Redirection Chains:
+
+musicmix.co
+└── freedtd.ml (Referrer/HTML) [20.936]
+    └── komplementaeres.tdsk.uk (JavaScript/HTML) [1.571]
+
+Extracted Malicious Redirection Chain:
+
+musicmix.co
+└── freedtd.ml (Referrer/HTML) [20.936]
+    └── komplementaeres.tdsk.uk (JavaScript/HTML) [1.571]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.156
+
+Redirection Chains:
+
+mitsucad.com
+└── jikloss.tk (Referrer/HTML) [3.592]
+    └── tuntemisesta-unchildlike.highrisefire.uk (HTML/JavaScript) [0.696]
+
+Extracted Malicious Redirection Chain:
+
+mitsucad.com
+└── jikloss.tk (Referrer/HTML) [3.592]
+    └── tuntemisesta-unchildlike.highrisefire.uk (HTML/JavaScript) [0.696]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-Neutrino-EK-sends-pizzacrypts.pcap..
+
+Source IP: 10.7.7.101
+
+Redirection Chains:
+
+shoal.grahanusareadymix.com
+└── xczc.b2gmffy.eu (Referrer) [0.579]
+    └── j63d.lbhlp52.top (Referrer) [0.622]
+avtoship.com
+
+Extracted Malicious Redirection Chain:
+
+shoal.grahanusareadymix.com
+└── xczc.b2gmffy.eu (Referrer) [0.579]
+    └── j63d.lbhlp52.top (Referrer) [0.622]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-pseudoDarkleech-Neutrino-EK-after-drupatis.com.pcap..
+
+Source IP: 10.7.7.104
+
+Redirection Chains:
+
+drupatis.com
+└── tilflytt.ramsgatebeachbar.uk (Referrer/iFrame) [7.064]
+
+Extracted Malicious Redirection Chain:
+
+drupatis.com
+└── tilflytt.ramsgatebeachbar.uk (Referrer/iFrame) [7.064]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-pseudoDarkleech-Neutrino-EK-after-gennaroespositomilano.it.pcap..
+
+Source IP: 10.7.7.103
+
+Redirection Chains:
+
+gennaroespositomilano.it
+└── tilflytt.ramsgatebeachbar.uk (Referrer/iFrame) [6.246]
+
+Extracted Malicious Redirection Chain:
+
+gennaroespositomilano.it
+└── tilflytt.ramsgatebeachbar.uk (Referrer/iFrame) [6.246]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-pseudoDarkleech-Neutrino-EK-after-lawrenceparkah.com.pcap..
+
+Source IP: 10.7.7.105
+
+Redirection Chains:
+
+lawrenceparkah.com
+└── itisestfortlora.net-gen.uk (Referrer) [5.741]
+
+Extracted Malicious Redirection Chain:
+
+lawrenceparkah.com
+└── itisestfortlora.net-gen.uk (Referrer) [5.741]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-07-pseudoDarkleech-Neutrino-EK-after-toronto-annex.com.pcap..
+
+Source IP: 10.7.7.106
+
+Redirection Chains:
+
+toronto-annex.com
+└── oiloftro-admirantisque.net-gen.uk (Referrer/iFrame) [4.939]
+
+Extracted Malicious Redirection Chain:
+
+toronto-annex.com
+└── oiloftro-admirantisque.net-gen.uk (Referrer/iFrame) [4.939]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-08-EITest-Neutrino-EK-sends-CryptXXX-after-musicmix.co.pcap..
+
+Source IP: 10.7.8.104
+
+Redirection Chains:
+
+musicmix.co
+└── fin7.tk (Referrer/HTML) [10.179]
+    └── primordia.home-office-desk-chair.co.uk (JavaScript/HTML) [6.874]
+
+Extracted Malicious Redirection Chain:
+
+musicmix.co
+└── fin7.tk (Referrer/HTML) [10.179]
+    └── primordia.home-office-desk-chair.co.uk (JavaScript/HTML) [6.874]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-08-EITest-Neutrino-EK-sends-CryptXXX-Ransomware2.pcap..
+
+Source IP: 192.168.2.55
+
+Redirection Chains:
+
+gymvibe.net
+└── bionne.tk (Referrer/HTML) [4.484]
+    └── dunwoody.southwest-furniture.co.uk (JavaScript/HTML) [0.501]
+
+Extracted Malicious Redirection Chain:
+
+gymvibe.net
+└── bionne.tk (Referrer/HTML) [4.484]
+    └── dunwoody.southwest-furniture.co.uk (JavaScript/HTML) [0.501]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-08-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.1.3
+
+Redirection Chains:
+
+mitsucad.com
+└── niiugr.ml (Referrer/HTML) [2.837]
+    └── adferebaturquesterblichkeitsziffern.tdsk.uk (HTML/JavaScript) [0.43]
+
+Extracted Malicious Redirection Chain:
+
+mitsucad.com
+└── niiugr.ml (Referrer/HTML) [2.837]
+    └── adferebaturquesterblichkeitsziffern.tdsk.uk (HTML/JavaScript) [0.43]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-08-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-eielectronics.com.pcap..
+
+Source IP: 10.7.8.101
+
+Redirection Chains:
+
+eielectronics.com
+└── tnessaarbeitsjubilaeum.home-office-desk-chair.co.uk (Referrer/iFrame) [2.248]
+
+Extracted Malicious Redirection Chain:
+
+eielectronics.com
+└── tnessaarbeitsjubilaeum.home-office-desk-chair.co.uk (Referrer/iFrame) [2.248]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-08-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-toronto-annex.com.pcap..
+
+Source IP: 10.7.8.105
+
+Redirection Chains:
+
+toronto-annex.com
+└── zugeschldorstyd.lightingandmirrors.co.uk (Referrer/iFrame) [3.908]
+
+Extracted Malicious Redirection Chain:
+
+toronto-annex.com
+└── zugeschldorstyd.lightingandmirrors.co.uk (Referrer/iFrame) [3.908]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-11-Afraidgate-Neutrino-EK-sends-CryptXXX_missingC.pcap..
+
+Source IP: 10.7.11.103
+
+Redirection Chains:
+
+today.seguroslosmedanos.com.ve
+└── vastaustensaberc.thebathstation.co.uk (JavaScript/iFrame) [0.81]
+
+Extracted Malicious Redirection Chain:
+
+today.seguroslosmedanos.com.ve
+└── vastaustensaberc.thebathstation.co.uk (JavaScript/iFrame) [0.81]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-11-EITest-Neutrino-EK-sends-Hancitor.pcap..
+
+Source IP: 192.168.2.50
+
+Redirection Chains:
+
+mitsucad.com
+└── hsiolex.tk (Referrer/HTML) [0.103]
+    └── mirfn.vp2izfj.top (HTML/JavaScript) [0.57]
+forwitmeand.com
+└── setgroups.ir (Unknown) [1.203]
+api.ipify.org
+
+Extracted Malicious Redirection Chain:
+
+mitsucad.com
+└── hsiolex.tk (Referrer/HTML) [0.103]
+    └── mirfn.vp2izfj.top (HTML/JavaScript) [0.57]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-11-Neutrino-EK-sends-Gootkit_missingC.pcap..
+
+Source IP: 10.7.11.102
+
+Redirection Chains:
+
+107.155.99.143
+└── xirxywgoe.lautumnwhite.top (Referrer/iFrame) [1.763]
+
+Extracted Malicious Redirection Chain:
+
+107.155.99.143
+└── xirxywgoe.lautumnwhite.top (Referrer/iFrame) [1.763]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-12-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-thewinegroup.com.pcap..
+
+Source IP: 192.168.133.131
+
+Redirection Chains:
+
+thewinegroup.com
+└── reelisesfreudiges.themakersmarkets.com (Referrer/iFrame) [3.673]
+
+Extracted Malicious Redirection Chain:
+
+thewinegroup.com
+└── reelisesfreudiges.themakersmarkets.com (Referrer/iFrame) [3.673]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-13-EITest-Neutrino-EK-after-scarsboroughcricket.ca.pcap..
+
+Source IP: 10.7.13.103
+
+Redirection Chains:
+
+scarboroughcricket.ca
+└── hemmox.xyz (Referrer/HTML) [2.496]
+    └── tuberculiser-univest.smj.me (HTML/JavaScript) [0.344]
+
+Extracted Malicious Redirection Chain:
+
+scarboroughcricket.ca
+└── hemmox.xyz (Referrer/HTML) [2.496]
+    └── tuberculiser-univest.smj.me (HTML/JavaScript) [0.344]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-13-other-Neutrino-EK-sends-Bandarchor-first-run_missingC.pcap..
+
+Source IP: 10.7.13.104
+
+Redirection Chains:
+
+atasata.com
+crops.dunight.eu
+└── h9ib.s1wit54.top (Referrer) [1.426]
+
+Extracted Malicious Redirection Chain:
+
+crops.dunight.eu
+└── h9ib.s1wit54.top (Referrer) [1.426]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-13-other-Neutrino-EK-sends-Bandarchor-second-run_missingC.pcap..
+
+Source IP: 10.7.13.105
+
+Redirection Chains:
+
+atasata.com
+higher.dwebsi.tk
+└── h9ib.s1wit54.top (Referrer) [0.404]
+
+Extracted Malicious Redirection Chain:
+
+higher.dwebsi.tk
+└── h9ib.s1wit54.top (Referrer) [0.404]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-13-pseudoDarkleech-Neutrino-EK-after-thewinegroup.com-first-run.pcap..
+
+Source IP: 10.7.13.101
+
+Redirection Chains:
+
+thewinegroup.com
+└── kiusanneesta.oyn-x.com (Referrer/iFrame) [2.445]
+
+Extracted Malicious Redirection Chain:
+
+thewinegroup.com
+└── kiusanneesta.oyn-x.com (Referrer/iFrame) [2.445]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-13-pseudoDarkleech-Neutrino-EK-after-thewinegroup.com-second-run.pcap..
+
+Source IP: 10.7.13.102
+
+Redirection Chains:
+
+thewinegroup.com
+└── kiusanneesta.oyn-x.com (Referrer/iFrame) [2.784]
+
+Extracted Malicious Redirection Chain:
+
+thewinegroup.com
+└── kiusanneesta.oyn-x.com (Referrer/iFrame) [2.784]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-14-Afraidgate-Neutrino-EK-sends-Locky-ransomware-example-1-of-4_missingC.pcap..
+
+Source IP: 10.7.14.102
+
+Redirection Chains:
+
+77.222.54.202
+zine.polatoglumimarlik.com
+└── avukytj.oautumnyellow.top (iFrame/JavaScript) [2.874]
+
+Extracted Malicious Redirection Chain:
+
+zine.polatoglumimarlik.com
+└── avukytj.oautumnyellow.top (iFrame/JavaScript) [2.874]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-14-Afraidgate-Neutrino-EK-sends-Locky-ransomware-example-2-of-4.pcap..
+
+Source IP: 10.7.14.103
+
+Redirection Chains:
+
+siber.activebeliever.com
+└── yegoxmvzpx.bsuperpink.top (JavaScript/iFrame) [0.747]
+    └── bkubf.bsuperpink.top (Referrer) [3.587]
+5.187.0.137
+
+Extracted Malicious Redirection Chain:
+
+siber.activebeliever.com
+└── yegoxmvzpx.bsuperpink.top (JavaScript/iFrame) [0.747]
+    └── bkubf.bsuperpink.top (Referrer) [3.587]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-14-Afraidgate-Neutrino-EK-sends-Locky-ransomware-example-3-of-4_missingC.pcap..
+
+Source IP: 10.7.14.104
+
+Redirection Chains:
+
+185.5.250.135
+zine.polatoglumimarlik.com
+└── azbepfasz.yintored.top (iFrame/JavaScript) [0.639]
+
+Extracted Malicious Redirection Chain:
+
+zine.polatoglumimarlik.com
+└── azbepfasz.yintored.top (iFrame/JavaScript) [0.639]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-14-Afraidgate-Neutrino-EK-sends-Locky-ransomware-example-4-of-4_missingC.pcap..
+
+Source IP: 10.7.14.105
+
+Redirection Chains:
+
+185.118.66.83
+zine.polatoglumimarlik.com
+└── mxoug.yintored.top (JavaScript/iFrame) [1.872]
+
+Extracted Malicious Redirection Chain:
+
+zine.polatoglumimarlik.com
+└── mxoug.yintored.top (JavaScript/iFrame) [1.872]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-14-other-Neutrino-EK-sends-Bandarchor-ransomware_missingC.pcap..
+
+Source IP: 10.7.14.101
+
+Redirection Chains:
+
+withloveforyou.com
+personal.editura-amsibiu.ro
+└── yqhf8.wuwfti.top (Referrer) [0.472]
+
+Extracted Malicious Redirection Chain:
+
+personal.editura-amsibiu.ro
+└── yqhf8.wuwfti.top (Referrer) [0.472]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-15-other-Neutrino-EK-sends-Gootkit.pcap..
+
+Source IP: 10.7.15.102
+
+Redirection Chains:
+
+forceflow13.xyz
+└── flow2force1.xyz (Referrer/iFrame) [2.633]
+    └── easchvcsv.jintored.top (Referrer/iFrame) [1.291]
+
+Extracted Malicious Redirection Chain:
+
+forceflow13.xyz
+└── flow2force1.xyz (Referrer/iFrame) [2.633]
+    └── easchvcsv.jintored.top (Referrer/iFrame) [1.291]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-15-pseudoDarkleech-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.7.15.101
+
+Redirection Chains:
+
+encouragingbibleversesabout.com
+└── bitfields.aboutflights.co.uk (Referrer) [4.068]
+
+Extracted Malicious Redirection Chain:
+
+encouragingbibleversesabout.com
+└── bitfields.aboutflights.co.uk (Referrer) [4.068]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-16-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.169
+
+Redirection Chains:
+
+unlit.co.uk
+└── antimalthusiansternmost.metaldehyde.co.uk (Referrer/iFrame) [3.622]
+
+Extracted Malicious Redirection Chain:
+
+unlit.co.uk
+└── antimalthusiansternmost.metaldehyde.co.uk (Referrer/iFrame) [3.622]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-18-other-Neutrino-EK-sends-Bandarchor-ransomware_missingC.pcap..
+
+Source IP: 10.7.18.102
+
+Redirection Chains:
+
+withloveforyou.com
+produla.czatgg.pl
+└── k7yk9.zuw7pu6tn.top (Referrer) [1.522]
+
+Extracted Malicious Redirection Chain:
+
+produla.czatgg.pl
+└── k7yk9.zuw7pu6tn.top (Referrer) [1.522]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-18-pseudoDarkleech-Neutrino-EK-sends-CryptXXX.pcap..
+
+Source IP: 10.7.18.101
+
+Redirection Chains:
+
+riverhotel-vp.com
+└── infanticidiorenuntiatum.colinsinclairmcdermott.com (Referrer/iFrame) [1.404]
+
+Extracted Malicious Redirection Chain:
+
+riverhotel-vp.com
+└── infanticidiorenuntiatum.colinsinclairmcdermott.com (Referrer/iFrame) [1.404]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-19-Afraidgate-Neutrino-EK-sends-Locky-ransomware.pcap..
+
+Source IP: 10.7.19.101
+
+Redirection Chains:
+
+marketingguerrilla.es
+└── nepal.laderatutors.com (Referrer/JavaScript) [1.418]
+    └── iynwzttqd.hautumngreen.top (iFrame/JavaScript) [1.738]
+77.222.54.202
+
+Extracted Malicious Redirection Chain:
+
+marketingguerrilla.es
+└── nepal.laderatutors.com (Referrer/JavaScript) [1.418]
+    └── iynwzttqd.hautumngreen.top (iFrame/JavaScript) [1.738]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-19-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.2.40
+
+Redirection Chains:
+
+comoayudaraunalcoholico.org
+└── sopxx.xyz (Referrer/HTML) [2.497]
+    └── accusabletrescher.langleytennis.com (JavaScript/HTML) [0.507]
+
+Extracted Malicious Redirection Chain:
+
+comoayudaraunalcoholico.org
+└── sopxx.xyz (Referrer/HTML) [2.497]
+    └── accusabletrescher.langleytennis.com (JavaScript/HTML) [0.507]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-19-EITest-Neutrino-EK-sends-CryptXXX-Ransomware2.pcap..
+
+Source IP: 10.7.19.102
+
+Redirection Chains:
+
+gymvibe.net
+└── anfilc.xyz (Referrer/HTML) [5.48]
+    └── mietteit.cambs-sep.co.uk (JavaScript/HTML) [1.357]
+
+Extracted Malicious Redirection Chain:
+
+gymvibe.net
+└── anfilc.xyz (Referrer/HTML) [5.48]
+    └── mietteit.cambs-sep.co.uk (JavaScript/HTML) [1.357]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-19-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-ransomware.pcap..
+
+Source IP: 10.7.19.103
+
+Redirection Chains:
+
+naprawaokienpcv.pl
+└── simmfixhuddling.clubserve.co.uk (Referrer/iFrame) [2.486]
+
+Extracted Malicious Redirection Chain:
+
+naprawaokienpcv.pl
+└── simmfixhuddling.clubserve.co.uk (Referrer/iFrame) [2.486]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-20-EITest-Neutrino-EK-after-classical959.com.pcap..
+
+Source IP: 10.7.20.101
+
+Redirection Chains:
+
+classical959.com
+└── rsupcdn.xyz (Referrer) [2.948]
+    └── jh6nov.r78s2ed8.top (JavaScript/HTML) [0.479]
+constitution.org
+
+Extracted Malicious Redirection Chain:
+
+classical959.com
+└── rsupcdn.xyz (Referrer) [2.948]
+    └── jh6nov.r78s2ed8.top (JavaScript/HTML) [0.479]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-20-other-Neutrino-EK-sends-Bandarchor-ransomware_missingC.pcap..
+
+Source IP: 10.7.20.102
+
+Redirection Chains:
+
+ahurets.com
+spread.diadanoivabh.com.br
+└── jh6nov.r78s2ed8.top (Referrer) [0.382]
+
+Extracted Malicious Redirection Chain:
+
+spread.diadanoivabh.com.br
+└── jh6nov.r78s2ed8.top (Referrer) [0.382]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-20-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-ransomware.pcap..
+
+Source IP: 192.168.55.140
+
+Redirection Chains:
+
+naprawaokienpcv.pl
+└── navolgergatewaysip.dspmsp.com (Referrer/iFrame) [1.331]
+
+Extracted Malicious Redirection Chain:
+
+naprawaokienpcv.pl
+└── navolgergatewaysip.dspmsp.com (Referrer/iFrame) [1.331]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-EITest-Neutrino-EK-sends-Bandarchor-after-chitralekha.com.pcap..
+
+Source IP: 10.7.21.105
+
+Redirection Chains:
+
+chitralekha.com
+└── fehehub.xyz (Referrer/HTML) [17.342]
+    └── wkq0hw.sbvn1bhg.top (JavaScript/HTML) [1.497]
+
+Extracted Malicious Redirection Chain:
+
+chitralekha.com
+└── fehehub.xyz (Referrer/HTML) [17.342]
+    └── wkq0hw.sbvn1bhg.top (JavaScript/HTML) [1.497]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-EITest-Neutrino-EK-sends-Ursnif-run-1.pcap..
+
+Source IP: 192.168.2.36
+
+Redirection Chains:
+
+htvdeijsberg.nl
+└── shkter.xyz (Referrer/HTML) [3.77]
+    └── kyy1vt.acnp65o2.top (JavaScript/HTML) [0.378]
+doesnetworkthe.ru
+holydoesthegoverned.ru
+changebutresthaveyou.ru
+gnu.org
+thlicensecodelfcharge.ru
+foundationpropagation.ru
+
+Extracted Malicious Redirection Chain:
+
+htvdeijsberg.nl
+└── shkter.xyz (Referrer/HTML) [3.77]
+    └── kyy1vt.acnp65o2.top (JavaScript/HTML) [0.378]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-EITest-Neutrino-EK-sends-Ursnif-run-2.pcap..
+
+Source IP: 192.168.2.94
+
+Redirection Chains:
+
+htvdeijsberg.nl
+└── vredtyh.ml (Referrer/HTML) [4.79]
+    └── husqob.hb95cyjy.top (HTML/JavaScript) [0.538]
+constitution.org
+
+Extracted Malicious Redirection Chain:
+
+htvdeijsberg.nl
+└── vredtyh.ml (Referrer/HTML) [4.79]
+    └── husqob.hb95cyjy.top (HTML/JavaScript) [0.538]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-Neutrino-EK.pcap..
+
+Source IP: 192.168.2.190
+
+Redirection Chains:
+
+test-tantra.com
+└── yvatahil.xyz (Referrer/HTML) [9.349]
+    └── sikyttneet.intoaddedtime.org.uk (HTML/JavaScript) [1.176]
+yvatahil.xyz
+└── sikyttneet.intoaddedtime.org.uk (HTML/JavaScript) [1.176]
+
+Extracted Malicious Redirection Chain:
+
+test-tantra.com
+└── yvatahil.xyz (Referrer/HTML) [9.349]
+    └── sikyttneet.intoaddedtime.org.uk (HTML/JavaScript) [1.176]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-other-Neutrino-EK-sends-Bandarchor-first-run_missingC.pcap..
+
+Source IP: 10.7.21.103
+
+Redirection Chains:
+
+molla.gato1000.cl
+└── pbuj.xnmbcab.top (Referrer) [0.673]
+
+Extracted Malicious Redirection Chain:
+
+molla.gato1000.cl
+└── pbuj.xnmbcab.top (Referrer) [0.673]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-other-Neutrino-EK-sends-Bandarchor-second-run_missingC.pcap..
+
+Source IP: 10.7.21.104
+
+Redirection Chains:
+
+ahurets.com
+hmora.fred-build.tk
+└── qe4dwe4f.yw4u094.top (Referrer) [0.698]
+
+Extracted Malicious Redirection Chain:
+
+hmora.fred-build.tk
+└── qe4dwe4f.yw4u094.top (Referrer) [0.698]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-opencv.org-first-run.pcap..
+
+Source IP: 10.7.21.101
+
+Redirection Chains:
+
+opencv.org
+└── reducingwheels.intoaddedtime.co.uk (Referrer/iFrame) [3.762]
+
+Extracted Malicious Redirection Chain:
+
+opencv.org
+└── reducingwheels.intoaddedtime.co.uk (Referrer/iFrame) [3.762]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-21-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-opencv.org-second-run.pcap..
+
+Source IP: 10.7.21.102
+
+Redirection Chains:
+
+opencv.org
+└── 0money.gbtenniscoach.org.uk (Referrer/iFrame) [3.652]
+
+Extracted Malicious Redirection Chain:
+
+opencv.org
+└── 0money.gbtenniscoach.org.uk (Referrer/iFrame) [3.652]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-22-Afraidgate-Neutrino-EK-sends-Locky-first-run_missingC.pcap..
+
+Source IP: 10.7.22.108
+
+Redirection Chains:
+
+185.117.153.176
+leon.stmaryschooldmt.com
+└── hxmst.rautumngreen.top (iFrame/JavaScript) [0.819]
+
+Extracted Malicious Redirection Chain:
+
+leon.stmaryschooldmt.com
+└── hxmst.rautumngreen.top (iFrame/JavaScript) [0.819]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-22-Afraidgate-Neutrino-EK-sends-Locky-second-run.pcap..
+
+Source IP: 10.7.22.109
+
+Redirection Chains:
+
+marketingguerrilla.es
+└── start.puterasyawal.com (Referrer/JavaScript) [4.778]
+    └── erfxsnvj.mafterred.top (iFrame/JavaScript) [0.71]
+185.117.153.176
+
+Extracted Malicious Redirection Chain:
+
+marketingguerrilla.es
+└── start.puterasyawal.com (Referrer/JavaScript) [4.778]
+    └── erfxsnvj.mafterred.top (iFrame/JavaScript) [0.71]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-22-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-ransomware.pcap..
+
+Source IP: 10.7.22.110
+
+Redirection Chains:
+
+chromechurch.com
+└── nagatoyu-cacamo.healthbusinessmatters.com (Referrer/iFrame) [3.726]
+
+Extracted Malicious Redirection Chain:
+
+chromechurch.com
+└── nagatoyu-cacamo.healthbusinessmatters.com (Referrer/iFrame) [3.726]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-24-EITest-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.4.175
+
+Redirection Chains:
+
+test-tantra.com
+└── hadohope.xyz (Referrer/HTML) [1.906]
+    └── kansallisvaltion.ukmicrosuction.com (HTML/JavaScript) [0.564]
+
+Extracted Malicious Redirection Chain:
+
+test-tantra.com
+└── hadohope.xyz (Referrer/HTML) [1.906]
+    └── kansallisvaltion.ukmicrosuction.com (HTML/JavaScript) [0.564]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-25-EITest-Neutrino-EK-sends-CryptXXX-after-dicodesrimes.com.pcap..
+
+Source IP: 10.7.25.103
+
+Redirection Chains:
+
+dicodesrimes.com
+└── ibyfidy.xyz (Referrer/HTML) [5.421]
+    └── monandria-kwigillingok.southernneckpain.co.uk (JavaScript/HTML) [0.4]
+
+Extracted Malicious Redirection Chain:
+
+dicodesrimes.com
+└── ibyfidy.xyz (Referrer/HTML) [5.421]
+    └── monandria-kwigillingok.southernneckpain.co.uk (JavaScript/HTML) [0.4]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-25-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-depressivedisorder.xyz.pcap..
+
+Source IP: 10.7.25.101
+
+Redirection Chains:
+
+depressivedisorder.xyz
+└── balilaisessabrutigam.southernmicrosuction.co.uk (Referrer/iFrame) [4.005]
+
+Extracted Malicious Redirection Chain:
+
+depressivedisorder.xyz
+└── balilaisessabrutigam.southernmicrosuction.co.uk (Referrer/iFrame) [4.005]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-25-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-after-sinyimusic.com.pcap..
+
+Source IP: 10.7.25.102
+
+Redirection Chains:
+
+sinyimusic.com
+└── monandria-kwigillingok.southernneckpain.co.uk (Referrer/iFrame) [2.533]
+
+Extracted Malicious Redirection Chain:
+
+sinyimusic.com
+└── monandria-kwigillingok.southernneckpain.co.uk (Referrer/iFrame) [2.533]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-25-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.4.29
+
+Redirection Chains:
+
+cochescupido.com
+└── serafino-monocarbonate.givingtuesday.org.uk (Referrer/iFrame) [23.024]
+
+Extracted Malicious Redirection Chain:
+
+cochescupido.com
+└── serafino-monocarbonate.givingtuesday.org.uk (Referrer/iFrame) [23.024]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-26-Afraidgate-Neutrino-EK-sends-Locky-first-run_missingC.pcap..
+
+Source IP: 10.7.26.103
+
+Redirection Chains:
+
+5.9.253.173
+motor.atchisoncountyrecorder.com
+└── rklfdprel.blueelizabeth.top (JavaScript/iFrame) [0.918]
+
+Extracted Malicious Redirection Chain:
+
+motor.atchisoncountyrecorder.com
+└── rklfdprel.blueelizabeth.top (JavaScript/iFrame) [0.918]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-26-Afraidgate-Neutrino-EK-sends-Locky-second-run_missingC.pcap..
+
+Source IP: 10.7.26.104
+
+Redirection Chains:
+
+5.9.253.173
+oskol.migustapizza.com.br
+└── bkhrdfngwg.blueelizabeth.top (JavaScript/iFrame) [1.04]
+
+Extracted Malicious Redirection Chain:
+
+oskol.migustapizza.com.br
+└── bkhrdfngwg.blueelizabeth.top (JavaScript/iFrame) [1.04]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-26-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-first-run.pcap..
+
+Source IP: 10.7.26.101
+
+Redirection Chains:
+
+calentejo.com
+└── focarechtfertigt.painpartners.co.uk (Referrer/iFrame) [3.378]
+
+Extracted Malicious Redirection Chain:
+
+calentejo.com
+└── focarechtfertigt.painpartners.co.uk (Referrer/iFrame) [3.378]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-26-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-second-run.pcap..
+
+Source IP: 10.7.26.102
+
+Redirection Chains:
+
+calentejo.com
+└── antidateraisbuchwertes.painjourney.co.uk (Referrer/iFrame) [2.249]
+
+Extracted Malicious Redirection Chain:
+
+calentejo.com
+└── antidateraisbuchwertes.painjourney.co.uk (Referrer/iFrame) [2.249]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-26-pseudoDarkleech-Neutrino-EK-sends-CryptXXX-Ransomware.pcap..
+
+Source IP: 192.168.4.86
+
+Redirection Chains:
+
+aiir.pl
+└── ssucheng.homes4dogs.co.uk (Referrer/iFrame) [1.845]
+
+Extracted Malicious Redirection Chain:
+
+aiir.pl
+└── ssucheng.homes4dogs.co.uk (Referrer/iFrame) [1.845]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-27-Afraidgate-Neutrino-EK-sends-Locky-first-run_missingC.pcap..
+
+Source IP: 10.7.27.101
+
+Redirection Chains:
+
+5.9.253.173
+snow.blautechnology.com
+└── drhffhveq.greenjessica.top (iFrame/JavaScript) [0.577]
+
+Extracted Malicious Redirection Chain:
+
+snow.blautechnology.com
+└── drhffhveq.greenjessica.top (iFrame/JavaScript) [0.577]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-27-Afraidgate-Neutrino-EK-sends-Locky-second-run_missingC.pcap..
+
+Source IP: 10.7.27.102
+
+Redirection Chains:
+
+5.9.253.173
+motor.atchisoncountyrecorder.com
+└── clfdkbl.bluechristian.top (JavaScript/iFrame) [1.056]
+
+Extracted Malicious Redirection Chain:
+
+motor.atchisoncountyrecorder.com
+└── clfdkbl.bluechristian.top (JavaScript/iFrame) [1.056]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-28-EITest-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.169
+
+Redirection Chains:
+
+ladepresion.org
+└── ytirihy.xyz (Referrer/HTML) [7.373]
+    └── colit-zerknitterteste.st-marg-hospice-extranet.org (JavaScript/HTML) [0.432]
+
+Extracted Malicious Redirection Chain:
+
+ladepresion.org
+└── ytirihy.xyz (Referrer/HTML) [7.373]
+    └── colit-zerknitterteste.st-marg-hospice-extranet.org (JavaScript/HTML) [0.432]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-28-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-orthopet.net-first-run.pcap..
+
+Source IP: 10.7.28.101
+
+Redirection Chains:
+
+orthopet.net
+└── waterwijdinghexadentate.cladyoudid.co.uk (Referrer/iFrame) [1.215]
+
+Extracted Malicious Redirection Chain:
+
+orthopet.net
+└── waterwijdinghexadentate.cladyoudid.co.uk (Referrer/iFrame) [1.215]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-28-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-orthopet.net-second-run.pcap..
+
+Source IP: 10.7.28.102
+
+Redirection Chains:
+
+orthopet.net
+└── breighnertransvolga.procladpanels.co.uk (Referrer/iFrame) [1.256]
+
+Extracted Malicious Redirection Chain:
+
+orthopet.net
+└── breighnertransvolga.procladpanels.co.uk (Referrer/iFrame) [1.256]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-28-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-orthopet.net-third-run.pcap..
+
+Source IP: 10.7.28.103
+
+Redirection Chains:
+
+orthopet.net
+└── xtresourcelist-hdts.magnagen.co.uk (Referrer/iFrame) [1.378]
+
+Extracted Malicious Redirection Chain:
+
+orthopet.net
+└── xtresourcelist-hdts.magnagen.co.uk (Referrer/iFrame) [1.378]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-29-EITest-Neutrino-EK-sends-CrypMIC-after-callkarl.ca.pcap..
+
+Source IP: 10.7.29.107
+
+Redirection Chains:
+
+callkarl.ca
+└── otosufo.xyz (Referrer/HTML) [6.038]
+    └── negativistiesohukainen.airconditioning-regas.co.uk (JavaScript/HTML) [0.584]
+
+Extracted Malicious Redirection Chain:
+
+callkarl.ca
+└── otosufo.xyz (Referrer/HTML) [6.038]
+    └── negativistiesohukainen.airconditioning-regas.co.uk (JavaScript/HTML) [0.584]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-29-EITest-Neutrino-EK-sends-CrypMIC-after-carolinagodiva.org.pcap..
+
+Source IP: 10.7.29.106
+
+Redirection Chains:
+
+carolinagodiva.org
+└── acygi.xyz (Referrer/HTML) [8.138]
+    └── negativistiesohukainen.airconditioning-regas.co.uk (HTML/JavaScript) [0.505]
+
+Extracted Malicious Redirection Chain:
+
+carolinagodiva.org
+└── acygi.xyz (Referrer/HTML) [8.138]
+    └── negativistiesohukainen.airconditioning-regas.co.uk (HTML/JavaScript) [0.505]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-29-EITest-Neutrino-EK-sends-CrypMIC-after-nurseryrhymedaycare.ca.pcap..
+
+Source IP: 10.7.29.102
+
+Redirection Chains:
+
+nurseryrhymesdaycare.ca
+└── tykutu.xyz (Referrer/HTML) [3.131]
+    └── entomologicaloperatorene.pr9.uk (HTML/JavaScript) [0.413]
+
+Extracted Malicious Redirection Chain:
+
+nurseryrhymesdaycare.ca
+└── tykutu.xyz (Referrer/HTML) [3.131]
+    └── entomologicaloperatorene.pr9.uk (HTML/JavaScript) [0.413]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-29-EITest-Neutrino-EK-sends-CrypMIC-after-redwood-inc.com.pcap..
+
+Source IP: 10.7.29.103
+
+Redirection Chains:
+
+redwood-inc.com
+└── ypabodid.xyz (Referrer/HTML) [6.384]
+    └── ertragswhuhuista.suffolkdemolition.co.uk (HTML/JavaScript) [0.505]
+
+Extracted Malicious Redirection Chain:
+
+redwood-inc.com
+└── ypabodid.xyz (Referrer/HTML) [6.384]
+    └── ertragswhuhuista.suffolkdemolition.co.uk (HTML/JavaScript) [0.505]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-31-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware-Site-1.pcap..
+
+Source IP: 192.168.4.187
+
+Redirection Chains:
+
+serie-tv.org
+└── overexci-morphogenic.car-air-conditioning.org.uk (Referrer/iFrame) [3.504]
+
+Extracted Malicious Redirection Chain:
+
+serie-tv.org
+└── overexci-morphogenic.car-air-conditioning.org.uk (Referrer/iFrame) [3.504]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-31-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware-Site-2.pcap..
+
+Source IP: 192.168.4.192
+
+Redirection Chains:
+
+ehoff.ca
+└── insultadorrgb12955.ametwist.com (Referrer/iFrame) [2.733]
+
+Extracted Malicious Redirection Chain:
+
+ehoff.ca
+└── insultadorrgb12955.ametwist.com (Referrer/iFrame) [2.733]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-07-31-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware-Site-3.pcap..
+
+Source IP: 192.168.4.196
+
+Redirection Chains:
+
+javmania.club
+└── aviatricehyllytyksen.tvbedsdirect.co.uk (Referrer/iFrame) [3.226]
+
+Extracted Malicious Redirection Chain:
+
+javmania.club
+└── aviatricehyllytyksen.tvbedsdirect.co.uk (Referrer/iFrame) [3.226]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-01-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.1.101
+
+Redirection Chains:
+
+theelectroniccigarette.ca
+├── schlurftenerfahrungstatsache.electrolve.uk (Referrer/iFrame) [4.566]
+└── img.golovkakrokodila.info (Referrer) [7.727]
+
+Extracted Malicious Redirection Chain:
+
+theelectroniccigarette.ca
+└── schlurftenerfahrungstatsache.electrolve.uk (Referrer/iFrame) [4.566]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-02-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.181
+
+Redirection Chains:
+
+artdesignonline.link
+└── vekselstrmsgenerator.omargarson.uk (Referrer/iFrame) [5.585]
+
+Extracted Malicious Redirection Chain:
+
+artdesignonline.link
+└── vekselstrmsgenerator.omargarson.uk (Referrer/iFrame) [5.585]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-03-EITest-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.116
+
+Redirection Chains:
+
+centreformaciolopont.org
+└── botuky.xyz (Referrer/HTML) [8.325]
+    └── rateaided-causidical.olympiaboxing.co.uk (JavaScript/HTML) [0.81]
+
+Extracted Malicious Redirection Chain:
+
+centreformaciolopont.org
+└── botuky.xyz (Referrer/HTML) [8.325]
+    └── rateaided-causidical.olympiaboxing.co.uk (JavaScript/HTML) [0.81]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-03-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.184
+
+Redirection Chains:
+
+i-administracion.org
+└── umattj.hopto.org (Referrer/iFrame) [1.782]
+    └── vaihdoskysymyksen.itsport.co.uk (Referrer/iFrame) [0.848]
+
+Extracted Malicious Redirection Chain:
+
+i-administracion.org
+└── umattj.hopto.org (Referrer/iFrame) [1.782]
+    └── vaihdoskysymyksen.itsport.co.uk (Referrer/iFrame) [0.848]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-04-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.183
+
+Redirection Chains:
+
+correcteeth.com
+└── walbornvertakkings.traceyconcrete.co.uk (Referrer/iFrame) [2.242]
+
+Extracted Malicious Redirection Chain:
+
+correcteeth.com
+└── walbornvertakkings.traceyconcrete.co.uk (Referrer/iFrame) [2.242]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-05-EITest-Neutrino-EK-sends-CrypMIC-after-findautosalvageyards.com.pcap..
+
+Source IP: 10.8.5.102
+
+Redirection Chains:
+
+findautosalvageyards.com
+└── ebumusud.top (Referrer/HTML) [6.561]
+    └── screwchainmutituj.streetandpropertyexplorer.org (JavaScript/HTML) [0.499]
+
+Extracted Malicious Redirection Chain:
+
+findautosalvageyards.com
+└── ebumusud.top (Referrer/HTML) [6.561]
+    └── screwchainmutituj.streetandpropertyexplorer.org (JavaScript/HTML) [0.499]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-08-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware2.pcap..
+
+Source IP: 192.168.4.196
+
+Redirection Chains:
+
+vulcanizare-spalatorie-ghencea.ro
+└── jkgbpsh.hopto.org (Referrer/iFrame) [1.823]
+    └── saveoldclinicas.propertymanager.eu.com (Referrer/iFrame) [1.558]
+
+Extracted Malicious Redirection Chain:
+
+vulcanizare-spalatorie-ghencea.ro
+└── jkgbpsh.hopto.org (Referrer/iFrame) [1.823]
+    └── saveoldclinicas.propertymanager.eu.com (Referrer/iFrame) [1.558]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-08-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.57
+
+Redirection Chains:
+
+ma-auto-insurance.com
+└── cystogenuscorrellations.metaldehyde-stewardship.co.uk (Referrer/iFrame) [8.757]
+
+Extracted Malicious Redirection Chain:
+
+ma-auto-insurance.com
+└── cystogenuscorrellations.metaldehyde-stewardship.co.uk (Referrer/iFrame) [8.757]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-10-EITest-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.162
+
+Redirection Chains:
+
+castellblanc.com
+└── osavity.top (Referrer/HTML) [10.001]
+    └── tulivyosikia.baexpert.org (JavaScript/HTML) [0.87]
+
+Extracted Malicious Redirection Chain:
+
+castellblanc.com
+└── osavity.top (Referrer/HTML) [10.001]
+    └── tulivyosikia.baexpert.org (JavaScript/HTML) [0.87]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-11-EITest-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.11.101
+
+Redirection Chains:
+
+thesandpeddler.com
+└── baseh.top (Referrer/HTML) [33.168]
+    └── uljaaseen.cjgregory.co.uk (JavaScript/HTML) [0.522]
+
+Extracted Malicious Redirection Chain:
+
+thesandpeddler.com
+└── baseh.top (Referrer/HTML) [33.168]
+    └── uljaaseen.cjgregory.co.uk (JavaScript/HTML) [0.522]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-12-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.12.101
+
+Redirection Chains:
+
+dakarvoice.com
+└── arteriographicfinanzmasse.ucscarhire.co.uk (Referrer/iFrame) [6.118]
+
+Extracted Malicious Redirection Chain:
+
+dakarvoice.com
+└── arteriographicfinanzmasse.ucscarhire.co.uk (Referrer/iFrame) [6.118]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-14-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.236
+
+Redirection Chains:
+
+integraleengineering.com
+└── yliampuvastidecher.presstheredbuttonnow.eu (Referrer/iFrame) [1.623]
+
+Extracted Malicious Redirection Chain:
+
+integraleengineering.com
+└── yliampuvastidecher.presstheredbuttonnow.eu (Referrer/iFrame) [1.623]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-16-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-blenheim-lodge.com.pcap..
+
+Source IP: 192.168.55.140
+
+Redirection Chains:
+
+blenheim-lodge.com
+└── threeribbedcharcutiere.recipmedia.uk (Referrer/iFrame) [4.559]
+
+Extracted Malicious Redirection Chain:
+
+blenheim-lodge.com
+└── threeribbedcharcutiere.recipmedia.uk (Referrer/iFrame) [4.559]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-16-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-convoyproperty.com.pcap..
+
+Source IP: 192.168.55.140
+
+Redirection Chains:
+
+convoyproperty.com
+└── threeribbedcharcutiere.recipmedia.uk (Referrer/iFrame) [5.832]
+
+Extracted Malicious Redirection Chain:
+
+convoyproperty.com
+└── threeribbedcharcutiere.recipmedia.uk (Referrer/iFrame) [5.832]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-16-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.202
+
+Redirection Chains:
+
+nacionalmendoza.com.ar
+└── vtqckhl.hopto.org (Referrer/iFrame) [5.676]
+    └── cixiidae.recipmedia.co.uk (Referrer/iFrame) [2.094]
+vtqckhl.hopto.org
+└── cixiidae.recipmedia.co.uk (Referrer/iFrame) [2.094]
+
+Extracted Malicious Redirection Chain:
+
+nacionalmendoza.com.ar
+└── vtqckhl.hopto.org (Referrer/iFrame) [5.676]
+    └── cixiidae.recipmedia.co.uk (Referrer/iFrame) [2.094]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-17-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-after-agreen.com.tr.pcap..
+
+Source IP: 10.8.17.102
+
+Redirection Chains:
+
+agreen.com.tr
+└── fussabtr.gymeme.co.uk (Referrer/iFrame) [1.889]
+
+Extracted Malicious Redirection Chain:
+
+agreen.com.tr
+└── fussabtr.gymeme.co.uk (Referrer/iFrame) [1.889]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-18-Afraidgate-Neutrino-EK-sends-Locky.pcap..
+
+Source IP: 10.8.18.104
+
+Redirection Chains:
+
+lamaisondete.com
+└── green.lasotras.cl (Referrer/JavaScript) [1.138]
+    └── gjwqsjid.thatother.top (iFrame/JavaScript) [7.135]
+194.67.210.183
+
+Extracted Malicious Redirection Chain:
+
+lamaisondete.com
+└── green.lasotras.cl (Referrer/JavaScript) [1.138]
+    └── gjwqsjid.thatother.top (iFrame/JavaScript) [7.135]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-18-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.18.103
+
+Redirection Chains:
+
+marksandciraco.com
+└── lesiaksiletz.manchester-nutrition.co.uk (Referrer/iFrame) [2.171]
+
+Extracted Malicious Redirection Chain:
+
+marksandciraco.com
+└── lesiaksiletz.manchester-nutrition.co.uk (Referrer/iFrame) [2.171]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-20-Neutrino-EK-exercise.pcap..
+
+Source IP: 172.16.174.93
+
+Redirection Chains:
+
+asiatravel.com
+├── cdn.optimizely.com (Referrer) [0]
+├── asiatravel.net (Referrer/HTML) [0]
+├── csi.gstatic.com (Referrer) [0]
+├── googletagmanager.com (Referrer) [0]
+├── googleadservices.com (Referrer) [0.328]
+├── doug1izaerwt3.cloudfront.net (Referrer) [0.358]
+│   └── trk.kissmetrics.com (Unknown) [0.294]
+├── i.kissmetrics.com (Referrer) [0.359]
+├── a.adroll.com (Referrer/JavaScript) [1.306]
+│   └── d.adroll.com (JavaScript) [1.528]
+│       ├── x.bidswitch.net (Location) [0.215]
+│       ├── idsync.rlcdn.com (Location) [0.201]
+│       ├── ib.adnxs.com (Location) [0.259]
+│       └── us-u.openx.net (Location) [0.298]
+└── prg.kargo.com (Referrer) [3.536]
+hk-hotel.com
+├── res.hk-hotel.com (Referrer/JavaScript) [0.238]
+├── img2.besthotelonline.com (Referrer) [0.265]
+└── img1.besthotelonline.com (Referrer) [1.08]
+msftncsi.com
+hongkonghotels.org
+├── gcestrelasdaamadora.com (Referrer/JavaScript) [0.607]
+└── tilisinga-ismaeliet.starlightsteps.org.uk (Referrer/iFrame) [0.415]
+ccjlwb22w6c22p2k.onion.to
+
+Extracted Malicious Redirection Chain:
+
+hongkonghotels.org
+└── tilisinga-ismaeliet.starlightsteps.org.uk (Referrer/iFrame) [0.415]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-23-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.23.102
+
+Redirection Chains:
+
+altron.com
+└── orbisonia.clay4u.co.uk (Referrer/iFrame) [9.95]
+orbisonia.clay4u.co.uk
+
+Extracted Malicious Redirection Chain:
+
+altron.com
+└── orbisonia.clay4u.co.uk (Referrer/iFrame) [9.95]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-24-pseudoDarkleech-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.24.101
+
+Redirection Chains:
+
+curbco2121.com
+└── ploffers.bundlebear.co.uk (Referrer/iFrame) [4.019]
+
+Extracted Malicious Redirection Chain:
+
+curbco2121.com
+└── ploffers.bundlebear.co.uk (Referrer/iFrame) [4.019]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-29-Afraidgate-Neutrino-EK-sends-Locky-ransomware.pcap..
+
+Source IP: 10.8.29.106
+
+Redirection Chains:
+
+plwha.etharc.org
+└── plus.myjanu.net (Referrer/JavaScript) [3.465]
+    └── qiglnalet.othersomeone.top (iFrame/JavaScript) [1.447]
+51.255.107.30
+
+Extracted Malicious Redirection Chain:
+
+plwha.etharc.org
+└── plus.myjanu.net (Referrer/JavaScript) [3.465]
+    └── qiglnalet.othersomeone.top (iFrame/JavaScript) [1.447]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-29-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.8.29.105
+
+Redirection Chains:
+
+nucleocorp.com.co
+└── kjretyer-patinador.gnhotels.co (Referrer/iFrame) [3.146]
+
+Extracted Malicious Redirection Chain:
+
+nucleocorp.com.co
+└── kjretyer-patinador.gnhotels.co (Referrer/iFrame) [3.146]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-30-EITest-Neutrino-EK-sends-CrypMIC.pcap..
+
+Source IP: 10.8.30.102
+
+Redirection Chains:
+
+adaptive-business.com
+└── ugady.xyz (Referrer) [2.44]
+    └── vblcountnark.birminghampahire.co.uk (JavaScript/HTML) [0.577]
+
+Extracted Malicious Redirection Chain:
+
+adaptive-business.com
+└── ugady.xyz (Referrer) [2.44]
+    └── vblcountnark.birminghampahire.co.uk (JavaScript/HTML) [0.577]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-08-31-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.8.31.101
+
+Redirection Chains:
+
+nycrunningmama.com
+└── zaposlen1-neyle.redhilltsa.org.uk (Referrer/iFrame) [6.064]
+
+Extracted Malicious Redirection Chain:
+
+nycrunningmama.com
+└── zaposlen1-neyle.redhilltsa.org.uk (Referrer/iFrame) [6.064]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-01-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.9.1.102
+
+Redirection Chains:
+
+panoplycapital.com
+└── teabiscuit.b3-social.co.uk (Referrer/iFrame) [2.381]
+
+Extracted Malicious Redirection Chain:
+
+panoplycapital.com
+└── teabiscuit.b3-social.co.uk (Referrer/iFrame) [2.381]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-02-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.9.2.102
+
+Redirection Chains:
+
+mondeca.com
+└── sprs-markkinoistaan.northwestdomesticapplianceservices.co.uk (Referrer/iFrame) [1.854]
+
+Extracted Malicious Redirection Chain:
+
+mondeca.com
+└── sprs-markkinoistaan.northwestdomesticapplianceservices.co.uk (Referrer/iFrame) [1.854]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-03-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.150
+
+Redirection Chains:
+
+dejonizator-jonizator.pl
+└── noordeuropese.onesecurerecord.com (Referrer/iFrame) [1.873]
+
+Extracted Malicious Redirection Chain:
+
+dejonizator-jonizator.pl
+└── noordeuropese.onesecurerecord.com (Referrer/iFrame) [1.873]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-06-pseudoDarkleech-Neutrino-EK-after-scrubcaptain.ca.pcap..
+
+Source IP: 10.9.6.102
+
+Redirection Chains:
+
+scrubcaptain.ca
+└── zeugenverhoers-shahaba.wedipyourcar.co.uk (Referrer/iFrame) [5.898]
+
+Extracted Malicious Redirection Chain:
+
+scrubcaptain.ca
+└── zeugenverhoers-shahaba.wedipyourcar.co.uk (Referrer/iFrame) [5.898]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-06-pseudoDarkleech-Neutrino-EK-after-stleslieville.com.pcap..
+
+Source IP: 10.9.6.101
+
+Redirection Chains:
+
+stleslieville.com
+└── extech.vibeposters.com (Referrer/iFrame) [5.291]
+
+Extracted Malicious Redirection Chain:
+
+stleslieville.com
+└── extech.vibeposters.com (Referrer/iFrame) [5.291]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-06-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.222
+
+Redirection Chains:
+
+aegalega.org
+└── sevrent.professionaldevelopmentsolutions.co.uk (Referrer/iFrame) [7.624]
+
+Extracted Malicious Redirection Chain:
+
+aegalega.org
+└── sevrent.professionaldevelopmentsolutions.co.uk (Referrer/iFrame) [7.624]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-07-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.9.7.101
+
+Redirection Chains:
+
+flitecraft.com
+└── badinrigtingsingli.iloveukdeals.co.uk (Referrer/iFrame) [2.602]
+    └── erfolgreichercanteres.ukhomedesign.co.uk (Referrer) [3.247]
+
+Extracted Malicious Redirection Chain:
+
+flitecraft.com
+└── badinrigtingsingli.iloveukdeals.co.uk (Referrer/iFrame) [2.602]
+    └── erfolgreichercanteres.ukhomedesign.co.uk (Referrer) [3.247]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-07-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.180
+
+Redirection Chains:
+
+smehealthandsafety.co.uk
+└── kskisivt.guitartoneguru.co.uk (Referrer/iFrame) [3.677]
+
+Extracted Malicious Redirection Chain:
+
+smehealthandsafety.co.uk
+└── kskisivt.guitartoneguru.co.uk (Referrer/iFrame) [3.677]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-09-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.37
+
+Redirection Chains:
+
+mahlzeit-menue.de
+└── exotenvo.4dwin.com (Referrer/iFrame) [8.148]
+
+Extracted Malicious Redirection Chain:
+
+mahlzeit-menue.de
+└── exotenvo.4dwin.com (Referrer/iFrame) [8.148]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-11-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-ransomware.pcap..
+
+Source IP: 10.9.11.101
+
+Redirection Chains:
+
+hotelpodzamkom.sk
+└── residertwithcallback.scrubs101webstore.info (Referrer/iFrame) [3.382]
+residertwithcallback.scrubs101webstore.info
+
+Extracted Malicious Redirection Chain:
+
+hotelpodzamkom.sk
+└── residertwithcallback.scrubs101webstore.info (Referrer/iFrame) [3.382]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-12-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-1-of-2.pcap..
+
+Source IP: 10.9.12.105
+
+Redirection Chains:
+
+steffensautomotive.com
+└── tuberkle.orlandothemeparkexperts.com (Referrer/iFrame) [4.108]
+
+Extracted Malicious Redirection Chain:
+
+steffensautomotive.com
+└── tuberkle.orlandothemeparkexperts.com (Referrer/iFrame) [4.108]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-12-pseudoDarkleech-Neutrino-EK-sends-CrypMIC-2-of-2.pcap..
+
+Source IP: 10.9.12.106
+
+Redirection Chains:
+
+foldacover.com
+└── aivotoimintoja.scaffoldsignage.com (Referrer/iFrame) [3.408]
+
+Extracted Malicious Redirection Chain:
+
+foldacover.com
+└── aivotoimintoja.scaffoldsignage.com (Referrer/iFrame) [3.408]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-12-pseudoDarkleech-Neutrino-EK-sends-CryptMic-Ransomware.pcap..
+
+Source IP: 192.168.4.204
+
+Redirection Chains:
+
+shaggydogs.pl
+└── supininguneuwied.shiaduas.org (Referrer/iFrame) [5.699]
+
+Extracted Malicious Redirection Chain:
+
+shaggydogs.pl
+└── supininguneuwied.shiaduas.org (Referrer/iFrame) [5.699]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-16-Afraidgate-Neutrino-EK-1.pcap..
+
+Source IP: 10.9.16.105
+
+Redirection Chains:
+
+blog.sewmucheasier.com
+└── iiofuro.top (Referrer) [7.816]
+    └── zxzdo.y4z6rp59a.top (Referrer/HTML/JavaScript) [1.06]
+converterlist.com
+└── syrtibusquepivsakko.letloosevip.com (Referrer/iFrame) [4.077]
+revistaelobservador.com
+└── kumaconexion.top (Referrer) [4.317]
+    └── zxzdo.y4z6rp59a.top (Referrer/HTML/JavaScript) [0.955]
+avanzagrupo.com
+└── jjadfhcyxu.ddnsking.com (Referrer/iFrame) [2.279]
+    └── groepleier.702guru.com (Referrer/iFrame) [0.92]
+picmania.garcia-cuervo.net
+└── lin.portalsmk.com (Referrer/JavaScript) [0.475]
+    └── mlylrqaa.nowmalawi.top (iFrame/JavaScript) [1.309]
+185.86.148.214
+dilmotioncontrol.com
+└── syrtibusquepivsakko.letloosevip.com (Referrer/iFrame) [2.55]
+picmania.garcia-cuervo.net
+└── knight.manex.us (Referrer/JavaScript) [0.522]
+    └── fnszgx.nowmalawi.top (iFrame/JavaScript) [0.453]
+51.255.105.2
+mlylrqaa.nowmalawi.top
+185.75.46.29
+
+Extracted Malicious Redirection Chain:
+
+picmania.garcia-cuervo.net
+└── lin.portalsmk.com (Referrer/JavaScript) [0.475]
+    └── mlylrqaa.nowmalawi.top (iFrame/JavaScript) [1.309]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-16-Afraidgate-Neutrino-EK-2.pcap..
+
+Source IP: 10.9.16.105
+
+Redirection Chains:
+
+blog.sewmucheasier.com
+└── iiofuro.top (Referrer) [7.816]
+    └── zxzdo.y4z6rp59a.top (Referrer/JavaScript/HTML) [1.06]
+converterlist.com
+└── syrtibusquepivsakko.letloosevip.com (Referrer/iFrame) [4.077]
+revistaelobservador.com
+└── kumaconexion.top (Referrer) [4.317]
+    └── zxzdo.y4z6rp59a.top (Referrer/JavaScript/HTML) [0.955]
+avanzagrupo.com
+└── jjadfhcyxu.ddnsking.com (Referrer/iFrame) [2.279]
+    └── groepleier.702guru.com (Referrer/iFrame) [0.92]
+picmania.garcia-cuervo.net
+└── lin.portalsmk.com (Referrer/JavaScript) [0.475]
+    └── mlylrqaa.nowmalawi.top (JavaScript/iFrame) [1.309]
+185.86.148.214
+dilmotioncontrol.com
+└── syrtibusquepivsakko.letloosevip.com (Referrer/iFrame) [2.55]
+picmania.garcia-cuervo.net
+└── knight.manex.us (Referrer/JavaScript) [0.522]
+    └── fnszgx.nowmalawi.top (JavaScript/iFrame) [0.453]
+51.255.105.2
+mlylrqaa.nowmalawi.top
+185.75.46.29
+
+Extracted Malicious Redirection Chain:
+
+picmania.garcia-cuervo.net
+└── knight.manex.us (Referrer/JavaScript) [0.522]
+    └── fnszgx.nowmalawi.top (JavaScript/iFrame) [0.453]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-22-Afraidgate-Neutrino-EK-sends-Locky_missingC.pcap..
+
+Source IP: 10.9.22.101
+
+Redirection Chains:
+
+mintridemo.com
+king.bisneshotspot.com
+└── ujthdv.grandlinda.top (iFrame/JavaScript) [3.183]
+94.242.57.152
+
+Extracted Malicious Redirection Chain:
+
+king.bisneshotspot.com
+└── ujthdv.grandlinda.top (iFrame/JavaScript) [3.183]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-09-26-Afraidgate-Neutrino-EK-sends-Locky_missingC.pcap..
+
+Source IP: 10.9.26.102
+
+Redirection Chains:
+
+crocotan.com
+62.173.154.240
+lesley.portcoquitlamweather.ca
+└── oxraa.blackfinish.top (iFrame/JavaScript) [0.648]
+blognetoo.com
+
+Extracted Malicious Redirection Chain:
+
+lesley.portcoquitlamweather.ca
+└── oxraa.blackfinish.top (iFrame/JavaScript) [0.648]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2016-10-11-EITest-Rig-EK-third-run-sends-Neutrino-malware.pcap..
+
+Source IP: 10.10.11.104
+
+Redirection Chains:
+
+mzzzn.bit
+mobilecommercedaily.com
+└── bw1q.ccisisl.top (Referrer) [2.551]
+217.23.8.91
+
+Extracted Malicious Redirection Chain:
+
+mobilecommercedaily.com
+└── bw1q.ccisisl.top (Referrer) [2.551]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing Complete..
+
+Total execution time: 1 minutes and 40.42 seconds!
+Average PCAP processing time: 0.51 seconds!
+Average chain processing time: 0.51 seconds!
+
+533/536 (99.44%) Malicious URLs were correctly extracted from 196 malicious chains!
+
+====================================================================================================
+
+193/196 (98.47%) Malicious chains were correctly identified!
+3/196 (1.53%) Malicious chains were semi-correctly identified!
+0/196 (0.0%) Malicious chains were incorrectly identified!
+
+26/196 (13.27%) PCAPs were missing the compromised site!
+0/196 (0.0%) PCAPs were Malvertising!
+
+| Redir_Type   | Num     | %      |   Avg |
+|--------------+---------+--------+-------|
+| Referrer     | 211/595 | 35.46% | 0.355 |
+| iFrame       | 126/595 | 21.18% | 0.212 |
+| JavaScript   | 112/595 | 18.82% | 0.188 |
+| HTML         | 85/595  | 14.29% | 0.143 |
+| Unknown      | 27/595  | 4.54%  | 0.045 |
+| Location     | 16/595  | 2.69%  | 0.027 |
+| Base64       | 14/595  | 2.35%  | 0.024 |
+| Advanced     | 3/595   | 0.5%   | 0.005 |
+| Subdomain    | 1/595   | 0.17%  | 0.002 |
+| Concat       | 0/595   | 0.0%   | 0     |
+
+45/595 (7.56%) of redirections were obfuscated!
+
+Min chain depth: 1
+Max chain depth: 4
+Avg chain depth: 1.694
+
+Max nodes per chain: 6
+Avg nodes per chain: 2.735
+
+Min time between redirects: 0.04 seconds!
+Max time between redirects: 113.374 seconds!
+Avg time between redirects: 3.576 seconds!
+
+====================================================================================================
+

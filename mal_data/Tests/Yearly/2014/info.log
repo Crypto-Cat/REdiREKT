@@ -1,0 +1,6472 @@
+Processing 246 PCAPs..
+
+Processing 2014-01-01-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.1.106
+
+Redirection Chains:
+
+wranglerforum.com
+└── mamsletterme.com (Referrer/JavaScript) [2.472]
+    └── yeldogsli.in.ua (JavaScript/iFrame) [1.044]
+
+Extracted Malicious Redirection Chain:
+
+wranglerforum.com
+└── mamsletterme.com (Referrer/JavaScript) [2.472]
+    └── yeldogsli.in.ua (JavaScript/iFrame) [1.044]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-02-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.1.108
+
+Redirection Chains:
+
+stevesnovasite.com
+└── lokishards.com (Referrer/JavaScript) [0.68]
+    └── yredinblu.in.ua (JavaScript/iFrame) [0.581]
+
+Extracted Malicious Redirection Chain:
+
+stevesnovasite.com
+└── lokishards.com (Referrer/JavaScript) [0.68]
+    └── yredinblu.in.ua (JavaScript/iFrame) [0.581]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-02-Neutrino-EK-traffic.pcap..
+
+Source IP: 198.61.173.192
+
+Redirection Chains:
+
+help.wugnet.com
+└── 686dkfe4k74v8nu1adebdm7.mychicagohardwoodflooring.com (Location/HTML) [0.487]
+    └── 686dkfe4k74v8nu1adebdm753605381e72f85acfc63dadc05f1098ee.mychicagohardwoodflooring.com (Referrer/Base64) [0.725]
+        ├── yaingeiy.aktinate.com (Referrer/Base64) [1.192]
+        └── 78gztei6jk3lt3gmsflesfi.amateurfreenow.com (Referrer/Base64) [21.526]
+
+Extracted Malicious Redirection Chain:
+
+help.wugnet.com
+└── 686dkfe4k74v8nu1adebdm7.mychicagohardwoodflooring.com (Location/HTML) [0.487]
+    └── 686dkfe4k74v8nu1adebdm753605381e72f85acfc63dadc05f1098ee.mychicagohardwoodflooring.com (Referrer/Base64) [0.725]
+        ├── yaingeiy.aktinate.com (Referrer/Base64) [1.192]
+        └── 78gztei6jk3lt3gmsflesfi.amateurfreenow.com (Referrer/Base64) [21.526]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-07-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.14.132
+
+Redirection Chains:
+
+help.lockergnome.com
+└── hsiammyy7hdin7jqu6hfnjt.shiningstarscleaningservice.com (Location/HTML) [0.248]
+    └── hsiammyy7hdin7jqu6hfnjt53365382c8e420ee542452677cded84d6.shiningstarscleaningservice.com (Referrer/Base64) [0.506]
+        ├── quohyiin.dikarlos.com (Referrer/Base64) [0.799]
+        └── dphjoqccuayhhg77dmdz2rw.amateurlogin.com (Referrer/Base64) [21.323]
+
+Extracted Malicious Redirection Chain:
+
+help.lockergnome.com
+└── hsiammyy7hdin7jqu6hfnjt.shiningstarscleaningservice.com (Location/HTML) [0.248]
+    └── hsiammyy7hdin7jqu6hfnjt53365382c8e420ee542452677cded84d6.shiningstarscleaningservice.com (Referrer/Base64) [0.506]
+        ├── quohyiin.dikarlos.com (Referrer/Base64) [0.799]
+        └── dphjoqccuayhhg77dmdz2rw.amateurlogin.com (Referrer/Base64) [21.323]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-09-DotkaChef-EK-traffic.pcap..
+
+Source IP: 192.168.1.101
+
+Redirection Chains:
+
+psicologia-online.com
+└── seris.biz (Referrer) [0.592]
+    └── kanon-finale.com (Location) [0.45]
+
+Extracted Malicious Redirection Chain:
+
+psicologia-online.com
+└── seris.biz (Referrer) [0.592]
+    └── kanon-finale.com (Location) [0.45]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-09-more-DotkaChef-EK-traffic.pcap..
+
+Source IP: 172.16.2.101
+
+Redirection Chains:
+
+divernet.com
+├── openx.divernet.com (Referrer/JavaScript) [0.674]
+└── seris.biz (Referrer) [8.315]
+    └── grad.ru (Location) [0.757]
+
+Extracted Malicious Redirection Chain:
+
+divernet.com
+└── seris.biz (Referrer) [8.315]
+    └── grad.ru (Location) [0.757]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-13-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.158
+
+Redirection Chains:
+
+pave-right.co.uk
+└── 176.31.24.102 (Referrer/iFrame) [1.78]
+    └── doyouknowfitness.com (Location) [0.355]
+78.27.175.127
+178.149.185.135
+
+Extracted Malicious Redirection Chain:
+
+pave-right.co.uk
+└── 176.31.24.102 (Referrer/iFrame) [1.78]
+    └── doyouknowfitness.com (Location) [0.355]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-14-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.1.109
+
+Redirection Chains:
+
+shows.matthewjamesmagic.com
+├── 176.31.24.102 (Referrer/iFrame) [13.582]
+└── 5th.superpin.cl (Referrer/iFrame) [13.674]
+    ├── 73373e4.13f8.0caad.991f.004.a8a.5d1.1f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.314]
+    ├── 73.373.e413.f80c.aad99.1f004.a8a5d11.f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.366]
+    ├── 67.a6e.b3bb02c.a49a4d8.549a7d4.f6fd8a.sknhzkfjldkp.lunchdoors.pw (Location) [0.349]
+    ├── 73373e.413f80.caad99.1f004a.8a5.d1.1f.0.sknhzkfjldkp.lunchdoors.pw (Location) [0.374]
+    └── 73373.e413f80.caad99.1f004a8.a5d1.1f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.456]
+update.niq56wvuc1.com
+sandoxon.com
+report.9qgmy3ce93ku9m1g9i1.com
+176.9.245.16
+
+Extracted Malicious Redirection Chain:
+
+shows.matthewjamesmagic.com
+└── 5th.superpin.cl (Referrer/iFrame) [13.674]
+    ├── 73373e4.13f8.0caad.991f.004.a8a.5d1.1f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.314]
+    ├── 73.373.e413.f80c.aad99.1f004.a8a5d11.f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.366]
+    ├── 67.a6e.b3bb02c.a49a4d8.549a7d4.f6fd8a.sknhzkfjldkp.lunchdoors.pw (Location) [0.349]
+    ├── 73373e.413f80.caad99.1f004a.8a5.d1.1f.0.sknhzkfjldkp.lunchdoors.pw (Location) [0.374]
+    └── 73373.e413f80.caad99.1f004a8.a5d1.1f0.sknhzkfjldkp.lunchdoors.pw (Location) [0.456]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-20-Styx-EK-traffic.pcap..
+
+Source IP: 172.16.2.149
+
+Redirection Chains:
+
+nuisancecalls.org.uk
+└── gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz (Location) [1.124]
+    └── gqgqgqgql1iqli1lil1qgiql.ocry.com (Location) [0.561]
+        └── jogaming.com (Location) [0.673]
+            └── www3.vhreqzbb9so750.4pu.com (Location) [1.03]
+                └── www1.z18hg770fv466u.4pu.com (Location) [0.445]
+                    └── www2.v2uhn2761ktres.4pu.com (HTML/JavaScript) [0.514]
+
+Extracted Malicious Redirection Chain:
+
+nuisancecalls.org.uk
+└── gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz (Location) [1.124]
+    └── gqgqgqgql1iqli1lil1qgiql.ocry.com (Location) [0.561]
+        └── jogaming.com (Location) [0.673]
+            └── www3.vhreqzbb9so750.4pu.com (Location) [1.03]
+                └── www1.z18hg770fv466u.4pu.com (Location) [0.445]
+                    └── www2.v2uhn2761ktres.4pu.com (HTML/JavaScript) [0.514]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-21-Neutrino-EK-traffic.pcap..
+
+Source IP: 172.16.2.163
+
+Redirection Chains:
+
+exchangefreaks.com
+└── a7euhl1i6c1ev2e1mrw13xg.blueblack.com.tr (Location/HTML) [0.471]
+    └── a7euhl1i6c1ev2e1mrw13xg52265384c9da87b525c344c8704cd096a.blueblack.com.tr (Referrer/Base64) [0.819]
+        └── iepheiph.bandrets.com (Referrer/Base64) [0.843]
+
+Extracted Malicious Redirection Chain:
+
+exchangefreaks.com
+└── a7euhl1i6c1ev2e1mrw13xg.blueblack.com.tr (Location/HTML) [0.471]
+    └── a7euhl1i6c1ev2e1mrw13xg52265384c9da87b525c344c8704cd096a.blueblack.com.tr (Referrer/Base64) [0.819]
+        └── iepheiph.bandrets.com (Referrer/Base64) [0.843]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-24-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.14.138
+
+Redirection Chains:
+
+holiday-cruiseline.com
+└── comprarytraer.cl (Referrer/iFrame) [1.88]
+    └── h3zqxj.canoedoctor.pw (Location) [1.02]
+
+Extracted Malicious Redirection Chain:
+
+holiday-cruiseline.com
+└── comprarytraer.cl (Referrer/iFrame) [1.88]
+    └── h3zqxj.canoedoctor.pw (Location) [1.02]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-26-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.163
+
+Redirection Chains:
+
+bluelakechalet.co.nz
+└── drydgetypess.us (Referrer/iFrame) [2.092]
+anonsinformstim.us
+drydgetypess.us
+likestwittersfoll.us
+clocksflowers.us
+
+Extracted Malicious Redirection Chain:
+
+bluelakechalet.co.nz
+└── drydgetypess.us (Referrer/iFrame) [2.092]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+bluelakechalet.co.nz
+└── drydgetypess.us (Referrer/iFrame) [2.092]
+    └── likestwittersfoll.us (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-01-27-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.164
+
+Redirection Chains:
+
+tcnp.com
+└── 176.31.24.102 (Referrer/iFrame) [0.566]
+    └── gingerasiaescorts.com (Location) [0.434]
+now.googlefast.pw
+seosaw.pw
+
+Extracted Malicious Redirection Chain:
+
+tcnp.com
+└── 176.31.24.102 (Referrer/iFrame) [0.566]
+    └── gingerasiaescorts.com (Location) [0.434]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-01-31-DotkaChef-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+bbj.hu
+└── seris.biz (Referrer) [0.99]
+    └── auburnhaircolor.com (Location) [0.362]
+
+Extracted Malicious Redirection Chain:
+
+bbj.hu
+└── seris.biz (Referrer) [0.99]
+    └── auburnhaircolor.com (Location) [0.362]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-01-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.157
+
+Redirection Chains:
+
+excelforum.com
+└── valeriesn.com (Referrer/JavaScript) [0.016]
+    └── utrust.in.ua (JavaScript/iFrame) [0.698]
+217.23.3.113
+
+Extracted Malicious Redirection Chain:
+
+excelforum.com
+└── valeriesn.com (Referrer/JavaScript) [0.016]
+    └── utrust.in.ua (JavaScript/iFrame) [0.698]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-02-Neutrino-EK-users-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.161
+
+Redirection Chains:
+
+bloggingwithdogs.com
+├── 38hartrobertsroad.com (Referrer/iFrame) [0.32]
+│   └── 62.76.177.211 (Referrer/HTML) [0]
+│       └── 30oct2007.com (Location) [0.134]
+│           └── oojahphi.brittmany.com (Referrer/iFrame) [1.162]
+└── pracowniahistoryczna.pl (Referrer/iFrame) [0.563]
+    └── 92.53.105.34 (Referrer/HTML) [0.252]
+
+Extracted Malicious Redirection Chain:
+
+bloggingwithdogs.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.32]
+    └── 62.76.177.211 (Referrer/HTML) [0]
+        └── 30oct2007.com (Location) [0.134]
+            └── oojahphi.brittmany.com (Referrer/iFrame) [1.162]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-02-Neutrino-EK-uses-java-exploit.pcap..
+
+Source IP: 192.168.204.160
+
+Redirection Chains:
+
+bloggingwithdogs.com
+├── pracowniahistoryczna.pl (Referrer/iFrame) [1.001]
+│   └── 92.53.105.34 (Referrer/HTML) [0.246]
+└── 38hartrobertsroad.com (Referrer/iFrame) [1.051]
+    └── 62.76.177.211 (Referrer/HTML) [0.103]
+        └── 30oct2007.com (Location) [0.767]
+            └── weilaeni.brittmany.com (Referrer/iFrame) [0.646]
+
+Extracted Malicious Redirection Chain:
+
+bloggingwithdogs.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [1.051]
+    └── 62.76.177.211 (Referrer/HTML) [0.103]
+        └── 30oct2007.com (Location) [0.767]
+            └── weilaeni.brittmany.com (Referrer/iFrame) [0.646]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.164
+
+Redirection Chains:
+
+vision-soft.org
+└── nationalcavyclub.co.uk (Referrer/iFrame) [0.018]
+    └── ecole-croisiere.com (Location) [1.531]
+own-hits.com
+net-translscl.com
+
+Extracted Malicious Redirection Chain:
+
+vision-soft.org
+└── nationalcavyclub.co.uk (Referrer/iFrame) [0.018]
+    └── ecole-croisiere.com (Location) [1.531]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Neutrino-EK-traffic-01.pcap..
+
+Source IP: 192.168.204.162
+
+Redirection Chains:
+
+valerierobinson.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.812]
+    └── 62.76.177.211 (Referrer/HTML) [0.334]
+        └── 30oct2007.com (Location) [0.841]
+            └── eesheshi.ontowess.com (Referrer/iFrame) [0.792]
+kimsa.vn
+gminalubiewo.pl
+
+Extracted Malicious Redirection Chain:
+
+valerierobinson.com
+└── 38hartrobertsroad.com (Referrer/iFrame) [0.812]
+    └── 62.76.177.211 (Referrer/HTML) [0.334]
+        └── 30oct2007.com (Location) [0.841]
+            └── eesheshi.ontowess.com (Referrer/iFrame) [0.792]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Neutrino-EK-traffic-02.pcap..
+
+Source IP: 192.168.204.163
+
+Redirection Chains:
+
+sorbix.com
+├── taleroom.com (Referrer/iFrame) [1.271]
+│   └── eesheshi.ontowess.com:8000 (Location) [0.408]
+└── eesheshi.ontowess.com (Referrer) [2.081]
+grossform.ru
+
+Extracted Malicious Redirection Chain:
+
+sorbix.com
+└── taleroom.com (Referrer/iFrame) [1.271]
+    └── eesheshi.ontowess.com:8000 (Location) [0.408]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-03-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+topnewszone.com
+└── my-anxiety-and-panic-attacks.com (Referrer/iFrame) [0.122]
+    └── tbbq0.golferboomerang.pw (Location) [0.669]
+
+Extracted Malicious Redirection Chain:
+
+topnewszone.com
+└── my-anxiety-and-panic-attacks.com (Referrer/iFrame) [0.122]
+    └── tbbq0.golferboomerang.pw (Location) [0.669]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-04-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.156
+
+Redirection Chains:
+
+hayatmersin.com
+└── destingshugo.us (Referrer/iFrame) [2.303]
+
+Extracted Malicious Redirection Chain:
+
+hayatmersin.com
+└── destingshugo.us (Referrer/iFrame) [2.303]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-07-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.157
+
+Redirection Chains:
+
+degreeinfo.com
+└── slyjbyvmit.com (Referrer/JavaScript) [0.133]
+    └── ujessy.in.ua (JavaScript/iFrame) [0.611]
+
+Extracted Malicious Redirection Chain:
+
+degreeinfo.com
+└── slyjbyvmit.com (Referrer/JavaScript) [0.133]
+    └── ujessy.in.ua (JavaScript/iFrame) [0.611]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-09-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.160
+
+Redirection Chains:
+
+sugarloafweddings.com
+├── irfan.ca (Referrer/iFrame) [0.88]
+│   └── 62.76.177.211 (Referrer/HTML) [0.342]
+│       └── asyscert.com (Referrer/HTML/JavaScript) [0.505]
+├── taleroom.com (Referrer/iFrame) [0.102]
+│   └── yeegegie.amcancode.com:8000 (Location) [0.537]
+└── yeegegie.amcancode.com (Referrer) [0.963]
+salomblog.com
+
+Extracted Malicious Redirection Chain:
+
+sugarloafweddings.com
+└── taleroom.com (Referrer/iFrame) [0.102]
+    └── yeegegie.amcancode.com:8000 (Location) [0.537]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-11-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.161
+
+Redirection Chains:
+
+forum.freeadvice.com
+└── newblogsherehally.com (Referrer/JavaScript) [0.266]
+    └── ucrysy.in.ua (JavaScript/iFrame) [0.702]
+
+Extracted Malicious Redirection Chain:
+
+forum.freeadvice.com
+└── newblogsherehally.com (Referrer/JavaScript) [0.266]
+    └── ucrysy.in.ua (JavaScript/iFrame) [0.702]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-12-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.162
+
+Redirection Chains:
+
+kffl.com
+└── sordonics.com (Referrer) [5.73]
+    └── retonad.info (Unknown) [0.361]
+        └── a.pimpmycar.ro (Location) [0.5]
+
+Extracted Malicious Redirection Chain:
+
+kffl.com
+└── sordonics.com (Referrer) [5.73]
+    └── retonad.info (Unknown) [0.361]
+        └── a.pimpmycar.ro (Location) [0.5]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-13-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.164
+
+Redirection Chains:
+
+planningperspectives.ca
+└── asdpietroguarino.ilbello.com (Referrer/iFrame) [0.734]
+    └── paisasantcugat.com (Location) [0.539]
+cioco-froll.com
+milk-mass.com
+
+Extracted Malicious Redirection Chain:
+
+planningperspectives.ca
+└── asdpietroguarino.ilbello.com (Referrer/iFrame) [0.734]
+    └── paisasantcugat.com (Location) [0.539]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-22-Neutrino-and-Nuclear-EK-traffic01.pcap..
+
+Source IP: 192.168.204.172
+
+Redirection Chains:
+
+afghanchopankebab.ca
+├── themes.googleusercontent.com (Referrer) [0.091]
+├── statcounter.com (Referrer) [0.124]
+├── c.statcounter.com (Referrer) [0.269]
+├── ezdomainset.net (Referrer/iFrame) [0.983]
+│   ├── eikohhou.tieshuwo.com:8000 (Location) [0]
+│   ├── ksrqm.fieldingclerk.in.net (Location) [0.174]
+│   └── wu3.zuxixamydu.com (Location) [1.61]
+│       └── stavl7.fieldingclerk.in.net (Referrer) [0.183]
+├── eikohhou.tieshuwo.com (Referrer) [1.815]
+└── linkstorm.ru (Referrer/iFrame) [0.56]
+212-lithium.com
+gp-search2014.com
+└── tor-host.com (Referrer) [11.188]
+jully-search.com
+└── tor-host.com (Referrer) [9.816]
+insurejj-search.com
+└── tor-host.com (Referrer) [11.364]
+online-marker2014.com
+└── tor-host.com (Referrer) [11.498]
+cian-search.com
+└── tor-host.com (Referrer) [9.457]
+red-search2014.com
+└── tor-host.com (Referrer) [9.537]
+name-traffersearch.com
+└── tor-host.com (Referrer) [10.069]
+step-count10.com
+cioco-froll.com
+paralimp-search.com
+└── tor-host.com (Referrer) [11.579]
+vapor-sarch.com
+└── tor-host.com (Referrer) [11.364]
+work-bus-search.com
+└── tor-host.com (Referrer) [11.735]
+rest-2014search.com
+└── tor-host.com (Referrer) [10.128]
+pet-shop-new.com
+└── tor-host.com (Referrer) [9.599]
+host-search-14.com
+└── tor-host.com (Referrer) [11.073]
+
+Extracted Malicious Redirection Chain:
+
+afghanchopankebab.ca
+└── ezdomainset.net (Referrer/iFrame) [0.983]
+    ├── eikohhou.tieshuwo.com:8000 (Location) [0]
+    ├── ksrqm.fieldingclerk.in.net (Location) [0.174]
+    └── wu3.zuxixamydu.com (Location) [1.61]
+        └── stavl7.fieldingclerk.in.net (Referrer) [0.183]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-26-Angler-EK-traffic-02.pcap..
+
+Source IP: 192.168.14.132
+
+Redirection Chains:
+
+fadelacenter.org
+└── phisoomythyxiboow.ru (Referrer) [0.342]
+
+Extracted Malicious Redirection Chain:
+
+fadelacenter.org
+└── phisoomythyxiboow.ru (Referrer) [0.342]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-26-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.175
+
+Redirection Chains:
+
+kaplanbenefits.com
+├── hereti.vacau.com (Referrer/JavaScript) [0.255]
+└── deacomunicazione.it (Referrer/JavaScript) [0.277]
+    └── northerningredients.com (JavaScript) [0.508]
+
+Extracted Malicious Redirection Chain:
+
+kaplanbenefits.com
+└── deacomunicazione.it (Referrer/JavaScript) [0.277]
+    └── northerningredients.com (JavaScript) [0.508]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-02-28-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.2.161
+
+Redirection Chains:
+
+88.190.226.223
+quickr.org
+└── ovpoiifspl.serveblog.net (Referrer/iFrame) [0]
+
+Extracted Malicious Redirection Chain:
+
+quickr.org
+└── ovpoiifspl.serveblog.net (Referrer/iFrame) [0]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-01-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.174
+
+Redirection Chains:
+
+adelaidecommercialrealestate.com.au
+├── diablo3keygen.net (Referrer/iFrame) [6.225]
+│   └── chaongoi.fingieng.com:8000 (Location) [3.101]
+└── chaongoi.fingieng.com (Referrer) [9.327]
+wsxcv.net
+qustats.net
+
+Extracted Malicious Redirection Chain:
+
+adelaidecommercialrealestate.com.au
+└── diablo3keygen.net (Referrer/iFrame) [6.225]
+    └── chaongoi.fingieng.com:8000 (Location) [3.101]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-02-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.175
+
+Redirection Chains:
+
+yotatech.com
+└── bekkisnikkic.com (Referrer/JavaScript) [0.177]
+    └── azxder.in.ua (iFrame/JavaScript) [0.253]
+
+Extracted Malicious Redirection Chain:
+
+yotatech.com
+└── bekkisnikkic.com (Referrer/JavaScript) [0.177]
+    └── azxder.in.ua (iFrame/JavaScript) [0.253]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-05-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.171
+
+Redirection Chains:
+
+0eq.kocewulum.net
+└── scbreclav.cz (Referrer) [0.349]
+
+Extracted Malicious Redirection Chain:
+
+0eq.kocewulum.net
+└── scbreclav.cz (Referrer) [0.349]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-07-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.172
+
+Redirection Chains:
+
+mycakery.nl
+└── api.autoinkoop.nl (Referrer/JavaScript) [2.38]
+    └── cezar.freha.pl (JavaScript) [3.885]
+
+Extracted Malicious Redirection Chain:
+
+mycakery.nl
+└── api.autoinkoop.nl (Referrer/JavaScript) [2.38]
+    └── cezar.freha.pl (JavaScript) [3.885]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-08-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.204.173
+
+Redirection Chains:
+
+tollywood.net
+└── xfd35snx9ucrvtppxre8xti.estetikcerrahlar.gen.tr (Location) [0.509]
+    └── xfd35snx9ucrvtppxre8xti517653a14e12616e742451e29574fc161.estetikcerrahlar.gen.tr (Referrer/Base64) [0.676]
+        ├── fixeghoh.koivaino.com (Referrer/Base64) [1.251]
+        └── 97x100nb11dugoxv93z019i.assparadefree.com (Referrer/Base64) [21.244]
+graphics.pop6.com
+178.86.17.32
+glean.pop6.com
+
+Extracted Malicious Redirection Chain:
+
+tollywood.net
+└── xfd35snx9ucrvtppxre8xti.estetikcerrahlar.gen.tr (Location) [0.509]
+    └── xfd35snx9ucrvtppxre8xti517653a14e12616e742451e29574fc161.estetikcerrahlar.gen.tr (Referrer/Base64) [0.676]
+        ├── fixeghoh.koivaino.com (Referrer/Base64) [1.251]
+        └── 97x100nb11dugoxv93z019i.assparadefree.com (Referrer/Base64) [21.244]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-09-Fiesta-EK-traffic-failed-attempt.pcap..
+
+Source IP: 192.168.204.180
+
+Redirection Chains:
+
+electriciantalk.com
+└── teleleksi.com (Referrer/JavaScript) [0.636]
+    └── azxcvb.in.ua (JavaScript/iFrame) [0.579]
+
+Extracted Malicious Redirection Chain:
+
+electriciantalk.com
+└── teleleksi.com (Referrer/JavaScript) [0.636]
+    └── azxcvb.in.ua (JavaScript/iFrame) [0.579]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-09-Fiesta-EK-traffic-successful-attempt.pcap..
+
+Source IP: 192.168.204.181
+
+Redirection Chains:
+
+disclose.tv
+└── dllumfqd.hopto.org (Referrer) [2.612]
+
+Extracted Malicious Redirection Chain:
+
+disclose.tv
+└── dllumfqd.hopto.org (Referrer) [2.612]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-10-Goon-EK-traffic.pcap..
+
+Source IP: 192.168.204.184
+
+Redirection Chains:
+
+pulkahost.com
+lxq.gokirejeb.info
+└── p110501.typo3server.info (Referrer) [0.564]
+
+Extracted Malicious Redirection Chain:
+
+lxq.gokirejeb.info
+└── p110501.typo3server.info (Referrer) [0.564]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-11-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.186
+
+Redirection Chains:
+
+91.121.197.165
+ecab-cap.com
+mappery.com
+└── dkjcupyoen.myvnc.com (Referrer/iFrame) [0.103]
+get-smokers.com
+213.252.245.241
+
+Extracted Malicious Redirection Chain:
+
+mappery.com
+└── dkjcupyoen.myvnc.com (Referrer/iFrame) [0.103]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-12-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.183
+
+Redirection Chains:
+
+67.196.49.168
+arthur-abele.de
+└── 6b0543.e3fb5.c8.5b9.b0fc2e9.53.cd0.b7.df.unnujshair.smallestpieces.pw (JavaScript) [0.813]
+
+Extracted Malicious Redirection Chain:
+
+arthur-abele.de
+└── 6b0543.e3fb5.c8.5b9.b0fc2e9.53.cd0.b7.df.unnujshair.smallestpieces.pw (JavaScript) [0.813]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-13-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.179
+
+Redirection Chains:
+
+188.165.106.64
+mappery.com
+└── ihbctxjkp.myvnc.com (Referrer/iFrame) [0.119]
+
+Extracted Malicious Redirection Chain:
+
+mappery.com
+└── ihbctxjkp.myvnc.com (Referrer/iFrame) [0.119]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-14-Goon-EK-traffic.pcap..
+
+Source IP: 172.16.2.158
+
+Redirection Chains:
+
+autocorporation.ru
+└── bst.estebapenghiossewla.com (Referrer/iFrame) [1.093]
+    └── albertenglish.com (Referrer) [0.352]
+receiveoffset.cc
+get-smokers.com
+
+Extracted Malicious Redirection Chain:
+
+autocorporation.ru
+└── bst.estebapenghiossewla.com (Referrer/iFrame) [1.093]
+    └── albertenglish.com (Referrer) [0.352]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-16-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.189
+
+Redirection Chains:
+
+82.100.48.5
+77.237.121.19
+kroatie-vakantie.eu
+└── xmjqxjfsub.serveblog.net (Referrer/iFrame) [1.307]
+205.251.132.233
+75.125.144.114
+
+Extracted Malicious Redirection Chain:
+
+kroatie-vakantie.eu
+└── xmjqxjfsub.serveblog.net (Referrer/iFrame) [1.307]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-17-Zuponcic-EK-traffic.pcap..
+
+Source IP: 192.168.204.188
+
+Redirection Chains:
+
+silvergrey.es
+└── ambalanchery.drdekloet.com (Location/HTML) [0.52]
+    └── ga.instylecuts.net (Location) [0.896]
+sanctionedmedia.com
+93.115.88.220
+
+Extracted Malicious Redirection Chain:
+
+silvergrey.es
+└── ambalanchery.drdekloet.com (Location/HTML) [0.52]
+    └── ga.instylecuts.net (Location) [0.896]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-18-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.134
+
+Redirection Chains:
+
+forum.pafoa.org
+└── eleniteski.com (Referrer/JavaScript) [0.425]
+    └── bsxedc.in.ua (iFrame/JavaScript) [0.542]
+aaukqiooaseseuke.org
+
+Extracted Malicious Redirection Chain:
+
+forum.pafoa.org
+└── eleniteski.com (Referrer/JavaScript) [0.425]
+    └── bsxedc.in.ua (iFrame/JavaScript) [0.542]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-19-Goon-EK-traffic.pcap..
+
+Source IP: 172.16.2.163
+
+Redirection Chains:
+
+62.182.83.90
+31.211.146.170
+31.43.113.48
+dh5ltx.cotabuvileh.net
+└── a-inversiones.com (Location/HTML) [1.171]
+212.22.209.229
+178.172.226.222
+
+Extracted Malicious Redirection Chain:
+
+dh5ltx.cotabuvileh.net
+└── a-inversiones.com (Location/HTML) [1.171]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-22-Fiesta-EK-users-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+report.my555m5g55a5555.com
+quickr.org
+└── nwntmtvjs.hopto.org (Referrer/iFrame) [1.311]
+
+Extracted Malicious Redirection Chain:
+
+quickr.org
+└── nwntmtvjs.hopto.org (Referrer/iFrame) [1.311]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-22-Fiesta-EK-uses-java-exploit.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+report.ei17q3wsku1m9gmy9ce.com
+quickr.org
+└── kzuvgi.hopto.org (Referrer/iFrame) [1.832]
+
+Extracted Malicious Redirection Chain:
+
+quickr.org
+└── kzuvgi.hopto.org (Referrer/iFrame) [1.832]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-23-Angler-EK-traffic.pcap..
+
+Source IP: 172.16.2.158
+
+Redirection Chains:
+
+receiveoffset.cc
+66.96.195.49
+└── e1xguj.makeuhndall.info (Location/HTML) [0.245]
+
+Extracted Malicious Redirection Chain:
+
+66.96.195.49
+└── e1xguj.makeuhndall.info (Location/HTML) [0.245]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-23-blackhole-EK-traffic.pcap..
+
+Source IP: 192.168.204.191
+
+Redirection Chains:
+
+iskariot.ru
+└── 123ads.wha.la (Referrer/iFrame) [1.604]
+    └── bh4545.wha.la (Location) [1.011]
+
+Extracted Malicious Redirection Chain:
+
+iskariot.ru
+└── 123ads.wha.la (Referrer/iFrame) [1.604]
+    └── bh4545.wha.la (Location) [1.011]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-23-Goon-EK-traffic-1.pcap..
+
+Source IP: 192.168.204.133
+
+Redirection Chains:
+
+receiveoffset.cc
+nhpz.lalaghoaujrnu.info
+├── merayaar.com (Referrer) [0.618]
+└── shanproduction.net (Referrer) [0.73]
+
+Extracted Malicious Redirection Chain:
+
+nhpz.lalaghoaujrnu.info
+└── merayaar.com (Referrer) [0.618]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-23-Goon-EK-traffic-2.pcap..
+
+Source IP: 192.168.204.133
+
+Redirection Chains:
+
+receiveoffset.cc
+nhpz.lalaghoaujrnu.info
+├── merayaar.com (Referrer) [0.618]
+└── shanproduction.net (Referrer) [0.73]
+
+Extracted Malicious Redirection Chain:
+
+nhpz.lalaghoaujrnu.info
+└── shanproduction.net (Referrer) [0.73]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-23-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.134
+
+Redirection Chains:
+
+locandadalciano.com
+└── bit.do (Referrer/iFrame) [0.833]
+    └── nusc.in (Location/HTML) [0.22]
+        └── bnxm.biz (Referrer) [0.564]
+            └── 27.e97a7fd.4e.15b.6f7.ca0726.6f2744.f70.pidzfnbzozvj.pendates.in (Location) [1.808]
+
+Extracted Malicious Redirection Chain:
+
+locandadalciano.com
+└── bit.do (Referrer/iFrame) [0.833]
+    └── nusc.in (Location/HTML) [0.22]
+        └── bnxm.biz (Referrer) [0.564]
+            └── 27.e97a7fd.4e.15b.6f7.ca0726.6f2744.f70.pidzfnbzozvj.pendates.in (Location) [1.808]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-25-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.1.107
+
+Redirection Chains:
+
+lonestarconstruction.com
+├── bit.do (Referrer/iFrame) [0.164]
+│   └── nusc.in (Location/HTML) [0.339]
+│       └── bnxm.biz (Referrer) [0.531]
+│           └── 3ee0b.6b5.ed93d77.9e88.d4f0e.cf49a.79f.hsyeekqwnyd.dumprelated.in (Location) [1.749]
+└── bit.ly (Referrer/iFrame) [0.191]
+178.250.245.198
+67.196.50.155
+
+Extracted Malicious Redirection Chain:
+
+lonestarconstruction.com
+└── bit.do (Referrer/iFrame) [0.164]
+    └── nusc.in (Location/HTML) [0.339]
+        └── bnxm.biz (Referrer) [0.531]
+            └── 3ee0b.6b5.ed93d77.9e88.d4f0e.cf49a.79f.hsyeekqwnyd.dumprelated.in (Location) [1.749]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-26-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+christianforums.com
+└── hillkikins.com (Referrer/JavaScript) [1.22]
+    └── bvtgbt.in.ua (JavaScript/iFrame) [0.632]
+kuyuacgsiowawsqa.org
+
+Extracted Malicious Redirection Chain:
+
+christianforums.com
+└── hillkikins.com (Referrer/JavaScript) [1.22]
+    └── bvtgbt.in.ua (JavaScript/iFrame) [0.632]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-27-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.133
+
+Redirection Chains:
+
+andresandim.com
+└── jscriptmod.com (Referrer/HTML/JavaScript) [1.431]
+    └── 2rk565d0pp0f5ww8c1dk3kd-6id.summernice-best.ru (iFrame/JavaScript) [0.557]
+        └── 1159407037-6.summernice-best.ru (Subdomain) [18.069]
+
+Extracted Malicious Redirection Chain:
+
+andresandim.com
+└── jscriptmod.com (Referrer/HTML/JavaScript) [1.431]
+    └── 2rk565d0pp0f5ww8c1dk3kd-6id.summernice-best.ru (iFrame/JavaScript) [0.557]
+        └── 1159407037-6.summernice-best.ru (Subdomain) [18.069]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-28-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.193
+
+Redirection Chains:
+
+toonzone.net
+└── ilinsting.com (Referrer/JavaScript) [0.335]
+    └── bgbyhn.in.ua (iFrame/JavaScript) [0.764]
+
+Extracted Malicious Redirection Chain:
+
+toonzone.net
+└── ilinsting.com (Referrer/JavaScript) [0.335]
+    └── bgbyhn.in.ua (iFrame/JavaScript) [0.764]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-29-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.2.156
+
+Redirection Chains:
+
+project.andhiequest.com
+└── bkapaep35cp5h47qef1lpgl.fm.gen.tr (Location/HTML) [1.364]
+    └── bkapaep35cp5h47qef1lpgl710553a481a25180678882336600ae233.fm.gen.tr (Referrer/Base64) [1.378]
+        └── ecn5olbsyleclcvzlla1xji.allextreme.com.mx (Referrer/Base64) [21.976]
+46.165.222.218
+
+Extracted Malicious Redirection Chain:
+
+project.andhiequest.com
+└── bkapaep35cp5h47qef1lpgl.fm.gen.tr (Location/HTML) [1.364]
+    └── bkapaep35cp5h47qef1lpgl710553a481a25180678882336600ae233.fm.gen.tr (Referrer/Base64) [1.378]
+        └── ecn5olbsyleclcvzlla1xji.allextreme.com.mx (Referrer/Base64) [21.976]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-31-Fiesta-EK-traffic-01.pcap..
+
+Source IP: 192.168.204.134
+
+Redirection Chains:
+
+cruisemates.com
+└── ariasty.org (Referrer/JavaScript) [0.186]
+    └── cloudm.in.ua (iFrame/JavaScript) [0.366]
+kuyuacgsiowawsqa.org
+
+Extracted Malicious Redirection Chain:
+
+cruisemates.com
+└── ariasty.org (Referrer/JavaScript) [0.186]
+    └── cloudm.in.ua (iFrame/JavaScript) [0.366]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-03-31-Fiesta-EK-traffic-02.pcap..
+
+Source IP: 192.168.204.133
+
+Redirection Chains:
+
+subaruoutback.org
+└── jollingsi.com (Referrer/JavaScript) [0.301]
+    └── cloudm.in.ua (JavaScript/iFrame) [0.589]
+kuyuacgsiowawsqa.org
+
+Extracted Malicious Redirection Chain:
+
+subaruoutback.org
+└── jollingsi.com (Referrer/JavaScript) [0.301]
+    └── cloudm.in.ua (JavaScript/iFrame) [0.589]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-01-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.190
+
+Redirection Chains:
+
+mapsofworld.com
+└── chbjaffs.hopto.org (Referrer/iFrame) [0.056]
+
+Extracted Malicious Redirection Chain:
+
+mapsofworld.com
+└── chbjaffs.hopto.org (Referrer/iFrame) [0.056]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-02-Goon-EK-traffic.pcap..
+
+Source IP: 172.16.2.169
+
+Redirection Chains:
+
+floordelig.nl
+├── tigercom.net (Referrer/JavaScript) [0.46]
+├── musecdn2.businesscatalyst.com (Referrer/JavaScript) [0.979]
+└── insal.cl (Referrer/JavaScript) [2.245]
+    └── irp-ecole.be (iFrame) [0.116]
+atlaneeler.ru
+onedrive.live.com
+
+Extracted Malicious Redirection Chain:
+
+floordelig.nl
+└── insal.cl (Referrer/JavaScript) [2.245]
+    └── irp-ecole.be (iFrame) [0.116]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-04-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.212
+
+Redirection Chains:
+
+electriciantalk.com
+└── teleleksi.com (Referrer/JavaScript) [0.792]
+    └── caploz.in.ua (iFrame/JavaScript) [0.585]
+
+Extracted Malicious Redirection Chain:
+
+electriciantalk.com
+└── teleleksi.com (Referrer/JavaScript) [0.792]
+    └── caploz.in.ua (iFrame/JavaScript) [0.585]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-06-Goon-EK-traffic_missingC.pcap..
+
+Source IP: 172.16.117.133
+
+Redirection Chains:
+
+utyuu.kirstendunnn.ru
+└── fonsprom.com (Referrer) [0.253]
+utyuu.kirstendunnn.ru
+fonsprom.com
+
+Extracted Malicious Redirection Chain:
+
+utyuu.kirstendunnn.ru
+└── fonsprom.com (Referrer) [0.253]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-07-Nuclear-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.217
+
+Redirection Chains:
+
+66.96.223.204
+└── f1xu8se5mo9fk9lw6b37dx3d4a-zx8.dysteriew.ru (Referrer) [0.754]
+    └── 514699071-8.dysteriew.ru (Referrer) [12.555]
+receiveoffset.cc
+
+Extracted Malicious Redirection Chain:
+
+66.96.223.204
+└── f1xu8se5mo9fk9lw6b37dx3d4a-zx8.dysteriew.ru (Referrer) [0.754]
+    └── 514699071-8.dysteriew.ru (Referrer) [12.555]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-08-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.220
+
+Redirection Chains:
+
+forums.pinstack.com
+└── rediskins.com (Referrer/JavaScript) [1.243]
+    └── cdryme.in.ua (iFrame/JavaScript) [1.399]
+
+Extracted Malicious Redirection Chain:
+
+forums.pinstack.com
+└── rediskins.com (Referrer/JavaScript) [1.243]
+    └── cdryme.in.ua (iFrame/JavaScript) [1.399]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-09-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.223
+
+Redirection Chains:
+
+ed-fotografie.de
+└── escacsbanyoles.cat (Referrer/JavaScript) [0.033]
+    └── wd4p0nw2fh5l0rw7r8112-5.foyilleavrt.ru (iFrame/JavaScript) [1.478]
+        └── 1738897631-5.foyilleavrt.ru (Referrer) [19.082]
+
+Extracted Malicious Redirection Chain:
+
+ed-fotografie.de
+└── escacsbanyoles.cat (Referrer/JavaScript) [0.033]
+    └── wd4p0nw2fh5l0rw7r8112-5.foyilleavrt.ru (iFrame/JavaScript) [1.478]
+        └── 1738897631-5.foyilleavrt.ru (Referrer) [19.082]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-10-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.1.108
+
+Redirection Chains:
+
+troysbilliards.ca
+└── ads.groupmailing.net (Referrer) [0.234]
+    └── enc.beyfiersd.info (Location/Referrer) [0.404]
+        └── 1n2wg6d725h3sz458-8ax.treywoo.ru (Referrer) [0.463]
+            └── 3803532846-8.treywoo.ru (Referrer) [11.806]
+offsetodate.cc
+
+Extracted Malicious Redirection Chain:
+
+troysbilliards.ca
+└── ads.groupmailing.net (Referrer) [0.234]
+    └── enc.beyfiersd.info (Location/Referrer) [0.404]
+        └── 1n2wg6d725h3sz458-8ax.treywoo.ru (Referrer) [0.463]
+            └── 3803532846-8.treywoo.ru (Referrer) [11.806]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-11-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.224
+
+Redirection Chains:
+
+kffl.com
+└── sordonics.com (Referrer) [2.87]
+    └── hizpor.info (Referrer/JavaScript) [0.834]
+        └── 11imaw1.dimatur.pt (Location) [0.67]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+kffl.com
+└── sordonics.com (Referrer) [2.87]
+    └── hizpor.info (Referrer/JavaScript) [0.834]
+        └── 11imaw1.dimatur.pt (Location) [0.67]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-12-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.117.134
+
+Redirection Chains:
+
+harley-davidsonforums.com
+└── kittysklubs.com (Referrer/JavaScript) [0.369]
+    └── kliftpres.com (iFrame/JavaScript) [0.796]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+harley-davidsonforums.com
+└── kittysklubs.com (Referrer/JavaScript) [0.369]
+    └── kliftpres.com (iFrame/JavaScript) [0.796]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-13-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.117.133
+
+Redirection Chains:
+
+shootersforum.com
+└── breddyliksir.com (Referrer/JavaScript) [0.426]
+    └── weoikcus.org (JavaScript/iFrame) [0.193]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+shootersforum.com
+└── breddyliksir.com (Referrer/JavaScript) [0.426]
+    └── weoikcus.org (JavaScript/iFrame) [0.193]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-14-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.226
+
+Redirection Chains:
+
+uiltrasporticalabria.it
+└── strs130.wha.la (Referrer/iFrame) [0.246]
+    ├── fa95.wha.la (Referrer/iFrame) [0]
+    │   └── 9b5ef08.e9b.1c34d5.379b.0078.5638.0cd0.rpaitxocww.dumpequally.net (Location) [2.204]
+    └── 120.statscreen.info (Referrer/JavaScript/iFrame) [21.021]
+        └── za.zeroredirect1.com (Location) [0.666]
+87.224.219.174
+niggaattack23.com
+kuawkswesmaaaqwm.org
+report.q5w5u55i5qgm5g5.com
+202.122.19.2
+186.18.247.186
+67.196.3.65
+89.215.196.42
+report.c17u317aaa79eiq9ws.com
+91.220.131.58
+115.165.252.67
+baggonally.com
+
+Extracted Malicious Redirection Chain:
+
+uiltrasporticalabria.it
+└── strs130.wha.la (Referrer/iFrame) [0.246]
+    ├── fa95.wha.la (Referrer/iFrame) [0]
+    │   └── 9b5ef08.e9b.1c34d5.379b.0078.5638.0cd0.rpaitxocww.dumpequally.net (Location) [2.204]
+    └── 120.statscreen.info (Referrer/JavaScript/iFrame) [21.021]
+        └── za.zeroredirect1.com (Location) [0.666]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-15-Goon-EK-exploit-examples_missingC.pcap..
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+pppp.tetronopadk.in
+└── tripleaom.com (Location/HTML) [0.459]
+
+Source IP: 192.168.204.195
+
+Redirection Chains:
+
+pppp.tetronopadk.in
+└── tripleaom.com (Location/HTML) [0.256]
+msftncsi.com
+
+Source IP: 192.168.204.194
+
+Redirection Chains:
+
+pppp.tetronopadk.in
+└── tripleaom.com (Location) [0.234]
+
+Extracted Malicious Redirection Chain:
+
+pppp.tetronopadk.in
+└── tripleaom.com (Location/HTML) [0.459]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-15-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+fitrahpower.com
+├── kreotceonite.com (Referrer) [0.517]
+└── anadoluengellilerkenti.com (Referrer) [0.558]
+    └── bealplay.com (Referrer/HTML/JavaScript) [0.868]
+        └── 44d.c07.5d7.5ce6.17c4.96d.0038dec.aeea6.ujxadmcithxz.suggestinglots.in (Referrer) [0.401]
+unuse-bubler.com
+37.139.108.182
+27.6.57.231
+sev2012.com
+├── d1vbm0eveofcle.cloudfront.net (Referrer/JavaScript) [2.238]
+├── dp.g.doubleclick.net (Referrer) [4.306]
+│   └── afs.googleusercontent.com (Referrer) [0.692]
+├── gstatic.com (Referrer) [4.298]
+└── themes.googleusercontent.com (Referrer) [0.505]
+report.e931eiqg7iqgm9g1i.com
+msftncsi.com
+89.45.5.97
+92.244.121.3
+report.1e93k793ws9e179e.com
+bee-pass.com
+kuawkswesmaaaqwm.org
+212.66.59.107
+185.16.209.195
+baggonally.com
+46.187.31.8
+176.73.175.44
+
+Extracted Malicious Redirection Chain:
+
+fitrahpower.com
+└── anadoluengellilerkenti.com (Referrer) [0.558]
+    └── bealplay.com (Referrer/HTML/JavaScript) [0.868]
+        └── 44d.c07.5d7.5ce6.17c4.96d.0038dec.aeea6.ujxadmcithxz.suggestinglots.in (Referrer) [0.401]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-16-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.117.133
+
+Redirection Chains:
+
+excelforum.com
+└── valeriesn.com (Referrer/JavaScript) [2.156]
+    └── cryriv.in.ua (JavaScript/iFrame) [0.553]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+excelforum.com
+└── valeriesn.com (Referrer/JavaScript) [2.156]
+    └── cryriv.in.ua (JavaScript/iFrame) [0.553]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-16-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+deportan.com.mx
+└── ironsportsbook.com (Referrer) [0.866]
+    └── str420.wha.la (Referrer/iFrame) [0]
+        └── 40909.e877985.75beb1.3126.2759.b7f5b.3.ymxgizns.poundswhose.in (Location) [0.585]
+unuse-bubler.com
+94.251.98.15
+193.32.14.186
+212.75.6.27
+181.46.31.121
+report.9e17k3yw931g9i1q9w1.com
+bee-pass.com
+report.1eiqg79a17eiq7ws.com
+baggonally.com
+└── 146.185.233.38 (Unknown) [3.426]
+sev2012.com
+red-stoneses.com
+
+Extracted Malicious Redirection Chain:
+
+deportan.com.mx
+└── ironsportsbook.com (Referrer) [0.866]
+    └── str420.wha.la (Referrer/iFrame) [0]
+        └── 40909.e877985.75beb1.3126.2759.b7f5b.3.ymxgizns.poundswhose.in (Location) [0.585]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-17-FlashPack-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+195.2.253.38
+9iunfi0idsvtxk4ymdgr9j7.gecekiyafetleri.gen.tr
+└── 9iunfi0idsvtxk4ymdgr9j7517653b1f0d711f1242451e294eccc16d.gecekiyafetleri.gen.tr (Referrer/Base64) [0.856]
+174.143.144.69
+
+Extracted Malicious Redirection Chain:
+
+9iunfi0idsvtxk4ymdgr9j7.gecekiyafetleri.gen.tr
+└── 9iunfi0idsvtxk4ymdgr9j7517653b1f0d711f1242451e294eccc16d.gecekiyafetleri.gen.tr (Referrer/Base64) [0.856]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-17-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.1.107
+
+Redirection Chains:
+
+hayatmersin.com
+└── anadoluengellilerkenti.com (Referrer) [5.382]
+    └── cafenoirproductions.com (Referrer/HTML/JavaScript) [0.606]
+        └── b33715e.1f.de4ce9b.1ed.d0303ec.b7d939.yccgnkggdknu.referredknew.in (Referrer) [0.768]
+report.ce55ku55iqg5iqg.com
+178.209.76.179
+update.jstn26gi89r.com
+89.45.5.97
+61.228.88.98
+unuse-bubler.com
+update1.biix9yc.com
+report.i5qgmy5ceiqg5iq.com
+37.57.12.211
+gorotza.biz
+└── 74.50.103.92 (Referrer/HTML) [73.718]
+
+Extracted Malicious Redirection Chain:
+
+hayatmersin.com
+└── anadoluengellilerkenti.com (Referrer) [5.382]
+    └── cafenoirproductions.com (Referrer/HTML/JavaScript) [0.606]
+        └── b33715e.1f.de4ce9b.1ed.d0303ec.b7d939.yccgnkggdknu.referredknew.in (Referrer) [0.768]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-18-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.117.136
+
+Redirection Chains:
+
+2coolfishing.com
+└── punkisti.com (Referrer/JavaScript) [0.431]
+    └── cpdels.in.ua (JavaScript/iFrame) [0.445]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+2coolfishing.com
+└── punkisti.com (Referrer/JavaScript) [0.431]
+    └── cpdels.in.ua (JavaScript/iFrame) [0.445]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-20-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.225
+
+Redirection Chains:
+
+cba.org.uk
+└── toolbarueries-googles.ru (Referrer/iFrame) [1.337]
+    └── toolbarueries-googless.ru (Referrer) [1.78]
+        └── dromessop.org (Location) [0.598]
+            ├── seek7er.epicgamer.org:9290 (Location) [1.086]
+            └── seek7er.epicgamer.org (HTML) [1.086]
+seek12er.shellcode.eu
+
+Extracted Malicious Redirection Chain:
+
+cba.org.uk
+└── toolbarueries-googles.ru (Referrer/iFrame) [1.337]
+    └── toolbarueries-googless.ru (Referrer) [1.78]
+        └── dromessop.org (Location) [0.598]
+            ├── seek7er.epicgamer.org:9290 (Location) [1.086]
+            └── seek7er.epicgamer.org (HTML) [1.086]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-22-Angler-EK-traffic-03_missingC.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+midtraffic.biz
+└── p1315noprat-wezenlijk.tri-citydrywall.com (JavaScript/iFrame) [28.294]
+
+Extracted Malicious Redirection Chain:
+
+midtraffic.biz
+└── p1315noprat-wezenlijk.tri-citydrywall.com (JavaScript/iFrame) [28.294]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-22-Angler-EK-traffic-04_missingC.pcap..
+
+Source IP: 192.168.204.229
+
+Redirection Chains:
+
+middtraffic.biz
+└── lampadaryoptimistiselta.particlehero.com (JavaScript/iFrame) [17.15]
+
+Extracted Malicious Redirection Chain:
+
+middtraffic.biz
+└── lampadaryoptimistiselta.particlehero.com (JavaScript/iFrame) [17.15]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-23-Goon-EK-traffic-1_missingC.pcap..
+
+Source IP: 192.168.204.226
+
+Redirection Chains:
+
+66.96.223.222
+└── ekoplanowanie.pl (Referrer) [0.795]
+
+Source IP: 192.168.204.194
+
+Redirection Chains:
+
+66.96.223.222
+└── ekoplanowanie.pl (Referrer) [0.912]
+
+Source IP: 192.168.204.195
+
+Redirection Chains:
+
+66.96.223.222
+└── mcs-clean.sakura.ne.jp (Referrer) [0.689]
+
+Extracted Malicious Redirection Chain:
+
+66.96.223.222
+└── ekoplanowanie.pl (Referrer) [0.795]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-23-Goon-EK-traffic-2_missingC.pcap..
+
+Source IP: 192.168.204.226
+
+Redirection Chains:
+
+66.96.223.222
+└── ekoplanowanie.pl (Referrer) [0.795]
+
+Source IP: 192.168.204.194
+
+Redirection Chains:
+
+66.96.223.222
+└── ekoplanowanie.pl (Referrer) [0.912]
+
+Source IP: 192.168.204.195
+
+Redirection Chains:
+
+66.96.223.222
+└── mcs-clean.sakura.ne.jp (Referrer) [0.689]
+
+Extracted Malicious Redirection Chain:
+
+66.96.223.222
+└── mcs-clean.sakura.ne.jp (Referrer) [0.689]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-26-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.230
+
+Redirection Chains:
+
+digital-media.gr
+└── galleya.com.ua (Referrer/JavaScript) [0.833]
+    └── 2decc.1a9d.d3.f93b0bf.a9c.efe7f.64f6d5.yfbxhpbig.feelchips.in (iFrame) [0.658]
+report.17931g93a79eiqgm.com
+quarante-ml.com
+193.169.245.5
+older-hiuwm.com
+
+Extracted Malicious Redirection Chain:
+
+digital-media.gr
+└── galleya.com.ua (Referrer/JavaScript) [0.833]
+    └── 2decc.1a9d.d3.f93b0bf.a9c.efe7f.64f6d5.yfbxhpbig.feelchips.in (iFrame) [0.658]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-27-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+tbs-wroclaw.com.pl
+└── polsko.org.ua (Referrer/JavaScript) [0.106]
+    ├── g2c711bx9e76o124-6dv.babyserr.ru (iFrame) [0]
+    │   └── 1315620091-6.babyserr.ru (Subdomain) [11.8]
+    └── 2oa7nl1sz1xk9a76rx1qe2br4ru-g6zk.babyserr.ru (iFrame) [4.698]
+backendapi32.com
+
+Extracted Malicious Redirection Chain:
+
+tbs-wroclaw.com.pl
+└── polsko.org.ua (Referrer/JavaScript) [0.106]
+    ├── g2c711bx9e76o124-6dv.babyserr.ru (iFrame) [0]
+    │   └── 1315620091-6.babyserr.ru (Subdomain) [11.8]
+    └── 2oa7nl1sz1xk9a76rx1qe2br4ru-g6zk.babyserr.ru (iFrame) [4.698]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-28-Angler-EK-traffic-using-flash-exploit.pcap..
+
+Source IP: 192.168.204.229
+
+Redirection Chains:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [102.665]
+    └── xenexo9fj6.fuminexyveqccs.com (JavaScript) [1.051]
+
+Extracted Malicious Redirection Chain:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [102.665]
+    └── xenexo9fj6.fuminexyveqccs.com (JavaScript) [1.051]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-28-Angler-EK-traffic-using-java-exploit.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [14.301]
+    └── k615o5ij7f.skwosh.eu (JavaScript) [1.243]
+
+Extracted Malicious Redirection Chain:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [14.301]
+    └── k615o5ij7f.skwosh.eu (JavaScript) [1.243]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-28-Angler-EK-traffic-using-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [13.381]
+    └── 1ldaph7slm.fuminexyveqccs.com (JavaScript) [1.283]
+
+Extracted Malicious Redirection Chain:
+
+ektf.hu
+└── ortoexport.es (JavaScript) [13.381]
+    └── 1ldaph7slm.fuminexyveqccs.com (JavaScript) [1.283]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-29-Angler-EK-traffic.pcap..
+
+Source IP: 172.16.223.135
+
+Redirection Chains:
+
+troysbilliards.ca
+└── ads.hoa.lu (Referrer) [2.233]
+    └── ugwpc.bimowamokykpps.net (Location/Referrer) [0.289]
+
+Extracted Malicious Redirection Chain:
+
+troysbilliards.ca
+└── ads.hoa.lu (Referrer) [2.233]
+    └── ugwpc.bimowamokykpps.net (Location/Referrer) [0.289]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-04-30-Magnitude-EK-traffic.pcap..
+
+Source IP: 172.16.223.132
+
+Redirection Chains:
+
+cec.com.mx
+└── ironsportsbook.com (Referrer) [0.842]
+    └── seror28.wha.la (Referrer/iFrame) [0]
+        └── 5cfe1.df.0572.77bbe0.d22.4a03.29246d.0c.hjyagwtu.safehe.in (Location) [2.106]
+103.31.186.13
+claudeberry.com
+biobetic-new.com
+184.56.61.108
+161.53.164.12
+94.23.32.170
+revolution-start.com
+
+Extracted Malicious Redirection Chain:
+
+cec.com.mx
+└── ironsportsbook.com (Referrer) [0.842]
+    └── seror28.wha.la (Referrer/iFrame) [0]
+        └── 5cfe1.df.0572.77bbe0.d22.4a03.29246d.0c.hjyagwtu.safehe.in (Location) [2.106]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-01-Magnitude-EK-traffic.pcap..
+
+Source IP: 172.16.223.134
+
+Redirection Chains:
+
+rap-zona.ru
+└── trueradio.ru (Location/HTML) [0.519]
+    ├── vk.com (Referrer) [0]
+    │   ├── st2.vk.me (Referrer/JavaScript) [0.536]
+    │   ├── st0.vk.me (Referrer/JavaScript) [0.542]
+    │   ├── cs618025.vk.me (Referrer/HTML) [0.544]
+    │   └── st3.vk.me (Referrer/JavaScript) [0.548]
+    └── seror31.wha.la (Referrer/iFrame) [0]
+        └── e2f.18.bc5.465f.90.33c10.26.1e098.26.efee.motbypqfa.afternoonride.pw (Location) [2.23]
+72.239.197.225
+93.77.80.138
+aoneteleshop.com
+connect.odnoklassniki.ru
+biobetic-new.com
+revolution-start.com
+harm-causer.com
+
+Extracted Malicious Redirection Chain:
+
+trueradio.ru
+└── seror31.wha.la (Referrer/iFrame) [0]
+    └── e2f.18.bc5.465f.90.33c10.26.1e098.26.efee.motbypqfa.afternoonride.pw (Location) [2.23]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-02-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+biobetic-new.com
+aoneteleshop.com
+the10search.net
+└── c462.81d9.3b311.283f0fd.3f5ea.966.8d.99.qqmytmmh.naughtygaining.net (Location) [1.51]
+revolution-start.com
+
+Extracted Malicious Redirection Chain:
+
+the10search.net
+└── c462.81d9.3b311.283f0fd.3f5ea.966.8d.99.qqmytmmh.naughtygaining.net (Location) [1.51]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-05-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.229
+
+Redirection Chains:
+
+e-devlet.biz.tr
+└── pagerank.net.au (Referrer) [5.778]
+    └── hotpopups.com (HTML) [0.863]
+        ├── papasearch.info (Location) [1.383]
+        └── 124124.ttl60.com (Location/Referrer) [1.783]
+clp.ie
+dj819fh10081.com
+blessings-4u.com
+
+Extracted Malicious Redirection Chain:
+
+e-devlet.biz.tr
+└── pagerank.net.au (Referrer) [5.778]
+    └── hotpopups.com (HTML) [0.863]
+        ├── papasearch.info (Location) [1.383]
+        └── 124124.ttl60.com (Location/Referrer) [1.783]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-07-Angler-EK-traffic.pcap..
+
+Source IP: 172.16.223.134
+
+Redirection Chains:
+
+renegadedietbook.com
+└── criminalduiattorneyboulder.com (Referrer/HTML) [1.431]
+    └── dk2w.lanapyxefyfppw.com (Referrer/HTML) [1.31]
+
+Extracted Malicious Redirection Chain:
+
+renegadedietbook.com
+└── criminalduiattorneyboulder.com (Referrer/HTML) [1.431]
+    └── dk2w.lanapyxefyfppw.com (Referrer/HTML) [1.31]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-07-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.230
+
+Redirection Chains:
+
+jvgroup.com.au
+└── adv-inc-net.com (Referrer/iFrame) [11.084]
+    └── favoros19.info (Referrer/iFrame) [0.043]
+manufact-is.com
+molinaderrec.com
+perimeter-search.com
+helped-search.com
+country-search.com
+diseases-search.com
+submission-search.com
+└── gutter-magen.com (Referrer) [9.499]
+head-pcs.com
+msftncsi.com
+available-search.com
+travels-search.com
+companies-search.com
+└── gutter-magen.com (Referrer) [9.085]
+recommendation-search.com
+convoy-search.com
+└── gutter-magen.com (Referrer) [9.67]
+provide-search.com
+
+Extracted Malicious Redirection Chain:
+
+jvgroup.com.au
+└── adv-inc-net.com (Referrer/iFrame) [11.084]
+    └── favoros19.info (Referrer/iFrame) [0.043]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-09-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.232
+
+Redirection Chains:
+
+dressupgames.com
+└── matrica.aktivator.biz (Referrer) [0.219]
+    ├── fakal.info (Referrer/JavaScript) [1.066]
+    └── rewol.info (Referrer) [1.795]
+        └── 9xgerh0.dimatur.pt (Location) [0.557]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+dressupgames.com
+└── matrica.aktivator.biz (Referrer) [0.219]
+    ├── fakal.info (Referrer/JavaScript) [1.066]
+    └── rewol.info (Referrer) [1.795]
+        └── 9xgerh0.dimatur.pt (Location) [0.557]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-10-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.223.131
+
+Redirection Chains:
+
+tourtravelogue.com
+└── 82.118.17.38 (Referrer/iFrame) [2.386]
+    └── buiadnaiuayf.ml (Location) [1.972]
+
+Extracted Malicious Redirection Chain:
+
+tourtravelogue.com
+└── 82.118.17.38 (Referrer/iFrame) [2.386]
+    └── buiadnaiuayf.ml (Location) [1.972]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-11-FlashPack-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+asaprent.ca
+└── jswhois.com (Referrer/JavaScript) [0]
+    └── dg9sdgykl.trade-e.com (JavaScript/iFrame) [0.66]
+
+Extracted Malicious Redirection Chain:
+
+asaprent.ca
+└── jswhois.com (Referrer/JavaScript) [0]
+    └── dg9sdgykl.trade-e.com (JavaScript/iFrame) [0.66]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-12-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.227
+
+Redirection Chains:
+
+zemmes-gimbl.com
+molinaderrec.com
+quickr.org
+└── hkjsejlh.servequake.com (Referrer/iFrame) [1.328]
+chanse-leaf.com
+
+Extracted Malicious Redirection Chain:
+
+quickr.org
+└── hkjsejlh.servequake.com (Referrer/iFrame) [1.328]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-13-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+portfolio.sudpresse.be
+└── howtotradeleaps.com (Referrer/HTML) [7.605]
+    └── one.fdsfgsgdvsd.biz (Referrer/HTML) [0.288]
+
+Extracted Malicious Redirection Chain:
+
+portfolio.sudpresse.be
+└── howtotradeleaps.com (Referrer/HTML) [7.605]
+    └── one.fdsfgsgdvsd.biz (Referrer/HTML) [0.288]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-13-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.195
+
+Redirection Chains:
+
+gin.mapdiv.net
+└── ad.convfunnel.com (Referrer/JavaScript) [0.144]
+    └── faint.healthylivingclinics.com (Referrer/JavaScript) [0.197]
+        └── full.409cremate.com (Referrer/JavaScript) [2.175]
+group.aggipulla.com
+
+Extracted Malicious Redirection Chain:
+
+gin.mapdiv.net
+└── ad.convfunnel.com (Referrer/JavaScript) [0.144]
+    └── faint.healthylivingclinics.com (Referrer/JavaScript) [0.197]
+        └── full.409cremate.com (Referrer/JavaScript) [2.175]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-14-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+handmader.in
+└── adv-inc-net.com (Referrer/iFrame) [1.287]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.331]
+        └── alterbee.cf (Referrer/iFrame) [0.376]
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+handmader.in
+└── adv-inc-net.com (Referrer/iFrame) [1.072]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.442]
+        └── alterbee.cf (Referrer/iFrame) [0.192]
+gstatic.com
+
+Source IP: 192.168.204.230
+
+Redirection Chains:
+
+handmader.in
+└── adv-inc-net.com (Referrer/iFrame) [1.03]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.362]
+        └── alterbee.cf (Referrer/iFrame) [0.214]
+gstatic.com
+
+Extracted Malicious Redirection Chain:
+
+handmader.in
+└── adv-inc-net.com (Referrer/iFrame) [1.287]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.331]
+        └── alterbee.cf (Referrer/iFrame) [0.376]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-15-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.223.131
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.011]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [1.077]
+
+Source IP: 172.16.223.134
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.337]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [0.972]
+
+Source IP: 172.16.223.135
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.535]
+    └── peterjarvisphotography.com (Referrer/iFrame) [6.279]
+        └── restartbee.ml (Referrer/iFrame) [0.306]
+
+Extracted Malicious Redirection Chain:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.011]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [1.077]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-16-Nuclear-EK-traffic.pcap..
+
+Source IP: 172.16.223.131
+
+Redirection Chains:
+
+gop.findopt.net
+└── ad.convfunnel.com (Referrer/JavaScript) [0.141]
+    └── hbomb.agentlyusedhomestore.com (Referrer/JavaScript) [0.134]
+        └── hospitality.medicalbodydonations.org (Referrer/JavaScript) [1.803]
+free.charliebever.com
+
+Extracted Malicious Redirection Chain:
+
+gop.findopt.net
+└── ad.convfunnel.com (Referrer/JavaScript) [0.141]
+    └── hbomb.agentlyusedhomestore.com (Referrer/JavaScript) [0.134]
+        └── hospitality.medicalbodydonations.org (Referrer/JavaScript) [1.803]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-16-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.223.131
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.011]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [1.077]
+
+Source IP: 172.16.223.134
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.337]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [0.972]
+
+Source IP: 172.16.223.135
+
+Redirection Chains:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.535]
+    └── peterjarvisphotography.com (Referrer/iFrame) [6.279]
+        └── restartbee.ml (Referrer/iFrame) [0.306]
+
+Extracted Malicious Redirection Chain:
+
+matercom.net
+└── adv-inc-net.com (Referrer/iFrame) [0.011]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0]
+        └── restartbee.ml (Referrer/iFrame) [1.077]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-18-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.235
+
+Redirection Chains:
+
+mix-juert.com
+molinaderrec.com
+helped-search.com
+companies-search.com
+country-search.com
+blues-search.com
+aquariums-search.com
+perimeter-search.com
+mappery.com
+└── oxqbce.redirectme.net (Referrer/iFrame) [0.816]
+phil-comfo.com
+username-search.com
+satisfaction-search.com
+ecored-search.com
+thousands-search.com
+services-search.com
+diseases-search.com
+travels-search.com
+
+Extracted Malicious Redirection Chain:
+
+mappery.com
+└── oxqbce.redirectme.net (Referrer/iFrame) [0.816]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-19-FlashPack-EK-traffic.pcap..
+
+Source IP: 192.168.204.222
+
+Redirection Chains:
+
+hitcric.info
+└── ley9nbu9c4c5r3oie3819it.ns1.bayandovmeci.com (Location) [1.583]
+    └── ley9nbu9c4c5r3oie3819it529953c1805362f91a2d16b6d071fd5b0.ns1.bayandovmeci.com (Referrer/Base64) [0.701]
+        └── n2yiu4b6vo91nruocik9or9.4gadgets.com.mx (Referrer/Base64) [23.091]
+195.2.253.38
+174.143.144.69
+
+Extracted Malicious Redirection Chain:
+
+hitcric.info
+└── ley9nbu9c4c5r3oie3819it.ns1.bayandovmeci.com (Location) [1.583]
+    └── ley9nbu9c4c5r3oie3819it529953c1805362f91a2d16b6d071fd5b0.ns1.bayandovmeci.com (Referrer/Base64) [0.701]
+        └── n2yiu4b6vo91nruocik9or9.4gadgets.com.mx (Referrer/Base64) [23.091]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-20-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.223.131
+
+Redirection Chains:
+
+ricettemantovane.it
+└── adv-inc-net.com (Referrer/iFrame) [1.614]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.135]
+        └── voorelkaarinzuid.nl (Referrer/iFrame) [0.531]
+mitger-qaser.com
+
+Extracted Malicious Redirection Chain:
+
+ricettemantovane.it
+└── adv-inc-net.com (Referrer/iFrame) [1.614]
+    └── peterjarvisphotography.com (Referrer/iFrame) [0.135]
+        └── voorelkaarinzuid.nl (Referrer/iFrame) [0.531]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-21-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.225
+
+Redirection Chains:
+
+autogeekonline.net
+└── villywons.com (Referrer/JavaScript) [1.012]
+    └── bizzess.in.ua (iFrame/JavaScript) [1.059]
+
+Extracted Malicious Redirection Chain:
+
+autogeekonline.net
+└── villywons.com (Referrer/JavaScript) [1.012]
+    └── bizzess.in.ua (iFrame/JavaScript) [1.059]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-21-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.227
+
+Redirection Chains:
+
+adv.catskills.house
+f1fanatic.co.uk
+├── cdn.buyorselltnhomes.com (Referrer) [0.178]
+└── adv.beachrental.house (Referrer) [6.772]
+
+Extracted Malicious Redirection Chain:
+
+f1fanatic.co.uk
+└── adv.beachrental.house (Referrer) [6.772]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+f1fanatic.co.uk
+└── cdn.buyorselltnhomes.com (Referrer) [0.178]
+    └── adv.beachrental.house (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-05-22-Fiesta-EK-traffic-01.pcap..
+
+Source IP: 172.16.223.134
+
+Redirection Chains:
+
+woodworkingtalk.com
+└── peartoper.com (Referrer/JavaScript) [4.983]
+    └── busiuse.in.ua (iFrame/JavaScript) [0.386]
+
+Extracted Malicious Redirection Chain:
+
+woodworkingtalk.com
+└── peartoper.com (Referrer/JavaScript) [4.983]
+    └── busiuse.in.ua (iFrame/JavaScript) [0.386]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-22-Fiesta-EK-traffic-02.pcap..
+
+Source IP: 172.16.223.135
+
+Redirection Chains:
+
+undertone.com
+└── maggyrt.com (Referrer/JavaScript) [0]
+    └── busiuse.in.ua (JavaScript/iFrame) [1.337]
+
+Extracted Malicious Redirection Chain:
+
+undertone.com
+└── maggyrt.com (Referrer/JavaScript) [0]
+    └── busiuse.in.ua (JavaScript/iFrame) [1.337]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-22-Fiesta-EK-traffic-03.pcap..
+
+Source IP: 172.16.223.136
+
+Redirection Chains:
+
+christianforums.com
+└── kookumber.com (Referrer/JavaScript) [1.245]
+    └── busiuse.in.ua (JavaScript/iFrame) [1.189]
+
+Extracted Malicious Redirection Chain:
+
+christianforums.com
+└── kookumber.com (Referrer/JavaScript) [1.245]
+    └── busiuse.in.ua (JavaScript/iFrame) [1.189]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-23-Angler-EK-uses-flash-exploit.pcap..
+
+Source IP: 192.168.204.195
+
+Redirection Chains:
+
+lordsroofing.co.uk
+├── statcounter.com (Referrer) [0.26]
+├── mcm-collection.de (Referrer/JavaScript) [0.293]
+│   └── dgw.tumijilpwq.net (iFrame) [0.425]
+└── c.statcounter.com (Referrer) [0.53]
+
+Extracted Malicious Redirection Chain:
+
+lordsroofing.co.uk
+└── mcm-collection.de (Referrer/JavaScript) [0.293]
+    └── dgw.tumijilpwq.net (iFrame) [0.425]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-23-Angler-EK-uses-java-exploit.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+lordsroofing.co.uk
+├── mcm-collection.de (Referrer/JavaScript) [0.075]
+│   └── dgw.tumijilpwq.net (iFrame) [0.451]
+├── statcounter.com (Referrer) [0.254]
+└── c.statcounter.com (Referrer) [0.124]
+
+Extracted Malicious Redirection Chain:
+
+lordsroofing.co.uk
+└── mcm-collection.de (Referrer/JavaScript) [0.075]
+    └── dgw.tumijilpwq.net (iFrame) [0.451]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-23-Angler-EK-uses-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.194
+
+Redirection Chains:
+
+lordsroofing.co.uk
+├── statcounter.com (Referrer) [0.169]
+├── mcm-collection.de (Referrer/JavaScript) [0.257]
+│   └── dgw.tumijilpwq.net (iFrame) [0.39]
+└── c.statcounter.com (Referrer) [0.163]
+
+Extracted Malicious Redirection Chain:
+
+lordsroofing.co.uk
+└── mcm-collection.de (Referrer/JavaScript) [0.257]
+    └── dgw.tumijilpwq.net (iFrame) [0.39]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-23-Blackhole-EK-traffic.pcap..
+
+Source IP: 192.168.204.196
+
+Redirection Chains:
+
+psr.com.au
+└── pornotrider.wha.la (Referrer/iFrame) [1.426]
+    └── ks.wha.la (Referrer/iFrame) [1.037]
+        └── go.exelo.ru (Location) [0.557]
+            └── kazius.wha.la (Location) [0.56]
+                └── black1.wha.la (Location) [0.416]
+
+Extracted Malicious Redirection Chain:
+
+psr.com.au
+└── pornotrider.wha.la (Referrer/iFrame) [1.426]
+    └── ks.wha.la (Referrer/iFrame) [1.037]
+        └── go.exelo.ru (Location) [0.557]
+            └── kazius.wha.la (Location) [0.56]
+                └── black1.wha.la (Location) [0.416]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-24-FlashPack-EK-traffic.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+siragon.com
+└── g07a1kxcnp83x1z21fjvqtw.parfumleri.org (Location/HTML) [0.481]
+    └── g07a1kxcnp83x1z21fjvqtw514453c24ac08a0a332387057f2f90f0b.parfumleri.org (Referrer/Base64) [0.684]
+        └── i5ntv90tcina5rkmtwbcqim.adultseohosting.com (Referrer/Base64) [42.322]
+
+Extracted Malicious Redirection Chain:
+
+siragon.com
+└── g07a1kxcnp83x1z21fjvqtw.parfumleri.org (Location/HTML) [0.481]
+    └── g07a1kxcnp83x1z21fjvqtw514453c24ac08a0a332387057f2f90f0b.parfumleri.org (Referrer/Base64) [0.684]
+        └── i5ntv90tcina5rkmtwbcqim.adultseohosting.com (Referrer/Base64) [42.322]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-25-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+oberzaknieja.eu
+├── lifephotoblogs.com (Referrer/JavaScript) [1.003]
+└── b6e0f620.eu (Referrer) [0.127]
+    └── denoting.centrixsf.com (Base64) [0.641]
+freepicscenter.pw
+nofbiatdominicana.com
+ourlittleponic.pw
+preluner-ter.com
+tarbus-coteh.com
+
+Extracted Malicious Redirection Chain:
+
+oberzaknieja.eu
+└── b6e0f620.eu (Referrer) [0.127]
+    └── denoting.centrixsf.com (Base64) [0.641]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+oberzaknieja.eu
+└── lifephotoblogs.com (JavaScript/Referrer) [?]
+    └── b6e0f620.eu (Advanced) [0.127]
+        └── denoting.centrixsf.com (Base64) [0.641]
+
+====================================================================================================
+
+Processing 2014-05-26-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.229
+
+Redirection Chains:
+
+gop.findopt.net
+└── ybpassbacks.com (Referrer/JavaScript) [0.334]
+    └── aus.lewisvilleoverheadgaragedoor.com (Referrer/JavaScript) [0.228]
+        └── b631c84ciws0dl.temenopbg.ru (Referrer/JavaScript) [2.487]
+            └── 3655320711-4.temenopbg.ru (Subdomain) [20.935]
+preluner-ter.com
+joye-luck.com
+perimeter-search.com
+documents-search.com
+travels-search.com
+ecored-search.com
+tarbus-coteh.com
+username-search.com
+forest-search.com
+country-search.com
+blues-search.com
+companies-search.com
+
+Extracted Malicious Redirection Chain:
+
+gop.findopt.net
+└── ybpassbacks.com (Referrer/JavaScript) [0.334]
+    └── aus.lewisvilleoverheadgaragedoor.com (Referrer/JavaScript) [0.228]
+        └── b631c84ciws0dl.temenopbg.ru (Referrer/JavaScript) [2.487]
+            └── 3655320711-4.temenopbg.ru (Subdomain) [20.935]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-27-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.220
+
+Redirection Chains:
+
+undertone.com
+└── maggyrt.com (Referrer/JavaScript) [1.315]
+    └── betters.in.ua (JavaScript/iFrame) [3.746]
+
+Extracted Malicious Redirection Chain:
+
+undertone.com
+└── maggyrt.com (Referrer/JavaScript) [1.315]
+    └── betters.in.ua (JavaScript/iFrame) [3.746]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-28-Angler-EK-uses-flash-exploit.pcap..
+
+Source IP: 192.168.204.222
+
+Redirection Chains:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.417]
+    └── epbh-recoiloperated.azpoolservicegilbert.org (Base64) [0.655]
+
+Extracted Malicious Redirection Chain:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.417]
+    └── epbh-recoiloperated.azpoolservicegilbert.org (Base64) [0.655]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-28-Angler-EK-uses-java-exploit.pcap..
+
+Source IP: 192.168.204.224
+
+Redirection Chains:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.31]
+    └── epbh-recoiloperated.azpoolservicegilbert.org (Base64) [1.795]
+
+Extracted Malicious Redirection Chain:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.31]
+    └── epbh-recoiloperated.azpoolservicegilbert.org (Base64) [1.795]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-28-Angler-EK-uses-silverlight-exploit.pcap..
+
+Source IP: 192.168.204.221
+
+Redirection Chains:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.373]
+    └── edinburghissapangermanic.azpoolservicemesa.com (Base64) [0.544]
+
+Extracted Malicious Redirection Chain:
+
+obchodveskrini.cz
+└── 448a2efd.eu (Referrer) [0.373]
+    └── edinburghissapangermanic.azpoolservicemesa.com (Base64) [0.544]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-29-FlashPack-EK-traffic.pcap..
+
+Source IP: 192.168.204.236
+
+Redirection Chains:
+
+parisi.com.au
+├── giralweb.com (Referrer/JavaScript) [0.578]
+│   └── 37.247.121.125 (Location/HTML) [0.313]
+└── jvstop.com (Referrer/JavaScript) [0.269]
+    └── fahhdfg.uyy95.com (JavaScript/iFrame) [1.641]
+
+Extracted Malicious Redirection Chain:
+
+parisi.com.au
+└── jvstop.com (Referrer/JavaScript) [0.269]
+    └── fahhdfg.uyy95.com (JavaScript/iFrame) [1.641]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-05-30-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.196
+
+Redirection Chains:
+
+danielferris.com.au
+├── tracksitetraffic1.com (Referrer) [2.137]
+│   └── visit-tracker.com (Unknown) [34.02]
+│       └── statcounter.com (Referrer) [1.507]
+├── html5shim.googlecode.com (Referrer/JavaScript) [3.002]
+└── co-z-comfort.com (Referrer/JavaScript) [0.944]
+    └── whatsuupp.co.vu (Location) [1.565]
+newsbrontima.com
+
+Extracted Malicious Redirection Chain:
+
+danielferris.com.au
+└── co-z-comfort.com (Referrer/JavaScript) [0.944]
+    └── whatsuupp.co.vu (Location) [1.565]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-01-Infinity-EK-traffic.pcap..
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+accademiabresciana.it
+└── nmsbaseball.com (Referrer/iFrame) [0.527]
+    └── apteka-tas.com.ua (Location) [0.852]
+defie-guret.com
+
+Source IP: 192.168.204.194
+
+Redirection Chains:
+
+accademiabresciana.it
+└── nmsbaseball.com (Referrer/iFrame) [0.304]
+    └── apteka-tas.com.ua (Location) [0.308]
+
+Extracted Malicious Redirection Chain:
+
+accademiabresciana.it
+└── nmsbaseball.com (Referrer/iFrame) [0.527]
+    └── apteka-tas.com.ua (Location) [0.852]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-02-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.223
+
+Redirection Chains:
+
+racionalcz.cz
+└── 609868ac.eu (Referrer) [0.1]
+    └── weaverfinch.sociolizer.com (Base64) [0.647]
+
+Extracted Malicious Redirection Chain:
+
+racionalcz.cz
+└── 609868ac.eu (Referrer) [0.1]
+    └── weaverfinch.sociolizer.com (Base64) [0.647]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-02-Nuclear-EK.pcap..
+
+Source IP: 192.168.204.196
+
+Redirection Chains:
+
+mirneboskrebov.ru
+└── brozdec.uneekstudio.com (Referrer/JavaScript/iFrame) [0.302]
+    └── grozam.hiperjogos.info (Location/HTML) [0.456]
+
+Extracted Malicious Redirection Chain:
+
+mirneboskrebov.ru
+└── brozdec.uneekstudio.com (Referrer/JavaScript/iFrame) [0.302]
+    └── grozam.hiperjogos.info (Location/HTML) [0.456]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-03-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.226
+
+Redirection Chains:
+
+racionalcz.cz
+└── 8bfd2cd9.eu (Referrer) [5.152]
+    └── jugoslaavienfisun.dvdandgifts.co.za (Base64) [4.225]
+
+Extracted Malicious Redirection Chain:
+
+racionalcz.cz
+└── 8bfd2cd9.eu (Referrer) [5.152]
+    └── jugoslaavienfisun.dvdandgifts.co.za (Base64) [4.225]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-04-Infinity-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+johnknightglass.co.uk
+└── investinbg.co.uk (Referrer/JavaScript) [0]
+    └── bcreativeworks.com (iFrame) [1.061]
+
+Source IP: 192.168.204.228
+
+Redirection Chains:
+
+johnknightglass.co.uk
+└── investinbg.co.uk (Referrer/JavaScript) [0.463]
+    └── bcreativeworks.com (iFrame) [0.678]
+87.118.90.136
+
+Extracted Malicious Redirection Chain:
+
+johnknightglass.co.uk
+└── investinbg.co.uk (Referrer/JavaScript) [0]
+    └── bcreativeworks.com (iFrame) [1.061]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-05-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+wranglerforum.com
+└── frozerry.com (Referrer/JavaScript) [0.355]
+    └── dogintoo.in.ua (JavaScript/iFrame) [0.844]
+195.2.253.38
+
+Extracted Malicious Redirection Chain:
+
+wranglerforum.com
+└── frozerry.com (Referrer/JavaScript) [0.355]
+    └── dogintoo.in.ua (JavaScript/iFrame) [0.844]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-07-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+erw-in.de
+└── rukmnqyegt.redirectme.net (Referrer/iFrame) [0]
+
+Extracted Malicious Redirection Chain:
+
+erw-in.de
+└── rukmnqyegt.redirectme.net (Referrer/iFrame) [0]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-08-Infinity-EK-traffic.pcap..
+
+Source IP: 192.168.204.230
+
+Redirection Chains:
+
+johnknightglass.co.uk
+├── dbk-dimitrov.com (Referrer/JavaScript) [0.445]
+│   └── elitecad.gr (iFrame) [0.417]
+└── l.longtailvideo.com (Referrer/JavaScript/HTML) [4.79]
+87.118.90.136
+
+Extracted Malicious Redirection Chain:
+
+johnknightglass.co.uk
+└── dbk-dimitrov.com (Referrer/JavaScript) [0.445]
+    └── elitecad.gr (iFrame) [0.417]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-10-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.135
+
+Redirection Chains:
+
+insideevs.com
+└── vl65q7njutvgbgbq6n127pw.arcadehaven.co.uk (Location/HTML) [1.407]
+    └── vl65q7njutvgbgbq6n127pw713453cf631795a54788823369999e837.arcadehaven.co.uk (Referrer/Base64) [1.304]
+        ├── 3jf9s456u0rqv91rno5pmfm.apteka-erekcja.pl (Referrer/Base64) [2.021]
+        └── 6yfx7dw82e3ezeqxl3orttp.antalyaescortlari.com (Referrer/Base64) [81.802]
+
+Extracted Malicious Redirection Chain:
+
+insideevs.com
+└── vl65q7njutvgbgbq6n127pw.arcadehaven.co.uk (Location/HTML) [1.407]
+    └── vl65q7njutvgbgbq6n127pw713453cf631795a54788823369999e837.arcadehaven.co.uk (Referrer/Base64) [1.304]
+        ├── 3jf9s456u0rqv91rno5pmfm.apteka-erekcja.pl (Referrer/Base64) [2.021]
+        └── 6yfx7dw82e3ezeqxl3orttp.antalyaescortlari.com (Referrer/Base64) [81.802]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-11-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.229
+
+Redirection Chains:
+
+electriciantalk.com
+└── homyakys.com (Referrer/JavaScript) [1.744]
+    └── dotcomor.in.ua (iFrame/JavaScript) [0.915]
+report.q17c3179g179317931.com
+report.i1qgmy7c31uo317i31.com
+report.1i9qgm9gm7g31aa3.com
+
+Extracted Malicious Redirection Chain:
+
+electriciantalk.com
+└── homyakys.com (Referrer/JavaScript) [1.744]
+    └── dotcomor.in.ua (iFrame/JavaScript) [0.915]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-14-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+talkofthevillages.com
+└── easyslowz.com (Referrer) [1.132]
+    └── deastome.in.ua (JavaScript/iFrame) [1.262]
+
+Extracted Malicious Redirection Chain:
+
+talkofthevillages.com
+└── easyslowz.com (Referrer) [1.132]
+    └── deastome.in.ua (JavaScript/iFrame) [1.262]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-17-Magnitude-EK-traffic-first-run.pcap..
+
+Source IP: 172.16.165.223
+
+Redirection Chains:
+
+212.38.166.94
+carbon-flx.su
+bankofbotswana.bw
+└── wilfredcostume.bamoon.com (Referrer/iFrame/JavaScript) [4.049]
+    └── da0.11e6f9.ed788e.86e9813.dfbea3.bf8.e.kjeupkfho.saysprice.in (Referrer/iFrame/JavaScript) [0.588]
+efuelia.com
+manulizza.com
+kopirabus.com
+valoherusn.su
+wilfredcostume.bamoon.com
+└── da0.11e6f9.ed788e.86e9813.dfbea3.bf8.e.kjeupkfho.saysprice.in (Referrer/iFrame/JavaScript) [0.588]
+kuqqqgskcsmkgyai.org
+orion-baet.su
+vision-vaper.su
+78.153.149.219
+195.130.192.65
+195.130.192.91
+173.255.241.19
+
+Extracted Malicious Redirection Chain:
+
+bankofbotswana.bw
+└── wilfredcostume.bamoon.com (Referrer/iFrame/JavaScript) [4.049]
+    └── da0.11e6f9.ed788e.86e9813.dfbea3.bf8.e.kjeupkfho.saysprice.in (Referrer/iFrame/JavaScript) [0.588]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-17-Magnitude-EK-traffic-second-run.pcap..
+
+Source IP: 172.16.165.135
+
+Redirection Chains:
+
+bankofbotswana.bw
+└── kirkasvalolamput.bamoon.com (Referrer/JavaScript/iFrame) [2.214]
+    └── 6ba2a.20b.3a2.b0c.8dab84.7da44c1.89c.57.mupqsuar.intoengineered.in (Referrer/JavaScript/iFrame) [1.777]
+efuelia.com
+78.153.149.219
+195.130.192.65
+195.130.192.91
+kirkasvalolamput.bamoon.com
+└── 6ba2a.20b.3a2.b0c.8dab84.7da44c1.89c.57.mupqsuar.intoengineered.in (Referrer/JavaScript/iFrame) [1.777]
+carbon-flx.su
+orion-baet.su
+manulizza.com
+kopirabus.com
+
+Extracted Malicious Redirection Chain:
+
+bankofbotswana.bw
+└── kirkasvalolamput.bamoon.com (Referrer/JavaScript/iFrame) [2.214]
+    └── 6ba2a.20b.3a2.b0c.8dab84.7da44c1.89c.57.mupqsuar.intoengineered.in (Referrer/JavaScript/iFrame) [1.777]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-19-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.227
+
+Redirection Chains:
+
+stat.litecsys.com
+└── static.sumibi.org (JavaScript) [0.961]
+    └── 4e63f29dvtlp.disbarmentscore.co7.us (Referrer) [1.495]
+        └── 2624633428-6.disbarmentscore.co7.us (Referrer) [5.576]
+
+Extracted Malicious Redirection Chain:
+
+stat.litecsys.com
+└── static.sumibi.org (JavaScript) [0.961]
+    └── 4e63f29dvtlp.disbarmentscore.co7.us (Referrer) [1.495]
+        └── 2624633428-6.disbarmentscore.co7.us (Referrer) [5.576]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-20-Angler-EK-traffic.pcap..
+
+Source IP: 172.16.253.138
+
+Redirection Chains:
+
+investorriches.com
+└── quemooono.com (Referrer/HTML) [2.096]
+    └── l7qrz.honigiwace.info (Referrer/HTML) [0.78]
+activababy.ru
+
+Extracted Malicious Redirection Chain:
+
+investorriches.com
+└── quemooono.com (Referrer/HTML) [2.096]
+    └── l7qrz.honigiwace.info (Referrer/HTML) [0.78]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-23-FlashPack-EK-uses-CVE-2013-2551-first-run.pcap..
+
+Source IP: 172.16.253.139
+
+Redirection Chains:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0.395]
+    └── dioselaks.lighthousecorppr.com (iFrame/JavaScript) [2.781]
+185.14.28.72
+
+Extracted Malicious Redirection Chain:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0.395]
+    └── dioselaks.lighthousecorppr.com (iFrame/JavaScript) [2.781]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-23-FlashPack-EK-uses-CVE-2013-2551-second-run.pcap..
+
+Source IP: 172.16.253.139
+
+Redirection Chains:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0.081]
+    └── gujakol.materialett.com.ar (JavaScript/iFrame) [1.305]
+185.14.28.72
+
+Extracted Malicious Redirection Chain:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0.081]
+    └── gujakol.materialett.com.ar (JavaScript/iFrame) [1.305]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-23-FlashPack-EK-with-IE-11-successful-infection.pcap..
+
+Source IP: 172.16.253.137
+
+Redirection Chains:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0]
+    └── dioselaks.carltiedemann.com (iFrame/JavaScript) [0.997]
+185.14.28.72
+
+Extracted Malicious Redirection Chain:
+
+thomaseye.com
+└── jscriptlink.com (Referrer/JavaScript) [0]
+    └── dioselaks.carltiedemann.com (iFrame/JavaScript) [0.997]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-25-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+askmen.com
+├── images.askmen.com (Referrer/HTML/JavaScript/iFrame) [0.096]
+├── static.adziff.com (Referrer/JavaScript) [2.709]
+│   ├── zdbb.net (JavaScript) [0.802]
+│   │   ├── sync.mathtag.com (Location) [2.0]
+│   │   ├── api.bizographics.com (Location) [0.555]
+│   │   └── cm.g.doubleclick.net (Location) [0.54]
+│   └── static.ziffdavis.com (HTML/JavaScript) [2.859]
+├── stat.litecsys.com (Referrer) [0.62]
+│   └── static.sumibi.org (JavaScript) [2.103]
+│       └── 4607c15apbmyk.wealeh.uni.me (Referrer) [2.956]
+│           └── 2453099568-6.wealeh.uni.me (Referrer) [6.706]
+├── c.betrad.com (Referrer) [1.553]
+├── cdn.linksmart.com (Referrer) [1.69]
+├── b.scorecardresearch.com (Referrer) [1.751]
+├── googletagservices.com (Referrer/HTML/JavaScript) [1.815]
+│   └── pagead2.googlesyndication.com (Unknown) [4.332]
+├── geobar.ziffdavisinternational.com (Referrer/JavaScript) [0]
+├── stats.g.doubleclick.net (Referrer) [1.815]
+├── l.betrad.com (Referrer) [4.687]
+├── pixel.quantserve.com (Referrer) [4.814]
+├── mp.link-smart.com (Referrer) [4.814]
+├── partner.googleadservices.com (Referrer) [5.007]
+├── s3.amazonaws.com (Referrer) [1.806]
+├── pubads.g.doubleclick.net (Referrer) [5.694]
+│   ├── ads.ign.com (Location/JavaScript) [0.54]
+│   ├── bs.serving-sys.com (Unknown) [0.357]
+│   ├── ad.doubleclick.net (JavaScript) [0.3]
+│   ├── s0.2mdn.net (JavaScript) [0.54]
+│   └── enewsletters.ziffdavisinternet.com (JavaScript) [0.3]
+├── static.chartbeat.com (Referrer) [0.559]
+├── js-agent.newrelic.com (Referrer) [0.632]
+├── share.crowdbooster.com (Referrer) [0.632]
+├── ping.chartbeat.net (Referrer) [7.811]
+└── beacon-4.newrelic.com (Referrer) [7.865]
+download.windowsupdate.com
+
+Extracted Malicious Redirection Chain:
+
+askmen.com
+└── stat.litecsys.com (Referrer) [0.62]
+    └── static.sumibi.org (JavaScript) [2.103]
+        └── 4607c15apbmyk.wealeh.uni.me (Referrer) [2.956]
+            └── 2453099568-6.wealeh.uni.me (Referrer) [6.706]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-27-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.211
+
+Redirection Chains:
+
+twinkl.co.uk
+└── fe1.twinkl.co.uk (Referrer/JavaScript) [0.244]
+    └── chef.holdencubscouts.org (JavaScript) [0.211]
+        └── developers.travelforward.de (Referrer/JavaScript) [0.982]
+chicago.whysteviecantdate.com
+carbon-flx.su
+orion-baet.su
+
+Extracted Malicious Redirection Chain:
+
+twinkl.co.uk
+└── fe1.twinkl.co.uk (Referrer/JavaScript) [0.244]
+    └── chef.holdencubscouts.org (JavaScript) [0.211]
+        └── developers.travelforward.de (Referrer/JavaScript) [0.982]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-06-28-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.215
+
+Redirection Chains:
+
+tyjalos.tornado-365.com
+zamcheck.org
+└── nulaptra.indolocker.com (Referrer/iFrame) [3.846]
+
+Extracted Malicious Redirection Chain:
+
+zamcheck.org
+└── nulaptra.indolocker.com (Referrer/iFrame) [3.846]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-04-Nuclear-EK-traffic_missingC.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+likemagicbox.com
+└── coaches.toasthousemarket.com (Referrer/JavaScript) [0.204]
+    └── edc.virtualtravelevents.net (Referrer/JavaScript) [0.355]
+
+Extracted Malicious Redirection Chain:
+
+likemagicbox.com
+└── coaches.toasthousemarket.com (Referrer/JavaScript) [0.204]
+    └── edc.virtualtravelevents.net (Referrer/JavaScript) [0.355]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-08-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.220
+
+Redirection Chains:
+
+dukeupdate.com
+├── cdn2.movetoclarksville.com (Referrer/JavaScript/iFrame) [0.008]
+└── cdn.ahastore.net (Referrer) [2.122]
+
+Extracted Malicious Redirection Chain:
+
+dukeupdate.com
+└── cdn.ahastore.net (Referrer) [2.122]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+dukeupdate.com
+└── cdn2.movetoclarksville.com (JavaScript/iFrame/Referrer) [0.008]
+    └── cdn.ahastore.net (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-07-09-Zuponcic-EK-traffic-java-6u25.pcap..
+
+Source IP: 192.168.204.226
+
+Redirection Chains:
+
+dioxinnz.com
+└── plapplatong.workoutebook.com (HTML) [4.36]
+    └── mz.watchweedsepisodes.net (Location) [4.008]
+sanctionedmedia.com
+93.115.88.220
+
+Extracted Malicious Redirection Chain:
+
+dioxinnz.com
+└── plapplatong.workoutebook.com (HTML) [4.36]
+    └── mz.watchweedsepisodes.net (Location) [4.008]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-09-Zuponcic-EK-traffic-java-7u13.pcap..
+
+Source IP: 192.168.204.221
+
+Redirection Chains:
+
+dioxinnz.com
+└── plapplatong.workoutebook.com (HTML) [1.447]
+    └── ms.watchweedsepisodes.net (Location) [1.457]
+93.115.88.220
+checkip.dyndns.com
+sanctionedmedia.com
+
+Extracted Malicious Redirection Chain:
+
+dioxinnz.com
+└── plapplatong.workoutebook.com (HTML) [1.447]
+    └── ms.watchweedsepisodes.net (Location) [1.457]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-10-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.222
+
+Redirection Chains:
+
+mirneboskrebov.ru
+└── gosinaj.cynthiamartinez.com.ar (Referrer/JavaScript) [0.235]
+    └── gumeno.yahooaple.com (Location/HTML) [0.62]
+
+Extracted Malicious Redirection Chain:
+
+mirneboskrebov.ru
+└── gosinaj.cynthiamartinez.com.ar (Referrer/JavaScript) [0.235]
+    └── gumeno.yahooaple.com (Location/HTML) [0.62]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-12-Angler-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+usfc.at
+└── m-barati.de (Referrer/JavaScript) [0.297]
+    └── three.pasertsion.co.uk (iFrame) [0.297]
+
+Extracted Malicious Redirection Chain:
+
+usfc.at
+└── m-barati.de (Referrer/JavaScript) [0.297]
+    └── three.pasertsion.co.uk (iFrame) [0.297]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-15-Magnitude-EK-traffic_missingC.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+5.133.179.166
+la-spazzolino.com
+vision-vaper.su
+windywing.pristineprinting.com
+└── 241020.2dba.6d01312.011.a85.6b4.d4.df92.cftbmxjli.folksbuilt.in (Referrer/iFrame/JavaScript) [0.829]
+come-passere.com
+c3a45.ce7.a6da2f.4b2357.6da628.e2.43ed.sbyvqeajn.folksbuilt.in
+
+Extracted Malicious Redirection Chain:
+
+windywing.pristineprinting.com
+└── 241020.2dba.6d01312.011.a85.6b4.d4.df92.cftbmxjli.folksbuilt.in (Referrer/iFrame/JavaScript) [0.829]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-18-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+gastechwarrington.co.uk
+└── rabiorik.ru (Referrer/JavaScript) [8.77]
+    └── pistoleor.tustilo.com.ar (Location/HTML) [0.765]
+
+Extracted Malicious Redirection Chain:
+
+gastechwarrington.co.uk
+└── rabiorik.ru (Referrer/JavaScript) [8.77]
+    └── pistoleor.tustilo.com.ar (Location/HTML) [0.765]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-19-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+thesuperpowerunion.com
+└── inkoutbreak.com (Referrer/iFrame) [1.211]
+    └── 1tmo9a2defua3n3wdoet17g.dora-explorer.co.uk (Location/HTML) [0.271]
+        └── 1tmo9a2defua3n3wdoet17g536453e00b658601842bb4414600dbf82.dora-explorer.co.uk (Referrer/Base64) [3.882]
+            └── dudelakos.allcarsmechanical.com (Referrer/Base64) [2.393]
+
+Extracted Malicious Redirection Chain:
+
+thesuperpowerunion.com
+└── inkoutbreak.com (Referrer/iFrame) [1.211]
+    └── 1tmo9a2defua3n3wdoet17g.dora-explorer.co.uk (Location/HTML) [0.271]
+        └── 1tmo9a2defua3n3wdoet17g536453e00b658601842bb4414600dbf82.dora-explorer.co.uk (Referrer/Base64) [3.882]
+            └── dudelakos.allcarsmechanical.com (Referrer/Base64) [2.393]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-23-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+emol.com
+└── apps.emol.com (Referrer) [5.9]
+    └── ae6t91t1amist11vbnbrux7.1911censusuk.net (Location) [0.246]
+        └── ae6t91t1amist11vbnbrux7535453e0a0c09589142bb43a6ef699596.1911censusuk.net (Base64) [4.232]
+            └── dronikaso.denisephotographer.com (Referrer/Base64) [1.048]
+
+Extracted Malicious Redirection Chain:
+
+emol.com
+└── apps.emol.com (Referrer) [5.9]
+    └── ae6t91t1amist11vbnbrux7.1911censusuk.net (Location) [0.246]
+        └── ae6t91t1amist11vbnbrux7535453e0a0c09589142bb43a6ef699596.1911censusuk.net (Base64) [4.232]
+            └── dronikaso.denisephotographer.com (Referrer/Base64) [1.048]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-24-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+cdn.georgicapartners.com
+genesistoday.com
+├── cdn2.movetoclarksville.com (Referrer/JavaScript/iFrame) [0]
+└── cdn.abistra.co (Referrer) [15.598]
+
+Extracted Malicious Redirection Chain:
+
+genesistoday.com
+└── cdn.abistra.co (Referrer) [15.598]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+genesistoday.com
+└── cdn2.movetoclarksville.com (JavaScript/iFrame/Referrer) [0]
+    └── cdn.abistra.co (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-07-26-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+olha.org.uk
+├── advertdedicated.com (Referrer) [2.84]
+└── welcome.shiraztshirts.com (Referrer) [3.865]
+
+Extracted Malicious Redirection Chain:
+
+olha.org.uk
+└── welcome.shiraztshirts.com (Referrer) [3.865]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+olha.org.uk
+└── advertdedicated.com (Referrer) [2.84]
+    └── welcome.shiraztshirts.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-07-27-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.132
+
+Redirection Chains:
+
+wranglerforum.com
+└── frozerry.com (Referrer/JavaScript) [0.294]
+    └── abyabyab.in.ua (JavaScript/iFrame) [1.749]
+smokejuse.su
+122.154.59.6
+diseases-search.com
+└── 192.162.19.87 (Referrer) [9.95]
+    └── 5.149.250.194 (Location) [0.059]
+recommendation-search.com
+└── 192.162.19.87 (Referrer) [9.014]
+    └── 5.149.250.194 (Location) [0.059]
+icepower.su
+vision-vaper.su
+178.18.18.30
+
+Extracted Malicious Redirection Chain:
+
+wranglerforum.com
+└── frozerry.com (Referrer/JavaScript) [0.294]
+    └── abyabyab.in.ua (JavaScript/iFrame) [1.749]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-30-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.136
+
+Redirection Chains:
+
+vivedescuentos.com
+└── apps.emol.com (Referrer/JavaScript) [13.805]
+    └── zed59sfa61v1v3es42ysn7p.akillicihaz.com (Location/Referrer) [0.303]
+        └── zed59sfa61v1v3es42ysn7p535453e1b9804837d42bb497bfd9deeaf.akillicihaz.com (Base64) [1.252]
+            └── 85.159.214.181 (Referrer/Base64) [1.045]
+
+Extracted Malicious Redirection Chain:
+
+vivedescuentos.com
+└── apps.emol.com (Referrer/JavaScript) [13.805]
+    └── zed59sfa61v1v3es42ysn7p.akillicihaz.com (Location/Referrer) [0.303]
+        └── zed59sfa61v1v3es42ysn7p535453e1b9804837d42bb497bfd9deeaf.akillicihaz.com (Base64) [1.252]
+            └── 85.159.214.181 (Referrer/Base64) [1.045]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-07-30-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.165.136
+
+Redirection Chains:
+
+metro.us
+└── gagle.us (Referrer/iFrame) [0]
+    └── finish.resinbonding.com (Location) [0.635]
+
+Extracted Malicious Redirection Chain:
+
+metro.us
+└── gagle.us (Referrer/iFrame) [0]
+    └── finish.resinbonding.com (Location) [0.635]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-01-Nuclear-EK-traffic_missingC.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+yastatic.net
+cucnaterafos.amtranexperts.com
+└── paraletas.patmos-star.com (Location/HTML) [0.442]
+
+Extracted Malicious Redirection Chain:
+
+cucnaterafos.amtranexperts.com
+└── paraletas.patmos-star.com (Location/HTML) [0.442]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-09-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+woodworkingtalk.com
+└── peartoper.com (Referrer/JavaScript) [0.705]
+    └── qlokks.in.ua (JavaScript/iFrame) [1.143]
+
+Extracted Malicious Redirection Chain:
+
+woodworkingtalk.com
+└── peartoper.com (Referrer/JavaScript) [0.705]
+    └── qlokks.in.ua (JavaScript/iFrame) [1.143]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-11-FlashPack-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+stat-count.dnsdynamic.com
+└── xh2cqhmv5u4ifvht8j99d7r.consejeros.com.bo (Location/HTML) [0.441]
+    └── xh2cqhmv5u4ifvht8j99d7r522053ee12e4444b542451e29c08717ba.consejeros.com.bo (Base64) [1.01]
+        └── yp9scsjyy4wnzdt0lvm3lfp.ankaraescortilanlar.org (Base64) [81.42]
+
+Extracted Malicious Redirection Chain:
+
+stat-count.dnsdynamic.com
+└── xh2cqhmv5u4ifvht8j99d7r.consejeros.com.bo (Location/HTML) [0.441]
+    └── xh2cqhmv5u4ifvht8j99d7r522053ee12e4444b542451e29c08717ba.consejeros.com.bo (Base64) [1.01]
+        └── yp9scsjyy4wnzdt0lvm3lfp.ankaraescortilanlar.org (Base64) [81.42]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-19-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+visajourney.com
+└── glinkino.com (Referrer/JavaScript) [1.582]
+    └── quatro.in.ua (JavaScript/iFrame) [1.049]
+
+Extracted Malicious Redirection Chain:
+
+visajourney.com
+└── glinkino.com (Referrer/JavaScript) [1.582]
+    └── quatro.in.ua (JavaScript/iFrame) [1.049]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-20-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+cdn3.seefoo.net
+thingkid.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+└── cdn.seefoo.co (Referrer) [40.377]
+
+Extracted Malicious Redirection Chain:
+
+thingkid.com
+└── cdn.seefoo.co (Referrer) [40.377]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+thingkid.com
+└── src.sandcastlesmagazine.com (Referrer) [0]
+    └── cdn.seefoo.co (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-08-21-FlashPack-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+churchleaderscampfire.com
+└── countjscript.com (Referrer/JavaScript) [12.83]
+    └── lifegadon.ami-cred.com.ar (JavaScript/iFrame) [8.078]
+
+Extracted Malicious Redirection Chain:
+
+churchleaderscampfire.com
+└── countjscript.com (Referrer/JavaScript) [12.83]
+    └── lifegadon.ami-cred.com.ar (JavaScript/iFrame) [8.078]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-21-FlashPack-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.204.138
+
+Redirection Chains:
+
+churchleaderscampfire.com
+└── countjscript.com (Referrer/JavaScript) [2.001]
+    └── prosuhel.fivehokies.com (JavaScript/iFrame) [2.59]
+countjscript.com
+└── prosuhel.fivehokies.com (JavaScript/iFrame) [2.59]
+
+Extracted Malicious Redirection Chain:
+
+churchleaderscampfire.com
+└── countjscript.com (Referrer/JavaScript) [2.001]
+    └── prosuhel.fivehokies.com (JavaScript/iFrame) [2.59]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-21-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.139
+
+Redirection Chains:
+
+cdn5.sefu.mobi
+riotimesonline.com
+├── src.sandcastlesmagazine.com (Referrer) [2.154]
+└── cdn5.seefu.mobi (Referrer) [5.402]
+
+Extracted Malicious Redirection Chain:
+
+riotimesonline.com
+└── cdn5.seefu.mobi (Referrer) [5.402]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+riotimesonline.com
+└── src.sandcastlesmagazine.com (Referrer) [2.154]
+    └── cdn5.seefu.mobi (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-08-22-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+scienceforums.net
+└── stringlikc.com (Referrer/JavaScript) [2.785]
+    └── qopqop.in.ua (JavaScript/iFrame) [1.414]
+
+Extracted Malicious Redirection Chain:
+
+scienceforums.net
+└── stringlikc.com (Referrer/JavaScript) [2.785]
+    └── qopqop.in.ua (JavaScript/iFrame) [1.414]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-22-Nuclear-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+onlinenewspapers.com
+└── c.ic.com.au (Referrer/HTML) [4.359]
+    └── rb.northlasvegaswater.com (JavaScript) [0.537]
+        └── limited.marriageamericanet.com (Referrer/JavaScript) [0.756]
+dients-lihuret.su
+raing-gerut.su
+
+Extracted Malicious Redirection Chain:
+
+onlinenewspapers.com
+└── c.ic.com.au (Referrer/HTML) [4.359]
+    └── rb.northlasvegaswater.com (JavaScript) [0.537]
+        └── limited.marriageamericanet.com (Referrer/JavaScript) [0.756]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-22-unknown-exploit-kit-traffic_missingC.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+inpoucher.com
+└── pizzanetp.com (Referrer/iFrame) [6.041]
+
+Extracted Malicious Redirection Chain:
+
+inpoucher.com
+└── pizzanetp.com (Referrer/iFrame) [6.041]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-25-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.149
+
+Redirection Chains:
+
+urbantoronto.ca
+└── reserve.sandystrong.org (Referrer) [0]
+    └── map.sweetfrogsalisbury.net (Referrer/JavaScript) [1.435]
+oak-tureght.ru
+from-gunergs.ru
+
+Extracted Malicious Redirection Chain:
+
+urbantoronto.ca
+└── reserve.sandystrong.org (Referrer) [0]
+    └── map.sweetfrogsalisbury.net (Referrer/JavaScript) [1.435]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-25-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.142
+
+Redirection Chains:
+
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+└── cdn3.sweetip.com (Referrer) [1.577]
+
+Source IP: 192.168.204.145
+
+Redirection Chains:
+
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+└── cdn5.sweetip.com (Referrer) [1.175]
+
+Source IP: 192.168.204.150
+
+Redirection Chains:
+
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+├── cdn.sweetip.net (Referrer) [5.27]
+└── cdn2.sweetip.net (Referrer) [4.105]
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0.035]
+└── cdn4.sweetip.net (Referrer) [3.597]
+cdn5.tequilacritico.es
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+cdn5.tequilacritico.es
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+├── cdn2.sweetip.net (Referrer) [3.851]
+└── cdn3.sweetip.net (Referrer) [1.351]
+
+Source IP: 192.168.204.151
+
+Redirection Chains:
+
+cdn5.tequilacritico.es
+scam-detector.com
+├── src.sandcastlesmagazine.com (Referrer) [0]
+└── cdn5.sweetip.net (Referrer) [1.188]
+
+Extracted Malicious Redirection Chain:
+
+scam-detector.com
+└── cdn2.sweetip.net (Referrer) [4.105]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+scam-detector.com
+└── src.sandcastlesmagazine.com (Referrer) [0]
+    └── cdn2.sweetip.net (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-08-26-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.139
+
+Redirection Chains:
+
+dbstalk.com
+└── similarki.com (Referrer/JavaScript) [6.677]
+    └── wklockes.in.ua (JavaScript/iFrame) [1.154]
+
+Extracted Malicious Redirection Chain:
+
+dbstalk.com
+└── similarki.com (Referrer/JavaScript) [6.677]
+    └── wklockes.in.ua (JavaScript/iFrame) [1.154]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-27-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.142
+
+Redirection Chains:
+
+cdn5.tequilaspectator.com
+moonclerk.com
+├── cdn.calhounacademyofdance.com (Referrer) [0.051]
+└── cdn.tequilaspectator.com (Referrer) [2.397]
+
+Extracted Malicious Redirection Chain:
+
+moonclerk.com
+└── cdn.tequilaspectator.com (Referrer) [2.397]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+moonclerk.com
+└── cdn.calhounacademyofdance.com (Referrer) [0.051]
+    └── cdn.tequilaspectator.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-08-28-Nuclear-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+dalecarnegie.ca
+└── nikajumet.solutionoptic.com.ar (Referrer/JavaScript/iFrame) [0.244]
+    └── nanoraifa.loosecannon.info (Location/HTML) [0.611]
+
+Extracted Malicious Redirection Chain:
+
+dalecarnegie.ca
+└── nikajumet.solutionoptic.com.ar (Referrer/JavaScript/iFrame) [0.244]
+    └── nanoraifa.loosecannon.info (Location/HTML) [0.611]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-29-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.145
+
+Redirection Chains:
+
+cdn5.thecritico.mx
+techo-bloc.com
+├── cdn.jameswoodwardmusic.com (Referrer) [0]
+└── cdn3.thecritico.com (Referrer) [0]
+
+Extracted Malicious Redirection Chain:
+
+techo-bloc.com
+└── cdn3.thecritico.com (Referrer) [0]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+techo-bloc.com
+└── cdn.jameswoodwardmusic.com (Referrer) [0]
+    └── cdn3.thecritico.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-08-30-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+streamscript.com
+└── vbsaiord.arm.ee (JavaScript/iFrame) [0.827]
+    └── 5.45.73.106 (Referrer) [0.97]
+churchleaderscampfire.com
+└── streamscript.com (Referrer/JavaScript) [1.623]
+    └── vbsaiord.arm.ee (JavaScript/iFrame) [0.827]
+        └── 5.45.73.106 (Referrer) [0.97]
+
+Extracted Malicious Redirection Chain:
+
+churchleaderscampfire.com
+└── streamscript.com (Referrer/JavaScript) [1.623]
+    └── vbsaiord.arm.ee (JavaScript/iFrame) [0.827]
+        └── 5.45.73.106 (Referrer) [0.97]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-08-31-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+forum.duelingnetwork.com
+└── informuos.com (Referrer/JavaScript) [3.841]
+    └── wiezersf.in.ua (iFrame/JavaScript) [1.247]
+quret-huler.su
+63.247.95.50
+leafegrt.com
+mington-res.com
+jufer-muirer.su
+kinure-desrt.su
+122.155.167.122
+extremely-ppa.com
+
+Extracted Malicious Redirection Chain:
+
+forum.duelingnetwork.com
+└── informuos.com (Referrer/JavaScript) [3.841]
+    └── wiezersf.in.ua (iFrame/JavaScript) [1.247]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-01-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.141
+
+Redirection Chains:
+
+acupuncture-college.ca
+└── rabiorik.ru (Referrer/JavaScript) [7.881]
+    └── nuaysuq.planeimpressions.com (Location/HTML) [3.488]
+ssrgwnrmgrxe.com
+
+Extracted Malicious Redirection Chain:
+
+acupuncture-college.ca
+└── rabiorik.ru (Referrer/JavaScript) [7.881]
+    └── nuaysuq.planeimpressions.com (Location/HTML) [3.488]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-03-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+focusofswfltv.com
+└── ibirtused.nor-365.com (Referrer/JavaScript/iFrame) [0.236]
+    └── giodulder.laurentiucozma.ro (Location/HTML) [0.716]
+
+Extracted Malicious Redirection Chain:
+
+focusofswfltv.com
+└── ibirtused.nor-365.com (Referrer/JavaScript/iFrame) [0.236]
+    └── giodulder.laurentiucozma.ro (Location/HTML) [0.716]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-04-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.141
+
+Redirection Chains:
+
+keycycling.com
+└── puperlikis.taylormadecookies.com (Referrer/JavaScript/iFrame) [12.361]
+    └── afridun.autoth.com (Location/HTML) [15.763]
+
+Extracted Malicious Redirection Chain:
+
+keycycling.com
+└── puperlikis.taylormadecookies.com (Referrer/JavaScript/iFrame) [12.361]
+    └── afridun.autoth.com (Location/HTML) [15.763]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-04-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.151
+
+Redirection Chains:
+
+cdn5.marchepoulet.com
+daygame.com
+├── cdn.stringbassmusic.com (Referrer) [1.634]
+└── cdn.livistro.com (Referrer) [4.432]
+
+Extracted Malicious Redirection Chain:
+
+daygame.com
+└── cdn.livistro.com (Referrer) [4.432]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+daygame.com
+└── cdn.stringbassmusic.com (Referrer) [1.634]
+    └── cdn.livistro.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-09-05-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.145
+
+Redirection Chains:
+
+centralpark.com
+└── ads.centralpark.com (Referrer/HTML) [0.164]
+    └── saw.piroscia.com (Unknown) [0.268]
+        └── nashville.lockmanenterprises.net (JavaScript/iFrame) [0.68]
+            └── national.lockmanenterprises.org (Subdomain) [26.361]
+jufer-muirer.su
+quret-huler.su
+
+Extracted Malicious Redirection Chain:
+
+centralpark.com
+└── ads.centralpark.com (Referrer/HTML) [0.164]
+    └── saw.piroscia.com (Unknown) [0.268]
+        └── nashville.lockmanenterprises.net (JavaScript/iFrame) [0.68]
+            └── national.lockmanenterprises.org (Subdomain) [26.361]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-06-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+sell.flightclub.com
+└── dwz.org.in (Referrer) [0.273]
+    └── puntdllp.com (Referrer/JavaScript) [3.974]
+        └── kwi.amulet-am.com (Location) [1.659]
+
+Extracted Malicious Redirection Chain:
+
+sell.flightclub.com
+└── dwz.org.in (Referrer) [0.273]
+    └── puntdllp.com (Referrer/JavaScript) [3.974]
+        └── kwi.amulet-am.com (Location) [1.659]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-07-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+moto-station.com
+└── talktyme.com (Referrer) [22.673]
+    └── eauhq.monis.asia (Referrer/JavaScript) [1.784]
+
+Extracted Malicious Redirection Chain:
+
+moto-station.com
+└── talktyme.com (Referrer) [22.673]
+    └── eauhq.monis.asia (Referrer/JavaScript) [1.784]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-08-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.151
+
+Redirection Chains:
+
+sandalwoodmedical.ca
+└── digirosmut.okephone.com (Referrer/JavaScript/iFrame) [0.525]
+    └── bubleroska.smart-simchah.com (Location/HTML) [0.71]
+
+Extracted Malicious Redirection Chain:
+
+sandalwoodmedical.ca
+└── digirosmut.okephone.com (Referrer/JavaScript/iFrame) [0.525]
+    └── bubleroska.smart-simchah.com (Location/HTML) [0.71]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-09-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+htmlforums.com
+└── 0vr2is8t27hdaa7had8cfgf.karchivelia.com (Location/HTML) [0.224]
+    └── 0vr2is8t27hdaa7had8cfgf508253fd0a975646b42bb49a281923ee0.karchivelia.com (Referrer/Base64) [0.536]
+        └── sdfi.apartmentperch.com (Referrer/Base64) [0.99]
+
+Extracted Malicious Redirection Chain:
+
+htmlforums.com
+└── 0vr2is8t27hdaa7had8cfgf.karchivelia.com (Location/HTML) [0.224]
+    └── 0vr2is8t27hdaa7had8cfgf508253fd0a975646b42bb49a281923ee0.karchivelia.com (Referrer/Base64) [0.536]
+        └── sdfi.apartmentperch.com (Referrer/Base64) [0.99]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-10-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.141
+
+Redirection Chains:
+
+scienceforums.net
+└── stringlikc.com (Referrer/JavaScript) [0.985]
+    └── b93.df8c6.3662f2.94f3357.c2bfc.6e.3712.eeokjqoz.ignoredillegal.in (JavaScript/iFrame) [2.911]
+footfall.com
+corex.de
+bd-style.com
+gfmcorp.com
+abdg.com
+apio.ro
+yokomizo.com
+uls-dc.org
+dilmar.com
+pids.org
+as-auto.ru
+n-a-m.ru
+jala-mi.org
+ok.co.kr
+oreggia.com
+dujua.com.br
+mado.org
+pcg.com
+sie-mar.com
+ksfd.org
+6ml.net
+tamaral.org
+iwsa.net
+frimeset.com
+timetec.ru
+2-force.com
+openisp.su
+afraxis.com
+smsch.org
+emka.fr
+platex.com
+hostings.com
+richter.bg
+ppsev.org
+akhh.com
+mgs.tv
+178.32.164.52
+rmcet.com
+enchilada.de
+mlc-edu.com
+honnyaku.com
+canaxini.com
+x1.com
+akr.co.id
+sozolife.com
+alan-jp.com
+recsjpn.com
+fitgolf.com
+com-sit.com
+raboo.com
+msvie.com
+hostito.com
+cellgone.su
+212.38.166.43
+wigor.com.pl
+oiart.org
+densa.ch
+mavlet.com
+hzjinhai.com
+sa-girl.net
+fsk.at
+elaana.com
+arit.cz
+maintasc.com
+jinsey.com
+nomics.de
+cdnins.com
+edimart.hu
+taeha.com
+vrad.spb.ru
+cowbite.com
+jhitomi.com
+skmat.com
+nopa.or.jp
+aiglon.ch
+virpca.org
+tndha.org
+mjrcpas.com
+kitadol.com
+sdcea.org
+ndimedia.com
+signbar.com
+saamii.com
+luas.ie
+restpro.com
+ingimex.com
+willvic.net
+lvcpa.biz
+kiwicr.com
+proseinc.com
+worms.com
+kndata.com
+fotalex.ru
+webways.com
+kp2i.com
+2-tier.com
+hsmc-ul.com
+chaparri.org
+xatrix.net
+citymade.com
+fbchh.org
+masph.com
+walltodo.com
+bossinst.com
+mm7m.com
+umcor.am
+
+Extracted Malicious Redirection Chain:
+
+scienceforums.net
+└── stringlikc.com (Referrer/JavaScript) [0.985]
+    └── b93.df8c6.3662f2.94f3357.c2bfc.6e.3712.eeokjqoz.ignoredillegal.in (JavaScript/iFrame) [2.911]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-11-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.145
+
+Redirection Chains:
+
+marica.bg
+└── ads.marica.bg (Referrer/HTML) [2.136]
+    └── serve.intelelink.net (Unknown) [1.24]
+        └── oregon.raptortek.com (JavaScript) [0.002]
+fallcome.su
+organizer.susie-qs.com
+badwinter.su
+
+Extracted Malicious Redirection Chain:
+
+marica.bg
+└── ads.marica.bg (Referrer/HTML) [2.136]
+    └── serve.intelelink.net (Unknown) [1.24]
+        └── oregon.raptortek.com (JavaScript) [0.002]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-12-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+incomingit.com
+└── quqylife.sydney-bedsheet.com (Referrer/iFrame/JavaScript) [0.597]
+    └── sutileder.dnvgl.ro (Location/HTML) [1.073]
+
+Extracted Malicious Redirection Chain:
+
+incomingit.com
+└── quqylife.sydney-bedsheet.com (Referrer/iFrame/JavaScript) [0.597]
+    └── sutileder.dnvgl.ro (Location/HTML) [1.073]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-15-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+sportfishermen.com
+└── ferrylo.com (Referrer/JavaScript) [3.478]
+    └── ypillow.in.ua (iFrame/JavaScript) [3.215]
+
+Extracted Malicious Redirection Chain:
+
+sportfishermen.com
+└── ferrylo.com (Referrer/JavaScript) [3.478]
+    └── ypillow.in.ua (iFrame/JavaScript) [3.215]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-16-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+youniquebyshandi.com
+└── aflordi.insuit.net (Referrer/iFrame/JavaScript) [0.653]
+    └── oflatiras.videosdeanimais.com.br (Location/HTML) [1.058]
+domainsfullkolls.biz
+
+Extracted Malicious Redirection Chain:
+
+youniquebyshandi.com
+└── aflordi.insuit.net (Referrer/iFrame/JavaScript) [0.653]
+    └── oflatiras.videosdeanimais.com.br (Location/HTML) [1.058]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-18-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.163
+
+Redirection Chains:
+
+newreleasetuesday.com
+├── aahndhcph.serveminecraft.net (Referrer) [7.674]
+└── courieru.com (Referrer) [9.534]
+    └── hxrgy.ianlar.in (Referrer/JavaScript) [4.345]
+wildkit.su
+207.244.68.117
+syserty-war.com
+handredder.com
+num-lnkd.com
+warzine.su
+kinure-desrt.su
+162.248.167.184
+verysecongig.com
+page-insert.com
+
+Extracted Malicious Redirection Chain:
+
+newreleasetuesday.com
+└── courieru.com (Referrer) [9.534]
+    └── hxrgy.ianlar.in (Referrer/JavaScript) [4.345]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-19-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.151
+
+Redirection Chains:
+
+cdn5.sweetsgeorgica.com
+conservativerefocus.com
+├── img.ct-trainer.com (Referrer) [0.81]
+└── cdn2.sweetgeorgicas.net (Referrer) [15.436]
+
+Extracted Malicious Redirection Chain:
+
+conservativerefocus.com
+└── cdn2.sweetgeorgicas.net (Referrer) [15.436]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+conservativerefocus.com
+└── img.ct-trainer.com (Referrer) [0.81]
+    └── cdn2.sweetgeorgicas.net (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-09-21-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.130
+
+Redirection Chains:
+
+cairnsmhor.com
+└── gisigalor.micropakltd.co.uk (Referrer/JavaScript/iFrame) [1.138]
+    └── agelpirostan.nemissa.info (Location/HTML) [0.653]
+domainsfullkolls.biz
+
+Extracted Malicious Redirection Chain:
+
+cairnsmhor.com
+└── gisigalor.micropakltd.co.uk (Referrer/JavaScript/iFrame) [1.138]
+    └── agelpirostan.nemissa.info (Location/HTML) [0.653]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-22-Angler-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.132
+
+Redirection Chains:
+
+146.185.233.163
+flv.79highstreet.co.uk
+└── asd.singularitymusculusintercostalis.us (Referrer/HTML/JavaScript) [1.606]
+
+Extracted Malicious Redirection Chain:
+
+flv.79highstreet.co.uk
+└── asd.singularitymusculusintercostalis.us (Referrer/HTML/JavaScript) [1.606]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-23-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+ipadrental.hk
+└── 7pt5u45u8b1m3bm9hcm4bmn.ahik.net (Location/HTML) [1.359]
+    └── 7pt5u45u8b1m3bm9hcm4bmn519953ff25fe74b1d5f9ae6e2302945e4.ahik.net (Referrer/Base64) [0.985]
+        ├── mdif.boroughventuremenswear.com (Referrer/Base64) [1.719]
+        └── fpdofr11nhade3z7e6oj1zx.glowjogjabeauty.com (Referrer/Base64) [31.063]
+
+Extracted Malicious Redirection Chain:
+
+ipadrental.hk
+└── 7pt5u45u8b1m3bm9hcm4bmn.ahik.net (Location/HTML) [1.359]
+    └── 7pt5u45u8b1m3bm9hcm4bmn519953ff25fe74b1d5f9ae6e2302945e4.ahik.net (Referrer/Base64) [0.985]
+        ├── mdif.boroughventuremenswear.com (Referrer/Base64) [1.719]
+        └── fpdofr11nhade3z7e6oj1zx.glowjogjabeauty.com (Referrer/Base64) [31.063]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-24-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+lesinrocks.com
+├── s7.addthis.com (Referrer/JavaScript) [0.313]
+├── as.ebz.io (Referrer/JavaScript) [0.336]
+├── rmf.lesinrocks.com (Referrer/JavaScript/HTML) [0.313]
+│   ├── imageceu1.247realmedia.com (JavaScript/HTML) [0.48]
+│   ├── mfr.247realmedia.com (JavaScript) [0.492]
+│   │   ├── ib.adnxs.com (JavaScript) [1.197]
+│   │   │   ├── cdn.adnxs.com (JavaScript/iFrame) [0.787]
+│   │   │   ├── pixel.alephd.com (JavaScript/iFrame) [0.787]
+│   │   │   └── ams1.ib.adnxs.com (JavaScript/iFrame) [0.787]
+│   │   │       ├── js.alenty.com (Referrer) [0.925]
+│   │   │       ├── j.adlooxtracking.com (Referrer) [0.781]
+│   │   │       ├── rtb2.doubleverify.com (Referrer) [2.14]
+│   │   │       ├── c.betrad.com (Referrer/JavaScript/HTML) [2.825]
+│   │   │       ├── at.alenty.com (Referrer) [4.253]
+│   │   │       ├── tps20504.doubleverify.com (Referrer) [4.253]
+│   │   │       ├── cdn.flashtalking.com (Referrer) [11.004]
+│   │   │       │   └── stat.flashtalking.com (Referrer) [2.015]
+│   │   │       ├── l.betrad.com (Referrer) [12.22]
+│   │   │       ├── tps30.doubleverify.com (Referrer) [13.896]
+│   │   │       │   └── cdn.doubleverify.com (JavaScript) [1.163]
+│   │   │       ├── tps10214.doubleverify.com (Referrer) [15.347]
+│   │   │       └── appnexus.com (Location/Referrer) [1.44]
+│   │   └── t.mookie1.com (JavaScript) [2.078]
+│   └── officedutourismeirlande.solution.weborama.fr (JavaScript) [0.492]
+│       └── astatic.weborama.fr (Location/HTML) [2.227]
+├── js.cybermonitor.com (Referrer/JavaScript) [3.464]
+│   └── stat3.cybermonitor.com (Unknown) [5.132]
+├── adyoulike.omnitagjs.com (Referrer) [0.839]
+├── cdn.teads.tv (Referrer/JavaScript) [0.458]
+├── videosfr.s3.amazonaws.com (Referrer) [1.532]
+├── t.teads.tv (Referrer) [1.533]
+├── b.scorecardresearch.com (Referrer) [1.65]
+├── dnn506yrbagrg.cloudfront.net (Referrer) [1.65]
+├── static.chartbeat.com (Referrer/JavaScript) [0.521]
+├── artlen.com (Referrer) [0.521]
+│   └── eoxsc.kulawyn.in (JavaScript/Referrer) [2.224]
+└── ping.chartbeat.net (Referrer) [1.462]
+tupofly.su
+msftncsi.com
+192.163.225.246
+syserty-war.com
+num-lnkd.com
+leakimg.su
+kinure-desrt.su
+27.254.40.105
+handredder.com
+lock-spaces.com
+verysecongig.com
+
+Extracted Malicious Redirection Chain:
+
+lesinrocks.com
+└── artlen.com (Referrer) [0.521]
+    └── eoxsc.kulawyn.in (JavaScript/Referrer) [2.224]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-25-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.139
+
+Redirection Chains:
+
+cdn5.blumaxmaterial.com
+pavtube.com
+├── yimg.1stdayofwinter.com (Referrer) [0.84]
+└── cdn.americasrapper.com (Referrer) [0]
+
+Source IP: 192.168.204.138
+
+Redirection Chains:
+
+cdn5.blumaxmaterial.com
+pavtube.com
+├── yimg.1stdayofwinter.com (Referrer) [1.876]
+└── cdn.americasrapper.com (Referrer) [4.361]
+
+Extracted Malicious Redirection Chain:
+
+pavtube.com
+└── cdn.americasrapper.com (Referrer) [0]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+pavtube.com
+└── yimg.1stdayofwinter.com (Referrer) [0.84]
+    └── cdn.americasrapper.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-09-26-Angler-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.141
+
+Redirection Chains:
+
+earthtools.org
+overclockguides.su
+zufeltaffiliatecenter.com
+└── qwe.tributarykamarupan.us (Referrer/HTML) [12.023]
+ecb.europa.eu
+
+Extracted Malicious Redirection Chain:
+
+zufeltaffiliatecenter.com
+└── qwe.tributarykamarupan.us (Referrer/HTML) [12.023]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-27-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+animalclinic.com.sg
+└── zufeltaffiliatecenter.com (Referrer/HTML) [23.983]
+    └── asd.branchiopodamericangentian.us (Referrer/HTML) [1.33]
+ecb.europa.eu
+earthtools.org
+sceneanalytic.su
+
+Extracted Malicious Redirection Chain:
+
+animalclinic.com.sg
+└── zufeltaffiliatecenter.com (Referrer/HTML) [23.983]
+    └── asd.branchiopodamericangentian.us (Referrer/HTML) [1.33]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-28-Null-Hole-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+bridepopmississippi.com
+└── rabiorik.ru (Referrer/JavaScript) [4.791]
+    └── poolie.vvk49.com (Location/HTML) [1.249]
+
+Extracted Malicious Redirection Chain:
+
+bridepopmississippi.com
+└── rabiorik.ru (Referrer/JavaScript) [4.791]
+    └── poolie.vvk49.com (Location/HTML) [1.249]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-29-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+hindustantimes.com
+├── c2.zedo.com (Referrer/JavaScript/HTML) [0.051]
+│   ├── z2.zedo.com (JavaScript) [0.761]
+│   │   ├── d3.zedo.com (JavaScript/iFrame/Referrer) [5.215]
+│   │   │   └── d7.zedo.com (JavaScript) [4.704]
+│   │   │       └── axp.zedo.com (Location) [0.179]
+│   │   ├── ad.doubleclick.net (JavaScript/HTML/iFrame) [5.178]
+│   │   │   ├── pagead2.googlesyndication.com (Referrer) [0.23]
+│   │   │   │   └── googleads.g.doubleclick.net (Unknown) [1.83]
+│   │   │   │       ├── gstatic.com (JavaScript/HTML/iFrame/Referrer) [0.171]
+│   │   │   │       └── p4-fzaslg5vcqsda-kbjpdznjukczqt4d-if-v6exp3-v4.metric.gstatic.com (Referrer/JavaScript/HTML/iFrame) [1.203]
+│   │   │   ├── s1.2mdn.net (Referrer/HTML) [0.188]
+│   │   │   └── log.dmtry.com (Referrer) [0.591]
+│   │   ├── b.scorecardresearch.com (Referrer/JavaScript) [0.217]
+│   │   └── c13.zedo.com (HTML/iFrame/JavaScript) [0.081]
+│   └── ss1.zedo.com (JavaScript) [0.761]
+├── googletagservices.com (Referrer) [0.039]
+├── tpc.googlesyndication.com (Referrer) [0.25]
+├── partner.googleadservices.com (Referrer) [0.269]
+├── static.rcs7.org (Referrer) [0.925]
+│   └── a.wialto.com (JavaScript) [5.064]
+│       └── unfocodistonet.co7.us (Referrer/JavaScript) [0.56]
+├── pubads.g.doubleclick.net (Referrer) [0.181]
+│   ├── cdn.nmcdn.us (JavaScript) [0.719]
+│   ├── bs.serving-sys.com (JavaScript) [0.668]
+│   └── tbn.ph.affinity.com (JavaScript) [3.09]
+│       ├── backfill.ph.affinity.com (JavaScript/iFrame) [0.1]
+│       ├── s2.cdn.affinitymatrix.com (JavaScript/HTML/iFrame) [0.1]
+│       │   └── inm.affinitymatrix.com (Unknown) [0.083]
+│       │       └── imtx.ph.affinity.com (Unknown) [0.806]
+│       ├── loadeu.exelator.com (JavaScript) [0.1]
+│       │   └── ib.adnxs.com (JavaScript/Referrer) [0]
+│       │       ├── cdn.adnxs.com (JavaScript/iFrame) [0.332]
+│       │       ├── lax1.ib.adnxs.com (JavaScript/iFrame) [0.333]
+│       │       │   ├── ads.pubmatic.com (Referrer) [0.178]
+│       │       │   │   ├── haso.pubmatic.com (Referrer/JavaScript) [0.209]
+│       │       │   │   ├── image2.pubmatic.com (Referrer/JavaScript) [0.248]
+│       │       │   │   ├── bcp.crwdcntrl.net (JavaScript/Referrer) [2.285]
+│       │       │   │   │   ├── tags.crwdcntrl.net (JavaScript/Referrer) [0]
+│       │       │   │   │   ├── su.addthis.com (Referrer) [11.351]
+│       │       │   │   │   ├── pixel.mathtag.com (Referrer/JavaScript) [1.856]
+│       │       │   │   │   │   ├── ak1.abmr.net (Location) [0.18]
+│       │       │   │   │   │   │   └── a.collective-media.net (Location) [17.359]
+│       │       │   │   │   │   ├── cm.g.doubleclick.net (Unknown) [0.657]
+│       │       │   │   │   │   │   ├── magnetic.t.domdex.com (Location) [0.239]
+│       │       │   │   │   │   │   ├── us-u.openx.net (Location) [0]
+│       │       │   │   │   │   │   │   ├── sync.mathtag.com (Referrer) [0.107]
+│       │       │   │   │   │   │   │   ├── p.rfihub.com (Referrer) [0.131]
+│       │       │   │   │   │   │   │   └── r.turn.com (Referrer) [0]
+│       │       │   │   │   │   │   │       └── d.p-td.com (Location/HTML) [0.382]
+│       │       │   │   │   │   │   │           └── d.audienceiq.com (Location/HTML) [0.296]
+│       │       │   │   │   │   │   ├── d.turn.com (Location/HTML) [11.904]
+│       │       │   │   │   │   │   └── tags.bluekai.com (Location/HTML) [2.412]
+│       │       │   │   │   │   ├── loadm.exelator.com (Referrer) [0]
+│       │       │   │   │   │   │   ├── load.s3.amazonaws.com (Location) [0.145]
+│       │       │   │   │   │   │   ├── e.nexac.com (Location) [0.349]
+│       │       │   │   │   │   │   └── loadus.exelator.com (Location) [0.271]
+│       │       │   │   │   │   │       └── idsync.rlcdn.com (Location) [0.498]
+│       │       │   │   │   │   ├── pix.btrll.com (Unknown) [0.196]
+│       │       │   │   │   │   ├── p.acxiom-online.com (Unknown) [0.196]
+│       │       │   │   │   │   │   ├── r.nexac.com (Location) [0.321]
+│       │       │   │   │   │   │   └── dpm.demdex.net (Location) [0.389]
+│       │       │   │   │   │   └── ib.mookie1.com (Unknown) [2.518]
+│       │       │   │   │   ├── adadvisor.net (Referrer/JavaScript) [11.386]
+│       │       │   │   │   ├── pixel.sitescout.com (Referrer) [0.032]
+│       │       │   │   │   ├── ckm-m.xp1.ru4.com (Referrer) [0.032]
+│       │       │   │   │   ├── match.adsrvr.org (Referrer) [0.025]
+│       │       │   │   │   ├── epiv.cardlytics.com (Location/Referrer/JavaScript) [0.033]
+│       │       │   │   │   ├── lotame.nexac.com (Referrer) [0]
+│       │       │   │   │   ├── tacoda.at.atwola.com (Referrer) [0]
+│       │       │   │   │   ├── bkrtx.com (Referrer/JavaScript) [0.066]
+│       │       │   │   │   ├── segment-pixel.invitemedia.com (Referrer/JavaScript) [0.087]
+│       │       │   │   │   │   └── bid.g.doubleclick.net (Location/HTML) [0.196]
+│       │       │   │   │   ├── global.ib-ibi.com (Referrer/JavaScript) [0.087]
+│       │       │   │   │   ├── i.w55c.net (Referrer) [0.083]
+│       │       │   │   │   ├── ad.crwdcntrl.net (Referrer/JavaScript) [0.087]
+│       │       │   │   │   ├── rtd.tubemogul.com (Referrer) [0.084]
+│       │       │   │   │   ├── api.choicestream.com (Referrer) [0.141]
+│       │       │   │   │   ├── rc.rlcdn.com (Referrer/iFrame) [0.915]
+│       │       │   │   │   └── ev.ib-ibi.com (Referrer) [0.945]
+│       │       │   │   ├── bh.contextweb.com (JavaScript) [2.826]
+│       │       │   │   ├── pixel.quantserve.com (JavaScript) [3.587]
+│       │       │   │   └── m.xp1.ru4.com (JavaScript) [3.925]
+│       │       │   ├── showads.pubmatic.com (Referrer) [0.43]
+│       │       │   │   └── aktrack.pubmatic.com (JavaScript/iFrame) [0.414]
+│       │       │   ├── us-ads.openx.net (Referrer) [0.875]
+│       │       │   │   └── tag.contextweb.com (JavaScript) [0.1]
+│       │       │   │       └── ads.contextweb.com (JavaScript) [0.492]
+│       │       │   ├── securepaths.com (Referrer) [0.48]
+│       │       │   ├── domdex.com (Referrer) [4.049]
+│       │       │   │   ├── t4.liverail.com (Referrer) [0]
+│       │       │   │   │   └── vox-static.liverail.com (Location) [0.186]
+│       │       │   │   ├── ww1.collserve.com (Referrer) [0]
+│       │       │   │   ├── rtb.gumgum.com (Referrer) [0]
+│       │       │   │   ├── pbid.pro-market.net (Referrer) [0]
+│       │       │   │   ├── pixel.rubiconproject.com (Referrer) [0]
+│       │       │   │   ├── r.casalemedia.com (Referrer) [0]
+│       │       │   │   ├── dis.criteo.com (Referrer) [0]
+│       │       │   │   └── ads.magnetic.is (Referrer) [0]
+│       │       │   └── cdn.domdex.com (Referrer) [4.445]
+│       │       └── magnetic.domdex.com (JavaScript/iFrame) [0.182]
+│       └── f.domdex.com (JavaScript/iFrame) [0.1]
+├── ds.serving-sys.com (Referrer) [0]
+├── n36.adshostnet.com (Referrer) [0.455]
+│   └── wac.a164.edgecastcdn.net (Referrer/HTML) [0.084]
+├── v4.moatads.com (Referrer) [0.22]
+├── live-cricket.hindustantimes.com (Referrer) [0]
+├── cdn.cxense.com (Referrer/JavaScript) [0.763]
+├── comcluster.cxense.com (Referrer) [1.214]
+└── js.moatads.com (Referrer) [0.256]
+nihnihnih.com
+craspatsp.com
+download.windowsupdate.com
+
+Extracted Malicious Redirection Chain:
+
+static.rcs7.org
+└── a.wialto.com (JavaScript) [5.064]
+    └── unfocodistonet.co7.us (Referrer/JavaScript) [0.56]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-09-30-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.149
+
+Redirection Chains:
+
+woodworkingtalk.com
+└── malibushi.com (Referrer/JavaScript) [0.402]
+    └── affineairforce.us (Concat) [1.847]
+
+Extracted Malicious Redirection Chain:
+
+woodworkingtalk.com
+└── malibushi.com (Referrer/JavaScript) [0.402]
+    └── affineairforce.us (Concat) [1.847]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-01-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.147
+
+Redirection Chains:
+
+thedogsitterutah.com
+└── ecigarettesguide.com (Referrer/HTML) [27.149]
+    └── asd.crossheading.us (Referrer/HTML) [4.91]
+ecb.europa.eu
+earthtools.org
+homeinfo.cc
+
+Extracted Malicious Redirection Chain:
+
+thedogsitterutah.com
+└── ecigarettesguide.com (Referrer/HTML) [27.149]
+    └── asd.crossheading.us (Referrer/HTML) [4.91]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-02-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+ospedalesantamaria.it
+└── fix-mo.tk (Referrer/HTML) [0]
+    └── asd.bingevomitsyndromesexy.net (Referrer/JavaScript/HTML) [1.038]
+raboo.com
+mavlet.com
+rmcet.com
+vrad.spb.ru
+dilmar.com
+sie-mar.com
+com-sit.com
+oiart.org
+mjrcpas.com
+pcg.com
+fsk.at
+masph.com
+akr.co.id
+fbchh.org
+frimeset.com
+abdg.com
+ingimex.com
+aiglon.ch
+dujua.com.br
+mlc-edu.com
+sdcea.org
+lvcpa.biz
+cdnins.com
+hostings.com
+restpro.com
+kitadol.com
+wigor.com.pl
+x1.com
+mgs.tv
+adf.org.tr
+tndha.org
+oreggia.com
+
+Extracted Malicious Redirection Chain:
+
+ospedalesantamaria.it
+└── fix-mo.tk (Referrer/HTML) [0]
+    └── asd.bingevomitsyndromesexy.net (Referrer/JavaScript/HTML) [1.038]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-03-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+k.epavers.com
+eofdreams.com
+├── img.broadviewhome.info (Referrer) [28.992]
+└── b.epavers.com (Referrer) [30.955]
+
+Extracted Malicious Redirection Chain:
+
+eofdreams.com
+└── b.epavers.com (Referrer) [30.955]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+eofdreams.com
+└── img.broadviewhome.info (Referrer) [28.992]
+    └── b.epavers.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-10-05-Rig-EK-traffic.pcap..
+
+Source IP: 172.16.165.133
+
+Redirection Chains:
+
+protorrent.net
+└── qqcr0yuvnzaw2178w7nw1xf.ankara-tr.net (Location/HTML) [0.701]
+    └── qqcr0yuvnzaw2178w7nw1xf5200540ba7eb943446ba750a4c8caf95d.ankara-tr.net (Base64) [0.794]
+        └── contact.collegemotorsltd.com (Referrer/Base64) [1.153]
+
+Extracted Malicious Redirection Chain:
+
+protorrent.net
+└── qqcr0yuvnzaw2178w7nw1xf.ankara-tr.net (Location/HTML) [0.701]
+    └── qqcr0yuvnzaw2178w7nw1xf5200540ba7eb943446ba750a4c8caf95d.ankara-tr.net (Base64) [0.794]
+        └── contact.collegemotorsltd.com (Referrer/Base64) [1.153]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-06-Angler-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.139
+
+Redirection Chains:
+
+earthtools.org
+piealy.com
+└── 7dws8yz0k2.sdiouvb.com (Referrer/iFrame) [0.891]
+ecb.europa.eu
+
+Extracted Malicious Redirection Chain:
+
+piealy.com
+└── 7dws8yz0k2.sdiouvb.com (Referrer/iFrame) [0.891]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-09-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.204.145
+
+Redirection Chains:
+
+nottinghamshire-probation.org.uk
+└── stats.street-jeni.us (Referrer) [1.607]
+    └── 3d9a766.0eec.bcf7e8.af992.1e705.5f8d3.f658a0l7o9.pressterminals.in (Location) [1.061]
+report.ce1a9ku7m3g7iqgmyw1.com
+jamesan.ru
+msftncsi.com
+178.207.18.188
+num-lnkd.com
+└── 46.161.41.219 (Referrer) [17.297]
+    ├── 216.172.63.56 (Location) [0.42]
+    │   ├── 46.165.240.233 (Location/HTML) [1.001]
+    │   │   └── efatloss.com (Location) [1.493]
+    │   │       ├── trx5b.gem202.com (JavaScript) [1.018]
+    │   │       ├── cdn.jquerytools.org (Referrer/JavaScript) [0.998]
+    │   │       ├── p.jwpcdn.com (Unknown) [1.219]
+    │   │       └── s3.amazonaws.com (Unknown) [1.303]
+    │   └── 46.165.222.51 (Location/HTML) [0.87]
+    │       └── house2garden.com (Location) [1.302]
+    │           └── dealpages.s3-website-us-east-1.amazonaws.com (JavaScript/Referrer) [0]
+    ├── 46.165.229.125 (Location) [0.688]
+    │   └── itravelers.com (Location) [1.381]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.129]
+    │       ├── ib.adnxs.com (Referrer/JavaScript) [0.352]
+    │       └── counter.hitslink.com (Referrer) [0]
+    ├── 46.165.220.113 (Location) [0.663]
+    │   └── edushark.com (Location) [1.349]
+    └── 47650.seekcompany.net (Location) [1.044]
+page-insert.com
+└── 46.161.41.219 (Referrer) [14.811]
+    ├── 216.172.63.56 (Location) [0.42]
+    │   ├── 46.165.240.233 (Location/HTML) [1.001]
+    │   │   └── efatloss.com (Location) [1.493]
+    │   │       ├── trx5b.gem202.com (JavaScript) [1.018]
+    │   │       ├── cdn.jquerytools.org (Referrer/JavaScript) [0.998]
+    │   │       ├── p.jwpcdn.com (Unknown) [1.219]
+    │   │       └── s3.amazonaws.com (Unknown) [1.303]
+    │   └── 46.165.222.51 (Location/HTML) [0.87]
+    │       └── house2garden.com (Location) [1.302]
+    │           └── dealpages.s3-website-us-east-1.amazonaws.com (JavaScript/Referrer) [0]
+    ├── 46.165.229.125 (Location) [0.688]
+    │   └── itravelers.com (Location) [1.381]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.129]
+    │       ├── ib.adnxs.com (Referrer/JavaScript) [0.352]
+    │       └── counter.hitslink.com (Referrer) [0]
+    ├── 46.165.220.113 (Location) [0.663]
+    │   └── edushark.com (Location) [1.349]
+    └── 47650.seekcompany.net (Location) [1.044]
+seo-pronew.com
+└── 46.161.41.219 (Referrer) [14.552]
+    ├── 216.172.63.56 (Location) [0.42]
+    │   ├── 46.165.240.233 (Location/HTML) [1.001]
+    │   │   └── efatloss.com (Location) [1.493]
+    │   │       ├── trx5b.gem202.com (JavaScript) [1.018]
+    │   │       ├── cdn.jquerytools.org (Referrer/JavaScript) [0.998]
+    │   │       ├── p.jwpcdn.com (Unknown) [1.219]
+    │   │       └── s3.amazonaws.com (Unknown) [1.303]
+    │   └── 46.165.222.51 (Location/HTML) [0.87]
+    │       └── house2garden.com (Location) [1.302]
+    │           └── dealpages.s3-website-us-east-1.amazonaws.com (JavaScript/Referrer) [0]
+    ├── 46.165.229.125 (Location) [0.688]
+    │   └── itravelers.com (Location) [1.381]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.129]
+    │       ├── ib.adnxs.com (Referrer/JavaScript) [0.352]
+    │       └── counter.hitslink.com (Referrer) [0]
+    ├── 46.165.220.113 (Location) [0.663]
+    │   └── edushark.com (Location) [1.349]
+    └── 47650.seekcompany.net (Location) [1.044]
+owl-slideshow.com
+└── 46.161.41.219 (Referrer) [16.188]
+    ├── 216.172.63.56 (Location) [0.42]
+    │   ├── 46.165.240.233 (Location/HTML) [1.001]
+    │   │   └── efatloss.com (Location) [1.493]
+    │   │       ├── trx5b.gem202.com (JavaScript) [1.018]
+    │   │       ├── cdn.jquerytools.org (Referrer/JavaScript) [0.998]
+    │   │       ├── p.jwpcdn.com (Unknown) [1.219]
+    │   │       └── s3.amazonaws.com (Unknown) [1.303]
+    │   └── 46.165.222.51 (Location/HTML) [0.87]
+    │       └── house2garden.com (Location) [1.302]
+    │           └── dealpages.s3-website-us-east-1.amazonaws.com (JavaScript/Referrer) [0]
+    ├── 46.165.229.125 (Location) [0.688]
+    │   └── itravelers.com (Location) [1.381]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.129]
+    │       ├── ib.adnxs.com (Referrer/JavaScript) [0.352]
+    │       └── counter.hitslink.com (Referrer) [0]
+    ├── 46.165.220.113 (Location) [0.663]
+    │   └── edushark.com (Location) [1.349]
+    └── 47650.seekcompany.net (Location) [1.044]
+simple-connector.com
+└── 46.161.41.219 (Referrer) [15.171]
+    ├── 216.172.63.56 (Location) [0.42]
+    │   ├── 46.165.240.233 (Location/HTML) [1.001]
+    │   │   └── efatloss.com (Location) [1.493]
+    │   │       ├── trx5b.gem202.com (JavaScript) [1.018]
+    │   │       ├── cdn.jquerytools.org (Referrer/JavaScript) [0.998]
+    │   │       ├── p.jwpcdn.com (Unknown) [1.219]
+    │   │       └── s3.amazonaws.com (Unknown) [1.303]
+    │   └── 46.165.222.51 (Location/HTML) [0.87]
+    │       └── house2garden.com (Location) [1.302]
+    │           └── dealpages.s3-website-us-east-1.amazonaws.com (JavaScript/Referrer) [0]
+    ├── 46.165.229.125 (Location) [0.688]
+    │   └── itravelers.com (Location) [1.381]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.129]
+    │       ├── ib.adnxs.com (Referrer/JavaScript) [0.352]
+    │       └── counter.hitslink.com (Referrer) [0]
+    ├── 46.165.220.113 (Location) [0.663]
+    │   └── edushark.com (Location) [1.349]
+    └── 47650.seekcompany.net (Location) [1.044]
+178.32.82.137
+report.5w55ywsk5yw5uo5.com
+nitomsk.su
+schopsca.ru
+162.144.37.28
+
+Extracted Malicious Redirection Chain:
+
+nottinghamshire-probation.org.uk
+└── stats.street-jeni.us (Referrer) [1.607]
+    └── 3d9a766.0eec.bcf7e8.af992.1e705.5f8d3.f658a0l7o9.pressterminals.in (Location) [1.061]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-26-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.204.149
+
+Redirection Chains:
+
+wranglerforum.com
+└── totopinio.com (Referrer/JavaScript) [1.676]
+    └── hematitetekki.biz (Concat) [14.205]
+
+Extracted Malicious Redirection Chain:
+
+wranglerforum.com
+└── totopinio.com (Referrer/JavaScript) [1.676]
+    └── hematitetekki.biz (Concat) [14.205]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-27-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.151
+
+Redirection Chains:
+
+k.retainingwallinc.com
+dresseslux.com
+├── img.kirklandhouse.info (Referrer) [0]
+└── a.paverssearch.com (Referrer) [1.722]
+
+Extracted Malicious Redirection Chain:
+
+dresseslux.com
+└── a.paverssearch.com (Referrer) [1.722]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+dresseslux.com
+└── img.kirklandhouse.info (Referrer) [0]
+    └── a.paverssearch.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2014-10-30-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.141
+
+Redirection Chains:
+
+watsonsbayhotel.com.au
+└── kj-invest.com (Referrer/HTML) [11.453]
+    └── newfamilynutrition.com (Referrer) [5.068]
+        └── qwe.leucaenaleucocephalaporno.net (Referrer/HTML) [3.259]
+ecb.europa.eu
+earthtools.org
+stonepacific.in
+
+Extracted Malicious Redirection Chain:
+
+watsonsbayhotel.com.au
+└── kj-invest.com (Referrer/HTML) [11.453]
+    └── newfamilynutrition.com (Referrer) [5.068]
+        └── qwe.leucaenaleucocephalaporno.net (Referrer/HTML) [3.259]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-10-30-FlashPack-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+betashares.com.au
+└── findnewlink.com (Referrer/JavaScript) [1.185]
+    └── kethanlingtoro.eu (iFrame/JavaScript) [6.214]
+
+Extracted Malicious Redirection Chain:
+
+betashares.com.au
+└── findnewlink.com (Referrer/JavaScript) [1.185]
+    └── kethanlingtoro.eu (iFrame/JavaScript) [6.214]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-01-Fiesta-EK-traffic.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+shootersforum.com
+└── simlppistore.com (Referrer/JavaScript) [1.474]
+    └── conocarpusgeorgsimonohm.us (Concat) [17.043]
+
+Extracted Malicious Redirection Chain:
+
+shootersforum.com
+└── simlppistore.com (Referrer/JavaScript) [1.474]
+    └── conocarpusgeorgsimonohm.us (Concat) [17.043]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-02-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.131
+
+Redirection Chains:
+
+cidec.eu
+└── fuerzayemocion.com (Referrer/JavaScript) [0.96]
+    └── faengelshazier.netgouv.com (JavaScript/iFrame) [3.84]
+ecb.europa.eu
+earthtools.org
+download.windowsupdate.com
+
+Extracted Malicious Redirection Chain:
+
+cidec.eu
+└── fuerzayemocion.com (Referrer/JavaScript) [0.96]
+    └── faengelshazier.netgouv.com (JavaScript/iFrame) [3.84]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-06-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.136
+
+Redirection Chains:
+
+magmedia.com.au
+└── pixeltouchstudios.tk (Referrer/JavaScript/iFrame) [0.906]
+    └── grannityrektonaver.co.vu (Location/HTML) [0.241]
+
+Extracted Malicious Redirection Chain:
+
+magmedia.com.au
+└── pixeltouchstudios.tk (Referrer/JavaScript/iFrame) [0.906]
+    └── grannityrektonaver.co.vu (Location/HTML) [0.241]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-10-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.129
+
+Redirection Chains:
+
+informatica-speedy.eu
+└── mosens.de (Referrer) [0.546]
+    └── pompezne1-buddh.seek4autos.com (iFrame/JavaScript) [1.119]
+mosens.de
+└── pompezne1-buddh.seek4autos.com (iFrame/JavaScript) [1.119]
+
+Extracted Malicious Redirection Chain:
+
+informatica-speedy.eu
+└── mosens.de (Referrer) [0.546]
+    └── pompezne1-buddh.seek4autos.com (iFrame/JavaScript) [1.119]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-13-Fiesta-EK-traffic.pcap..
+
+Source IP: 192.168.137.22
+
+Redirection Chains:
+
+autogeekonline.net
+└── evgeneevich.com (Referrer/JavaScript) [0.583]
+    └── betamedsearch.in (Concat) [18.682]
+update.8kxkslrbaw.com
+update.roighh5.com
+evgeneevich.com
+└── betamedsearch.in (Concat) [18.682]
+report.5i5qg5iq5w5u5m5.com
+report.555aa555s5e55ku.com
+
+Extracted Malicious Redirection Chain:
+
+autogeekonline.net
+└── evgeneevich.com (Referrer/JavaScript) [0.583]
+    └── betamedsearch.in (Concat) [18.682]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-14-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.148
+
+Redirection Chains:
+
+villagedespruniers.net
+└── 5108.im (Referrer/HTML) [2.344]
+    └── cryztalimage.com (Referrer) [1.498]
+        └── asd.songkillerbong.ru (Referrer/HTML) [0.868]
+ecb.europa.eu
+earthtools.org
+
+Extracted Malicious Redirection Chain:
+
+villagedespruniers.net
+└── 5108.im (Referrer/HTML) [2.344]
+    └── cryztalimage.com (Referrer) [1.498]
+        └── asd.songkillerbong.ru (Referrer/HTML) [0.868]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-15-Angler-EK-traffic.pcap..
+
+Source IP: 192.168.204.152
+
+Redirection Chains:
+
+ebsmedia.eu
+└── sp-personalservice.de (Referrer/JavaScript) [0.143]
+    └── verspeisegraveer.catmitzvah.com (iFrame/JavaScript) [5.111]
+ecb.europa.eu
+blog.benefitshotline.co.uk
+earthtools.org
+download.windowsupdate.com
+
+Extracted Malicious Redirection Chain:
+
+ebsmedia.eu
+└── sp-personalservice.de (Referrer/JavaScript) [0.143]
+    └── verspeisegraveer.catmitzvah.com (iFrame/JavaScript) [5.111]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-15-Rig-EK-traffic.pcap..
+
+Source IP: 192.168.204.154
+
+Redirection Chains:
+
+vastkid.com
+├── cdn2.movetoclarksville.com (Referrer/JavaScript/iFrame) [0.917]
+└── 24corp-shop.com (Referrer/JavaScript) [20.665]
+    └── siam.thosewhodo.org (Referrer/iFrame) [3.328]
+
+Extracted Malicious Redirection Chain:
+
+vastkid.com
+└── 24corp-shop.com (Referrer/JavaScript) [20.665]
+    └── siam.thosewhodo.org (Referrer/iFrame) [3.328]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-16-Rig-EK-exercise.pcap..
+
+Source IP: 172.16.165.165
+
+Redirection Chains:
+
+ciniholland.nl
+├── adultbiz.in (Referrer/JavaScript) [0.286]
+├── youtube.com (Referrer/iFrame/HTML) [0.871]
+└── 24corp-shop.com (Referrer) [1.385]
+    └── stand.trustandprobaterealty.com (Referrer/iFrame) [1.033]
+
+Extracted Malicious Redirection Chain:
+
+ciniholland.nl
+└── 24corp-shop.com (Referrer) [1.385]
+    └── stand.trustandprobaterealty.com (Referrer/iFrame) [1.033]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-18-Sweet-Orange-EK-traffic.pcap..
+
+Source IP: 192.168.204.155
+
+Redirection Chains:
+
+parimmm.celebrity-sextapes.com
+banda.hospedagemdesites.ws
+volumebass.com
+└── bwg53gcd.adult-link-exchange.info (Referrer/iFrame) [2.488]
+netexplosao.hospedagemdesites.ws
+
+Extracted Malicious Redirection Chain:
+
+volumebass.com
+└── bwg53gcd.adult-link-exchange.info (Referrer/iFrame) [2.488]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-19-Fiesta-EK-traffic-on-VM.pcap..
+
+Source IP: 192.168.204.136
+
+Redirection Chains:
+
+excelforum.com
+└── bendjoblac.com (Referrer/JavaScript) [3.169]
+    └── bitmp3search.in (Concat) [19.657]
+bendjoblac.com
+└── bitmp3search.in (Concat) [19.657]
+
+Extracted Malicious Redirection Chain:
+
+excelforum.com
+└── bendjoblac.com (Referrer/JavaScript) [3.169]
+    └── bitmp3search.in (Concat) [19.657]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-20-Magnitude-EK-traffic.pcap..
+
+Source IP: 192.168.69.10
+
+Redirection Chains:
+
+doingitonline.com
+├── p.jwpcdn.com (Referrer/JavaScript) [1.483]
+├── fonts.gstatic.com (Referrer) [0.087]
+├── handbasketproductions.com (Referrer/HTML) [0]
+├── presentwithconfidence.undo.it (Referrer/JavaScript/iFrame) [0.373]
+│   └── 31896b.4e076.805ed5.9204.958e.759.403e.cl2bmh704d0.mentionscreens.in (Referrer/JavaScript/iFrame) [0.575]
+└── vjs.zencdn.net (Referrer) [0.072]
+193.169.245.208
+fpdownload2.macromedia.com
+1e90ff.com
+
+Extracted Malicious Redirection Chain:
+
+doingitonline.com
+└── presentwithconfidence.undo.it (Referrer/JavaScript/iFrame) [0.373]
+    └── 31896b.4e076.805ed5.9204.958e.759.403e.cl2bmh704d0.mentionscreens.in (Referrer/JavaScript/iFrame) [0.575]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-22-Angler-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+cc.bingj.com
+├── lodgemoornursery.co.uk (Referrer/HTML) [0.575]
+└── alpenland-auffach.com (Referrer) [1.206]
+    └── wojciktypeinfoptrset.lohrakupunktur.de (iFrame/JavaScript) [1.121]
+ecb.europa.eu
+report.qg7iq17cei7qgm7g3i.com
+nickzappa.com
+msftncsi.com
+183.78.170.117
+planning-houses.com
+└── 46.244.10.228 (Referrer) [10.0]
+    ├── 50.7.74.66 (Location) [0.28]
+    │   └── c.clickprotects.com (Location) [0.315]
+    │       ├── 11165575-1039884374.id.clickprotects.com (Location) [0.863]
+    │       ├── 11163675-1207084374.id.clickprotects.com (Location) [0.862]
+    │       └── 11163605-326936.id.clickprotects.com (Location) [2.235]
+    ├── c.feed-xml.com (Location) [0.567]
+    ├── 46.165.240.233 (Location) [0]
+    │   └── umbrellanews.com (Location) [1.129]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.741]
+    │       └── googletagservices.com (Referrer) [3.659]
+    ├── xmlka.com (Location) [0.372]
+    │   └── ubore.com (Location) [0.313]
+    │       ├── track.godork.com (Referrer/JavaScript) [0.698]
+    │       └── virool.at (Referrer/JavaScript) [0.092]
+    ├── 88.85.84.113:8082 (Location) [0]
+    ├── 109.206.188.72 (Location) [0.372]
+    │   └── 173.214.255.202 (Location) [0]
+    │       ├── inbound.gobroadway.tv (Location) [0.52]
+    │       │   ├── 7194.bapi.adsafeprotected.com (Referrer) [0.435]
+    │       │   ├── static.adsafeprotected.com (Referrer) [5.658]
+    │       │   └── dt.adsafeprotected.com (Referrer) [5.658]
+    │       └── searchnet.blinkxcore.com (Location) [1.183]
+    ├── 47650.adsboxonline.com (Location) [0]
+    ├── v.clickdiagnostic.com (Location) [0]
+    │   └── go.videozview.com (Location) [3.737]
+    ├── 46.165.220.115 (Location) [0]
+    └── 46.165.229.125 (Location) [0]
+88.85.84.113
+└── 216.172.63.56 (Location) [0.258]
+    └── 188.40.112.83 (Location/HTML) [1.183]
+        └── 88.85.84.113:8082 (Location) [1.267]
+templates-new.com
+└── 46.244.10.228 (Referrer) [10.557]
+    ├── 50.7.74.66 (Location) [0.28]
+    │   └── c.clickprotects.com (Location) [0.315]
+    │       ├── 11165575-1039884374.id.clickprotects.com (Location) [0.863]
+    │       ├── 11163675-1207084374.id.clickprotects.com (Location) [0.862]
+    │       └── 11163605-326936.id.clickprotects.com (Location) [2.235]
+    ├── c.feed-xml.com (Location) [0.567]
+    ├── 46.165.240.233 (Location) [0]
+    │   └── umbrellanews.com (Location) [1.129]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.741]
+    │       └── googletagservices.com (Referrer) [3.659]
+    ├── xmlka.com (Location) [0.372]
+    │   └── ubore.com (Location) [0.313]
+    │       ├── track.godork.com (Referrer/JavaScript) [0.698]
+    │       └── virool.at (Referrer/JavaScript) [0.092]
+    ├── 88.85.84.113:8082 (Location) [0]
+    ├── 109.206.188.72 (Location) [0.372]
+    │   └── 173.214.255.202 (Location) [0]
+    │       ├── inbound.gobroadway.tv (Location) [0.52]
+    │       │   ├── 7194.bapi.adsafeprotected.com (Referrer) [0.435]
+    │       │   ├── static.adsafeprotected.com (Referrer) [5.658]
+    │       │   └── dt.adsafeprotected.com (Referrer) [5.658]
+    │       └── searchnet.blinkxcore.com (Location) [1.183]
+    ├── 47650.adsboxonline.com (Location) [0]
+    ├── v.clickdiagnostic.com (Location) [0]
+    │   └── go.videozview.com (Location) [3.737]
+    ├── 46.165.220.115 (Location) [0]
+    └── 46.165.229.125 (Location) [0]
+scream-back.com
+└── 46.244.10.228 (Referrer) [7.17]
+    ├── 50.7.74.66 (Location) [0.28]
+    │   └── c.clickprotects.com (Location) [0.315]
+    │       ├── 11165575-1039884374.id.clickprotects.com (Location) [0.863]
+    │       ├── 11163675-1207084374.id.clickprotects.com (Location) [0.862]
+    │       └── 11163605-326936.id.clickprotects.com (Location) [2.235]
+    ├── c.feed-xml.com (Location) [0.567]
+    ├── 46.165.240.233 (Location) [0]
+    │   └── umbrellanews.com (Location) [1.129]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.741]
+    │       └── googletagservices.com (Referrer) [3.659]
+    ├── xmlka.com (Location) [0.372]
+    │   └── ubore.com (Location) [0.313]
+    │       ├── track.godork.com (Referrer/JavaScript) [0.698]
+    │       └── virool.at (Referrer/JavaScript) [0.092]
+    ├── 88.85.84.113:8082 (Location) [0]
+    ├── 109.206.188.72 (Location) [0.372]
+    │   └── 173.214.255.202 (Location) [0]
+    │       ├── inbound.gobroadway.tv (Location) [0.52]
+    │       │   ├── 7194.bapi.adsafeprotected.com (Referrer) [0.435]
+    │       │   ├── static.adsafeprotected.com (Referrer) [5.658]
+    │       │   └── dt.adsafeprotected.com (Referrer) [5.658]
+    │       └── searchnet.blinkxcore.com (Location) [1.183]
+    ├── 47650.adsboxonline.com (Location) [0]
+    ├── v.clickdiagnostic.com (Location) [0]
+    │   └── go.videozview.com (Location) [3.737]
+    ├── 46.165.220.115 (Location) [0]
+    └── 46.165.229.125 (Location) [0]
+page-insert.com
+└── 46.244.10.228 (Referrer) [3.419]
+    ├── 50.7.74.66 (Location) [0.28]
+    │   └── c.clickprotects.com (Location) [0.315]
+    │       ├── 11165575-1039884374.id.clickprotects.com (Location) [0.863]
+    │       ├── 11163675-1207084374.id.clickprotects.com (Location) [0.862]
+    │       └── 11163605-326936.id.clickprotects.com (Location) [2.235]
+    ├── c.feed-xml.com (Location) [0.567]
+    ├── 46.165.240.233 (Location) [0]
+    │   └── umbrellanews.com (Location) [1.129]
+    │       ├── code.jquery.com (Referrer/JavaScript) [0.741]
+    │       └── googletagservices.com (Referrer) [3.659]
+    ├── xmlka.com (Location) [0.372]
+    │   └── ubore.com (Location) [0.313]
+    │       ├── track.godork.com (Referrer/JavaScript) [0.698]
+    │       └── virool.at (Referrer/JavaScript) [0.092]
+    ├── 88.85.84.113:8082 (Location) [0]
+    ├── 109.206.188.72 (Location) [0.372]
+    │   └── 173.214.255.202 (Location) [0]
+    │       ├── inbound.gobroadway.tv (Location) [0.52]
+    │       │   ├── 7194.bapi.adsafeprotected.com (Referrer) [0.435]
+    │       │   ├── static.adsafeprotected.com (Referrer) [5.658]
+    │       │   └── dt.adsafeprotected.com (Referrer) [5.658]
+    │       └── searchnet.blinkxcore.com (Location) [1.183]
+    ├── 47650.adsboxonline.com (Location) [0]
+    ├── v.clickdiagnostic.com (Location) [0]
+    │   └── go.videozview.com (Location) [3.737]
+    ├── 46.165.220.115 (Location) [0]
+    └── 46.165.229.125 (Location) [0]
+earthtools.org
+download.windowsupdate.com
+gapirna.com
+state.cuttingcabin.co.uk
+tsangakha.com
+
+Extracted Malicious Redirection Chain:
+
+alpenland-auffach.com
+└── wojciktypeinfoptrset.lohrakupunktur.de (iFrame/JavaScript) [1.121]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-23-Sweet-Orange-EK-exercise.pcap..
+
+Source IP: 172.16.165.132
+
+Redirection Chains:
+
+hijinksensue.com
+├── w.sharethis.com (Referrer/JavaScript) [0]
+│   ├── wd-edge.sharethis.com (iFrame/HTML/JavaScript) [5.304]
+│   └── edge.sharethis.com (iFrame/HTML/JavaScript) [0.512]
+├── s0.wp.com (Referrer/JavaScript) [0.285]
+├── stats.wp.com (Referrer/JavaScript) [0.234]
+├── thehiveworks.com (Referrer/HTML/JavaScript) [0]
+│   └── cdn.thehiveworks.com (Unknown) [1.767]
+├── i.imgur.com (Referrer/HTML) [0.304]
+├── intensedebate.com (Referrer/JavaScript) [0.648]
+├── static.charlotteretirementcommunities.com (Referrer) [0]
+├── ads.thehiveworks.com (Referrer/HTML/JavaScript) [0.13]
+│   └── tag.contextweb.com (Unknown) [7.971]
+│       └── ads.contextweb.com (JavaScript) [0.914]
+├── pixel.wp.com (Referrer) [0.21]
+├── g.trinketking.com (Referrer) [0.159]
+│   └── h.trinketking.com (Subdomain) [2.045]
+├── seg.sharethis.com (Referrer) [8.059]
+├── l.sharethis.com (Referrer) [8.18]
+├── pagead2.googlesyndication.com (Referrer) [10.239]
+│   └── googleads.g.doubleclick.net (Unknown) [0.524]
+├── pixel.quantserve.com (Referrer) [10.364]
+├── bh.contextweb.com (Referrer) [10.485]
+│   ├── cm.adgrx.com (Referrer) [0.556]
+│   ├── i.w55c.net (Referrer) [0.556]
+│   ├── contextweb.pixel.invitemedia.com (Referrer) [0.556]
+│   │   └── bid.g.doubleclick.net (Location/HTML) [0.676]
+│   ├── ib.adnxs.com (Referrer) [0.555]
+│   │   ├── r.turn.com (Location) [0.503]
+│   │   └── pixel.rubiconproject.com (Location) [1.148]
+│   ├── cm.g.doubleclick.net (Referrer) [0.556]
+│   ├── sync.mathtag.com (Referrer) [0.556]
+│   ├── ad.turn.com (Referrer) [0.605]
+│   │   └── cdn.turn.com (Referrer) [0.699]
+│   │       ├── us-u.openx.net (Referrer) [0.488]
+│   │       ├── ads.stickyadstv.com (Referrer) [0.489]
+│   │       ├── ce.lijit.com (Referrer) [0.502]
+│   │       ├── image2.pubmatic.com (Referrer) [0.502]
+│   │       ├── rtb-csync.smartadserver.com (Referrer) [0.502]
+│   │       ├── ih.adscale.de (Referrer) [0.502]
+│   │       ├── ad.360yield.com (Referrer) [0.518]
+│   │       ├── ums.adtech.de (Referrer) [0.518]
+│   │       ├── ad.sxp.smartclip.net (Referrer) [0.518]
+│   │       ├── sync.adap.tv (Referrer) [0.57]
+│   │       ├── e.nexac.com (Referrer) [0.6]
+│   │       ├── sync.search.spotxchange.com (Referrer) [0.599]
+│   │       │   └── cdn.spotxchange.com (Location) [0.602]
+│   │       ├── dsum.casalemedia.com (Referrer) [0.489]
+│   │       ├── ad.afy11.net (Referrer) [0.678]
+│   │       ├── tags.bluekai.com (Unknown) [1.119]
+│   │       │   └── m.xp1.ru4.com (Location) [0.226]
+│   │       │       └── adadvisor.net (Location) [0.754]
+│   │       ├── d.turn.com (Referrer) [1.182]
+│   │       └── pixel.tapad.com (Unknown) [0.316]
+│   ├── um.simpli.fi (Referrer) [0.606]
+│   ├── match.adsrvr.org (Referrer) [0.606]
+│   ├── magnetic.t.domdex.com (Referrer) [0.606]
+│   │   └── ww1.collserve.com (Location/HTML) [0.66]
+│   ├── px.owneriq.net (Referrer) [0.607]
+│   ├── pcm1.map.pulsemgr.com (Referrer) [0.605]
+│   ├── idpix.media6degrees.com (Referrer) [0.606]
+│   ├── contextweb-match.dotomi.com (Referrer) [0.606]
+│   │   └── dtm.westelm.com (Location) [0.699]
+│   ├── cw-m.d.chango.com (Referrer) [0.606]
+│   ├── um.eqads.com (Referrer) [0.606]
+│   ├── wtp101.com (Referrer) [0.607]
+│   ├── x.bidswitch.net (Referrer) [0.825]
+│   ├── pxgp2.adpredictive.com (Referrer) [0.608]
+│   ├── pixel.sitescout.com (Referrer) [0.732]
+│   ├── connexity.net (Referrer) [0.732]
+│   └── pulsepoint-cm.p.veruta.com (Referrer) [0.893]
+├── gstatic.com (Referrer) [10.731]
+├── edge.quantserve.com (Referrer) [11.296]
+├── optimized-by.rubiconproject.com (Referrer/JavaScript) [11.926]
+│   ├── ads-by.madadsmedia.com (Referrer/JavaScript) [0]
+│   │   ├── ads.rubiconproject.com (JavaScript) [0.811]
+│   │   └── pixel.madadsmedia.com (JavaScript) [0.973]
+│   └── tap2-cdn.rubiconproject.com (JavaScript) [0.901]
+│       ├── rbp.emea.mxptint.net (Referrer) [0.647]
+│       ├── p.rfihub.com (Referrer) [0.689]
+│       ├── ads.p161.net (Referrer) [0.689]
+│       ├── sync.tidaltv.com (Referrer) [0.689]
+│       ├── c1.adform.net (Referrer) [0.69]
+│       ├── acuityplatform.com (Referrer) [0.647]
+│       ├── r.254a.com (Referrer) [0.811]
+│       ├── rtb.revenuemantra.com (Referrer) [0.744]
+│       └── rubicon-cm.p.veruta.com (Referrer) [0.787]
+└── projectwonderful.com (Referrer/HTML) [16.028]
+
+Extracted Malicious Redirection Chain:
+
+hijinksensue.com
+└── g.trinketking.com (Referrer) [0.159]
+    └── h.trinketking.com (Subdomain) [2.045]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-29-Neutrino-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.204.164
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.379]
+    └── cjcpevng.kommonly.eu (JavaScript/iFrame) [6.139]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.379]
+    └── cjcpevng.kommonly.eu (JavaScript/iFrame) [6.139]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-29-Neutrino-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.204.166
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.925]
+    └── quftaugmfx.kommonly.eu (iFrame/JavaScript) [2.133]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.925]
+    └── quftaugmfx.kommonly.eu (iFrame/JavaScript) [2.133]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-11-30-Gondad-EK-traffic.pcap..
+
+Source IP: 192.168.204.133
+
+Redirection Chains:
+
+badasarang.or.kr
+└── gomgomi.com (Referrer/iFrame) [2.788]
+    └── hwashinshop.com (Referrer) [2.004]
+daewootec.com
+
+Extracted Malicious Redirection Chain:
+
+badasarang.or.kr
+└── gomgomi.com (Referrer/iFrame) [2.788]
+    └── hwashinshop.com (Referrer) [2.004]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-01-Neutrino-EK-traffic-first-run.pcap..
+
+Source IP: 192.168.204.171
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.484]
+    └── prerbwh.freedlyaccupay.eu (iFrame/JavaScript) [4.454]
+        └── oiqgp.freedlyaccupay.eu (Subdomain) [6.184]
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.484]
+    └── prerbwh.freedlyaccupay.eu (iFrame/JavaScript) [4.454]
+        └── oiqgp.freedlyaccupay.eu (Subdomain) [6.184]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-01-Neutrino-EK-traffic-second-run.pcap..
+
+Source IP: 192.168.204.172
+
+Redirection Chains:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.186]
+    └── vosng.freedlyaccupay.eu (JavaScript/iFrame) [2.066]
+fpdownload2.macromedia.com
+
+Extracted Malicious Redirection Chain:
+
+lejardindasie.be
+└── stat.diegostellet.com (Referrer/JavaScript) [0.186]
+    └── vosng.freedlyaccupay.eu (JavaScript/iFrame) [2.066]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-04-Angler-EK-exercise.pcap..
+
+Source IP: 192.168.137.62
+
+Redirection Chains:
+
+earsurgery.org
+├── dsms0mj1bbhn4.cloudfront.net (Referrer) [0.149]
+├── pagead2.googlesyndication.com (Referrer) [0.527]
+│   └── googleads.g.doubleclick.net (Unknown) [0.57]
+│       └── fonts.gstatic.com (Referrer) [0]
+├── youtube.com (Referrer/iFrame) [2.687]
+├── netdna.bootstrapcdn.com (Referrer) [2.867]
+├── gstatic.com (Referrer) [2.866]
+├── adstairs.ro (Referrer/HTML) [2.886]
+│   └── lifeinsidedetroit.com (Referrer) [1.03]
+│       └── qwe.mvdunalterableairreport.net (Referrer/HTML) [1.055]
+├── static-shareaholic.s3.amazonaws.com (Referrer) [0.168]
+│   ├── ib.adnxs.com (Referrer) [3.732]
+│   └── analytics.shareaholic.com (Referrer) [0]
+├── cdnjs.cloudflare.com (Referrer) [7.033]
+├── px.owneriq.net (Referrer) [1.876]
+│   └── cm.g.doubleclick.net (Location) [0.335]
+│       └── gcm.chango.com (Location/HTML) [0.746]
+├── cc.chango.com (Referrer) [1.876]
+│   ├── us-u.openx.net (Unknown) [0.535]
+│   ├── image2.pubmatic.com (Unknown) [0.535]
+│   ├── bh.contextweb.com (Unknown) [0.725]
+│   ├── pixel.rubiconproject.com (Unknown) [0.756]
+│   ├── dsum-sec.casalemedia.com (Unknown) [0.735]
+│   └── ums.adtechus.com (Unknown) [0]
+└── linkedin.com (Referrer) [2.244]
+ecb.europa.eu
+earthtools.org
+
+Extracted Malicious Redirection Chain:
+
+earsurgery.org
+└── adstairs.ro (Referrer/HTML) [2.886]
+    └── lifeinsidedetroit.com (Referrer) [1.03]
+        └── qwe.mvdunalterableairreport.net (Referrer/HTML) [1.055]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-07-Neutrino-EK-traffic.pcap..
+
+Source IP: 192.168.137.63
+
+Redirection Chains:
+
+scottishquality.com
+├── ls.spire-project.com (Referrer/JavaScript) [0]
+│   └── eytmxgnqlm.nirval.eu (iFrame/JavaScript) [1.518]
+├── media.datahc.com (Referrer/HTML) [0.055]
+├── static.laterooms.com (Referrer/HTML) [0.093]
+├── newsnetscotland.scot (Referrer/HTML) [0]
+└── ponsonbypost.com (Referrer/HTML) [0]
+msftncsi.com
+109.234.37.192
+109.234.37.192
+
+Extracted Malicious Redirection Chain:
+
+scottishquality.com
+└── ls.spire-project.com (Referrer/JavaScript) [0]
+    └── eytmxgnqlm.nirval.eu (iFrame/JavaScript) [1.518]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-08-Fiesta-EK-exercise.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+excelforum.com
+├── magggnitia.com (Referrer/JavaScript) [0.042]
+│   └── digiwebname.in (Concat) [5.286]
+├── pagead2.googlesyndication.com (Referrer) [0.295]
+│   └── googleads.g.doubleclick.net (Unknown) [0.333]
+├── gstatic.com (Referrer) [0.337]
+├── cdn-static.formisimo.com (Referrer) [0.248]
+│   └── tracking.formisimo.com (Subdomain) [1.421]
+└── code.jquery.com (Referrer) [0.123]
+209.239.112.229
+magggnitia.com
+└── digiwebname.in (Concat) [5.286]
+
+Extracted Malicious Redirection Chain:
+
+excelforum.com
+└── magggnitia.com (Referrer/JavaScript) [0.042]
+    └── digiwebname.in (Concat) [5.286]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-10-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+primehealthchannel.com
+└── byxswk7yqg0plq1u59l9npl.parkmedical.com.au (Location) [0.561]
+    └── byxswk7yqg0plq1u59l9npl1177542af60f24b98053e1eb7a699643c.parkmedical.com.au (Base64) [0.663]
+        ├── seventhnamed.co.vu (Referrer/Base64) [1.915]
+        └── 2214v81kdk41tss232m9vxm.escort-ankara.pro (Base64) [20.251]
+
+Extracted Malicious Redirection Chain:
+
+primehealthchannel.com
+└── byxswk7yqg0plq1u59l9npl.parkmedical.com.au (Location) [0.561]
+    └── byxswk7yqg0plq1u59l9npl1177542af60f24b98053e1eb7a699643c.parkmedical.com.au (Base64) [0.663]
+        ├── seventhnamed.co.vu (Referrer/Base64) [1.915]
+        └── 2214v81kdk41tss232m9vxm.escort-ankara.pro (Base64) [20.251]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-13-Gondad-EK-infection-traffic.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+gilsangart.com
+├── gomgomi.com (Referrer) [1.203]
+└── d-mama.co.kr (Referrer/iFrame) [2.029]
+    └── songhwasu.com (Referrer) [1.25]
+        └── comm.sansung.org (Referrer) [2.944]
+23.248.253.123
+
+Extracted Malicious Redirection Chain:
+
+gilsangart.com
+└── d-mama.co.kr (Referrer/iFrame) [2.029]
+    └── songhwasu.com (Referrer) [1.25]
+        └── comm.sansung.org (Referrer) [2.944]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-15-Nuclear-EK-traffic_missingC.pcap..
+
+Source IP: 192.168.204.139
+
+Redirection Chains:
+
+vipdates.lutsk.ua
+└── fourkopoll.co.vu (JavaScript/iFrame) [1.446]
+
+Extracted Malicious Redirection Chain:
+
+vipdates.lutsk.ua
+└── fourkopoll.co.vu (JavaScript/iFrame) [1.446]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-18-Nuclear-EK-traffic.pcap..
+
+Source IP: 192.168.204.137
+
+Redirection Chains:
+
+nandy.cz
+└── d16305.ispservices.at (Referrer/JavaScript) [0.677]
+    └── woxepityfillo.cf (JavaScript/iFrame) [1.567]
+allaff.com
+
+Extracted Malicious Redirection Chain:
+
+nandy.cz
+└── d16305.ispservices.at (Referrer/JavaScript) [0.677]
+    └── woxepityfillo.cf (JavaScript/iFrame) [1.567]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2014-12-25-Nuclear-EK-from-Windigo-group-traffic.pcap..
+
+Source IP: 192.168.138.135
+
+Redirection Chains:
+
+stars-hk.com
+└── v3n3j7hjo9n9azf0tie0hwx.alicisemsiye.com (Location/HTML) [1.751]
+    └── v3n3j7hjo9n9azf0tie0hwx2199542d41c61787068de91c848581d49.alicisemsiye.com (Base64) [1.297]
+        ├── gibdbnfgy8t3hglj5xzll7x.alicisemsiye.com (Referrer/Base64) [1.296]
+        └── bzwyns6jjb3gbhlg7qlyxmp.escortbayancix.com (Base64) [20.947]
+cams.com
+graphics.pop6.com
+
+Extracted Malicious Redirection Chain:
+
+stars-hk.com
+└── v3n3j7hjo9n9azf0tie0hwx.alicisemsiye.com (Location/HTML) [1.751]
+    └── v3n3j7hjo9n9azf0tie0hwx2199542d41c61787068de91c848581d49.alicisemsiye.com (Base64) [1.297]
+        ├── gibdbnfgy8t3hglj5xzll7x.alicisemsiye.com (Referrer/Base64) [1.296]
+        └── bzwyns6jjb3gbhlg7qlyxmp.escortbayancix.com (Base64) [20.947]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing Complete..
+
+Total execution time: 5 minutes and 58.97 seconds!
+Average PCAP processing time: 1.46 seconds!
+Average chain processing time: 1.46 seconds!
+
+798/814 (98.03%) Malicious URLs were correctly extracted from 246 malicious chains!
+
+====================================================================================================
+
+230/246 (93.5%) Malicious chains were correctly identified!
+16/246 (6.5%) Malicious chains were semi-correctly identified!
+0/246 (0.0%) Malicious chains were incorrectly identified!
+
+17/246 (6.91%) PCAPs were missing the compromised site!
+0/246 (0.0%) PCAPs were Malvertising!
+
+| Redir_Type   | Num     | %      |   Avg |
+|--------------+---------+--------+-------|
+| Referrer     | 325/933 | 34.83% | 0.348 |
+| JavaScript   | 197/933 | 21.11% | 0.211 |
+| iFrame       | 155/933 | 16.61% | 0.166 |
+| Location     | 95/933  | 10.18% | 0.102 |
+| HTML         | 66/933  | 7.07%  | 0.071 |
+| Base64       | 48/933  | 5.14%  | 0.051 |
+| Unknown      | 20/933  | 2.14%  | 0.021 |
+| Advanced     | 16/933  | 1.71%  | 0.017 |
+| Concat       | 6/933   | 0.64%  | 0.006 |
+| Subdomain    | 5/933   | 0.54%  | 0.005 |
+
+95/933 (10.18%) of redirections were obfuscated!
+
+Min chain depth: 1
+Max chain depth: 6
+Avg chain depth: 2.232
+
+Max nodes per chain: 7
+Avg nodes per chain: 3.309
+
+Min time between redirects: 0.042 seconds!
+Max time between redirects: 102.665 seconds!
+Avg time between redirects: 2.988 seconds!
+
+====================================================================================================
+

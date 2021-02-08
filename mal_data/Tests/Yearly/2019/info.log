@@ -1,0 +1,544 @@
+Processing 23 PCAPs..
+
+Processing 2019-01-04-HookAds-campaign-Rig-EK-sends-SmokeLoader.pcap..
+
+Source IP: 10.1.4.102
+
+Redirection Chains:
+
+185.178.47.70
+datitngforllives.info
+letitbit.su
+
+Unable to extract Malicious Redirection Chain (datingforllives.info -> 185.178.47.70):
+
+Malicious chain extraction result was INCORRECT!
+
+Correct Malicious Chain:
+
+datingforllives.info
+└── 185.178.47.70 (Advanced) [?]
+
+====================================================================================================
+
+Processing 2019-01-10-HookAds-Rig-EK-sends-Vidar.pcap..
+
+Source IP: 10.1.10.101
+
+Redirection Chains:
+
+176.53.161.71
+ip-api.com
+datitngforllives.info
+tepingost.ug
+
+Unable to extract Malicious Redirection Chain (datingforllives.info -> 176.53.161.71):
+
+Malicious chain extraction result was INCORRECT!
+
+Correct Malicious Chain:
+
+datingforllives.info
+└── 176.53.161.71 (Advanced) [?]
+
+====================================================================================================
+
+Processing 2019-02-28-Fallout-EK-from-HookAds-campaign.pcap..
+
+Source IP: 10.2.28.101
+
+Redirection Chains:
+
+51.15.252.131
+ip-api.com
+onlinedattingforlive.info
+capitalinvest.ac.ug
+
+Unable to extract Malicious Redirection Chain (onlinedattingforlive.info -> not-my-guilty.com):
+
+Malicious chain extraction result was INCORRECT!
+
+Correct Malicious Chain:
+
+www.onlinedattingforlive.info
+└── not-my-guilty.com (Advanced) [?]
+
+====================================================================================================
+
+Processing 2019-04-03-Hookads-Rig-EK-sends-AZORult.pcap..
+
+Source IP: 10.4.3.101
+
+Redirection Chains:
+
+tracpadsforgame.info
+└── 79.174.13.193 (Location) [0.328]
+msftncsi.com
+217.8.117.246
+
+Extracted Malicious Redirection Chain:
+
+tracpadsforgame.info
+└── 79.174.13.193 (Location) [0.328]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-05-22-Rig-EK-sends-Gandcrab-ransomware_missingC.pcap..
+
+Source IP: 10.5.22.101
+
+Redirection Chains:
+
+kakaocorp.link
+letsdoitquick.site
+└── 5.23.49.81 (Location) [0.643]
+
+Extracted Malicious Redirection Chain:
+
+letsdoitquick.site
+└── 5.23.49.81 (Location) [0.643]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-06-17-Rig-EK-sends-AZORult-and-follow-up-malware_missingC.pcap..
+
+Source IP: 10.6.17.101
+
+Redirection Chains:
+
+mixworld1.tk
+makemoneyeasy.live
+└── 5.23.55.246 (Location) [1.429]
+hotelesmeflo.com
+
+Extracted Malicious Redirection Chain:
+
+makemoneyeasy.live
+└── 5.23.55.246 (Location) [1.429]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-06-24-Rig-EK-and-post-infection-traffic_missingC.pcap..
+
+Source IP: 10.6.24.101
+
+Redirection Chains:
+
+makemoneyeasywith.me
+└── 188.225.26.48 (Location) [0.491]
+
+Extracted Malicious Redirection Chain:
+
+makemoneyeasywith.me
+└── 188.225.26.48 (Location) [0.491]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-06-25-Rig-EK-and-Pitou.B-traffic_missingC.pcap..
+
+Source IP: 10.6.25.101
+
+Redirection Chains:
+
+makemoneyeasywith.me
+└── 2.59.41.32 (Location) [0.535]
+msftncsi.com
+
+Extracted Malicious Redirection Chain:
+
+makemoneyeasywith.me
+└── 2.59.41.32 (Location) [0.535]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-07-01-Rig-EK-sends-AZORult.pcap..
+
+Source IP: 10.7.1.101
+
+Redirection Chains:
+
+lucknowww.top
+letsdoitquick.site
+└── 176.57.220.28 (Location) [0.486]
+
+Extracted Malicious Redirection Chain:
+
+letsdoitquick.site
+└── 176.57.220.28 (Location) [0.486]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-07-08-Rig-EK-sends-Amadey.pcap..
+
+Source IP: 10.7.8.102
+
+Redirection Chains:
+
+46.166.129.157
+scrappycoco.ru
+└── 176.57.217.134 (Location) [0.734]
+
+Extracted Malicious Redirection Chain:
+
+scrappycoco.ru
+└── 176.57.217.134 (Location) [0.734]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-07-31-Rig-EK-sends-DarkRAT.pcap..
+
+Source IP: 10.7.31.101
+
+Redirection Chains:
+
+pastebin.com
+176.57.215.6
+weloverocknroll.online
+└── xapikayu.com (Unknown) [1.426]
+
+Extracted Malicious Redirection Chain:
+
+weloverocknroll.online
+└── xapikayu.com (Unknown) [1.426]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-08-01-Lord-EK-2nd-run-with-payload.pcap..
+
+Source IP: 10.8.1.102
+
+Redirection Chains:
+
+7b2cdd48.ngrok.io
+└── 81.171.31.247 (Unknown) [93.294]
+
+Extracted Malicious Redirection Chain:
+
+7b2cdd48.ngrok.io
+└── 81.171.31.247 (Unknown) [93.294]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-08-02-Lord-EK-sends-Eris-Ransomware2.pcap..
+
+Source IP: 192.168.4.210
+
+Redirection Chains:
+
+81.171.31.247
+evilnnwzczbcbi4edpi4tx3khwbnty3obfhemd5i5gbyci3hxx3k5pad.onion.pet
+liader.com.ua
+└── a9c44f30.ngrok.io (Location) [1.406]
+extreme-ip-lookup.com
+
+Extracted Malicious Redirection Chain:
+
+liader.com.ua
+└── a9c44f30.ngrok.io (Location) [1.406]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-08-02-Lord-EK-sends-Eris-Ransomware.pcap..
+
+Source IP: 10.8.2.101
+
+Redirection Chains:
+
+81.171.31.247
+evilnnwzczbcbi4edpi4tx3khwbnty3obfhemd5i5gbyci3hxx3k5pad.onion.pet
+57189bbb.ngrok.io
+extreme-ip-lookup.com
+
+Unable to extract Malicious Redirection Chain (57189bbb.ngrok.io -> 81.171.31.247):
+
+Malicious chain extraction result was INCORRECT!
+
+Correct Malicious Chain:
+
+57189bbb.ngrok.io
+└── 81.171.31.247 (Advanced) [?]
+
+====================================================================================================
+
+Processing 2019-08-23-Rig-EK-sends-Danabot.pcap..
+
+Source IP: 10.8.23.102
+
+Redirection Chains:
+
+makemoneyezywith.me
+└── 83.220.175.209 (Location) [1.14]
+msftncsi.com
+
+Extracted Malicious Redirection Chain:
+
+makemoneyezywith.me
+└── 83.220.175.209 (Location) [1.14]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-08-23-second-run-Rig-EK-sends-Amadey.pcap..
+
+Source IP: 10.8.35.103
+
+Redirection Chains:
+
+bitcoinmaker.site
+└── 188.225.74.244 (Location) [0.47]
+msftncsi.com
+updatemysystem.com
+└── bestsuperday.world (Unknown) [0.557]
+
+Extracted Malicious Redirection Chain:
+
+bitcoinmaker.site
+└── 188.225.74.244 (Location) [0.47]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-11-19-Rig-EK-sends-Predator.pcap..
+
+Source IP: 192.168.137.111
+
+Redirection Chains:
+
+atztds25.world
+└── 188.225.83.250 (Location) [1.122]
+nadvexmail19mn.xyz
+blogserv279.club
+ticketskings.net
+└── usa.lupus-bra.com (HTML) [0.6]
+212.73.150.115
+blogserv27.com
+
+Extracted Malicious Redirection Chain:
+
+atztds25.world
+└── 188.225.83.250 (Location) [1.122]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+ticketskings.net
+└── usa.lupus-bra.com (HTML) [0.6]
+    └── atztds25.world (Advanced) [?]
+        └── 188.225.83.250 (Advanced) [?]
+
+====================================================================================================
+
+Processing 2019-11-20-Rig-EK-sends-Predator.pcap..
+
+Source IP: 192.168.9.4
+
+Redirection Chains:
+
+atztds25.world
+└── 176.53.162.185 (Location) [0.385]
+pmailadvert15dx.xyz
+blogserv27.com
+usa.lupus-bra.com
+greenboolinfo.com
+67.43.224.142
+blogserv279.club
+
+Extracted Malicious Redirection Chain:
+
+atztds25.world
+└── 176.53.162.185 (Location) [0.385]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+usa.lupus-bra.com
+└── atztds25.world (Advanced) [?]
+    └── 176.53.162.185 (Location) [0.385]
+
+====================================================================================================
+
+Processing 2019-11-25-Fallout-EK-sends-RAT.pcap..
+
+Source IP: 192.168.1.3
+
+Redirection Chains:
+
+popcash.net
+├── mybestdc.com (Location/Referrer) [2.571]
+│   └── bitcoinsmaker.site (Location) [3.003]
+└── p149800.mybestdc.com (Referrer) [3.801]
+
+Source IP: 192.168.137.115
+
+Redirection Chains:
+
+bestip.tech
+
+Extracted Malicious Redirection Chain:
+
+popcash.net
+└── mybestdc.com (Location/Referrer) [2.571]
+    └── bitcoinsmaker.site (Location) [3.003]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-11-30-Rig-EK-sends-Ransomware.pcap..
+
+Source IP: 192.168.4.125
+
+Redirection Chains:
+
+atztds50.xyz
+└── 82.146.56.206 (Location) [0.41]
+kxserv250.club
+blogserv279.club
+35.246.108.168
+bestwalletapiandroid.world
+rstarserver17km.xyz
+usa.lucretius-ada.com
+blogserv27.com
+dsmail94x.xyz
+rmailserv19fd.xyz
+2.56.215.211
+45.147.229.195
+
+Extracted Malicious Redirection Chain:
+
+atztds50.xyz
+└── 82.146.56.206 (Location) [0.41]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+usa.lucretius-ada.com
+└── atztds50.xyz (Advanced) [?]
+    └── 82.146.56.206 (Location) [0.41]
+
+====================================================================================================
+
+Processing 2019-12-03-Spelevo-EK.pcap..
+
+Source IP: 192.168.4.200
+
+Redirection Chains:
+
+synth.website
+└── azalea.bettinaasturias.info (Location) [2.355]
+
+Extracted Malicious Redirection Chain:
+
+synth.website
+└── azalea.bettinaasturias.info (Location) [2.355]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2019-12-11-Spelevo-EK-sends-PsiXBot.pcap..
+
+Source IP: 10.12.11.102
+
+Redirection Chains:
+
+celiac.site
+└── sakura.hollandsebarton.info (Location) [0.658]
+
+Extracted Malicious Redirection Chain:
+
+celiac.site
+└── sakura.hollandsebarton.info (Location) [0.658]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2020-01-30-Rig-EK-sends-Dridex.pcap..
+
+Source IP: 192.168.4.134
+
+Redirection Chains:
+
+gettime.xyz
+└── 185.200.241.26 (Location) [0.499]
+
+Extracted Malicious Redirection Chain:
+
+gettime.xyz
+└── 185.200.241.26 (Location) [0.499]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing Complete..
+
+Total execution time: 1 minutes and 12.76 seconds!
+Average PCAP processing time: 3.16 seconds!
+Average chain processing time: 3.16 seconds!
+
+43/55 (78.18%) Malicious URLs were correctly extracted from 23 malicious chains!
+
+====================================================================================================
+
+16/23 (69.57%) Malicious chains were correctly identified!
+3/23 (13.04%) Malicious chains were semi-correctly identified!
+4/23 (17.39%) Malicious chains were incorrectly identified!
+
+4/23 (17.39%) PCAPs were missing the compromised site!
+4/23 (17.39%) PCAPs were Malvertising!
+
+| Redir_Type   | Num   | %      |   Avg |
+|--------------+-------+--------+-------|
+| Location     | 17/37 | 45.95% | 0.459 |
+| Advanced     | 12/37 | 32.43% | 0.324 |
+| Unknown      | 6/37  | 16.22% | 0.162 |
+| Referrer     | 1/37  | 2.7%   | 0.027 |
+| HTML         | 1/37  | 2.7%   | 0.027 |
+| JavaScript   | 0/37  | 0.0%   | 0     |
+| iFrame       | 0/37  | 0.0%   | 0     |
+| Subdomain    | 0/37  | 0.0%   | 0     |
+| Base64       | 0/37  | 0.0%   | 0     |
+| Concat       | 0/37  | 0.0%   | 0     |
+
+18/37 (48.65%) of redirections were obfuscated!
+
+Min chain depth: 1
+Max chain depth: 3
+Avg chain depth: 1.391
+
+Max nodes per chain: 4
+Avg nodes per chain: 2.391
+
+Min time between redirects: 0.328 seconds!
+Max time between redirects: 93.294 seconds!
+Avg time between redirects: 3.527 seconds!
+
+====================================================================================================
+

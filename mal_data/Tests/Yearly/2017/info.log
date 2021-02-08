@@ -1,0 +1,2775 @@
+Processing 137 PCAPs..
+
+Processing 2017-01-02-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.2.101
+
+Redirection Chains:
+
+joellipman.com
+└── free.infocom2016.org (Referrer/iFrame) [2.14]
+free.infocom2016.org
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── free.infocom2016.org (Referrer/iFrame) [2.14]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-03-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.3.102
+
+Redirection Chains:
+
+joellipman.com
+└── fix.dragonhide.net (Referrer/iFrame) [1.891]
+fix.dragonhide.net
+p27dokhpz2n7nvgr.1cngub.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── fix.dragonhide.net (Referrer/iFrame) [1.891]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-04-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.4.101
+
+Redirection Chains:
+
+joellipman.com
+└── add.engstromperformance.com (Referrer/iFrame) [1.834]
+add.engstromperformance.com
+p27dokhpz2n7nvgr.1fpeer.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── add.engstromperformance.com (Referrer/iFrame) [1.834]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-05-1st-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.5.101
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1bwh8a.top
+laykni.com
+└── lol.industriaspedrozo.com (Referrer/iFrame) [2.198]
+
+Extracted Malicious Redirection Chain:
+
+laykni.com
+└── lol.industriaspedrozo.com (Referrer/iFrame) [2.198]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-05-2nd-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.5.104
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.12nypw.top
+joellipman.com
+└── bo.eficont.biz (Referrer/iFrame) [3.154]
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── bo.eficont.biz (Referrer/iFrame) [3.154]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-05-3rd-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.5.105
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.12nypw.top
+lovlose.com
+└── new.innovapps.mobi (Referrer/iFrame) [1.76]
+
+Extracted Malicious Redirection Chain:
+
+lovlose.com
+└── new.innovapps.mobi (Referrer/iFrame) [1.76]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-06-1st-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.6.101
+
+Redirection Chains:
+
+joellipman.com
+└── try.jensiaarts.com (Referrer/iFrame) [2.002]
+try.jensiaarts.com
+p27dokhpz2n7nvgr.1nounl.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── try.jensiaarts.com (Referrer/iFrame) [2.002]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-06-2nd-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.6.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1nounl.top
+wordtemplates.org
+└── we.karenmelbourne.com (Referrer/iFrame) [2.659]
+
+Extracted Malicious Redirection Chain:
+
+wordtemplates.org
+└── we.karenmelbourne.com (Referrer/iFrame) [2.659]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-06-3rd-run-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.6.103
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1nounl.top
+nickyclarke.com
+└── acc.kimkardashianfashionnews.com (Referrer/iFrame) [3.383]
+
+Extracted Malicious Redirection Chain:
+
+nickyclarke.com
+└── acc.kimkardashianfashionnews.com (Referrer/iFrame) [3.383]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-09-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.9.103
+
+Redirection Chains:
+
+joellipman.com
+└── play.complex.news (Referrer/iFrame) [2.212]
+play.complex.news
+p27dokhpz2n7nvgr.1ja4no.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── play.complex.news (Referrer/iFrame) [2.212]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-10-1st-run-EITest-Rig-V-sends-CryptoMix.pcap..
+
+Source IP: 10.1.10.103
+
+Redirection Chains:
+
+37.59.39.53
+activaclinics.com
+└── new.fax.news (Referrer/JavaScript) [4.939]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── new.fax.news (Referrer/JavaScript) [4.939]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-10-2nd-run-EITest-Rig-V-sends-CryptoMix.pcap..
+
+Source IP: 10.1.10.106
+
+Redirection Chains:
+
+37.59.39.53
+msimechanical.com
+└── try.grandcanyon.news (Referrer/JavaScript) [5.619]
+
+Extracted Malicious Redirection Chain:
+
+msimechanical.com
+└── try.grandcanyon.news (Referrer/JavaScript) [5.619]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-10-3rd-run-EITest-Rig-V-sends-CryptoMix.pcap..
+
+Source IP: 10.1.10.107
+
+Redirection Chains:
+
+37.59.39.53
+nanotec.cnr.it
+└── acc.hair.news (Referrer/JavaScript) [14.183]
+
+Extracted Malicious Redirection Chain:
+
+nanotec.cnr.it
+└── acc.hair.news (Referrer/JavaScript) [14.183]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-11-EITest-Rig-V-sends-CryptoMix-ransomware-1st-run.pcap..
+
+Source IP: 10.1.11.101
+
+Redirection Chains:
+
+37.59.39.53
+activaclinics.com
+└── this.lung.news (Referrer/JavaScript) [9.497]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── this.lung.news (Referrer/JavaScript) [9.497]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-11-EITest-Rig-V-sends-CryptoMix-ransomware-2nd-run.pcap..
+
+Source IP: 10.1.11.103
+
+Redirection Chains:
+
+37.59.39.53
+grillo-designs.com
+└── new.merlot.news (Referrer) [2.831]
+
+Extracted Malicious Redirection Chain:
+
+grillo-designs.com
+└── new.merlot.news (Referrer) [2.831]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-11-pseudoDarkleech-Rig-V-sends-Cerber-ransomware-1st-run.pcap..
+
+Source IP: 10.1.11.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1ja4no.top
+joellipman.com
+└── this.lung.news (Referrer/iFrame) [15.523]
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── this.lung.news (Referrer/iFrame) [15.523]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-11-pseudoDarkleech-Rig-V-sends-Cerber-ransomware-2nd-run.pcap..
+
+Source IP: 10.1.11.104
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1kdfj8.top
+gardencityhall.com
+└── sun.myeloma.news (Referrer/iFrame) [2.476]
+
+Extracted Malicious Redirection Chain:
+
+gardencityhall.com
+└── sun.myeloma.news (Referrer/iFrame) [2.476]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-11-pseudoDarkleech-Rig-V-sends-Cerber-ransomware-3rd-run.pcap..
+
+Source IP: 10.1.11.105
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1kdfj8.top
+alleghenyhomehealth.com
+└── sun.myeloma.news (iFrame) [12.323]
+
+Extracted Malicious Redirection Chain:
+
+alleghenyhomehealth.com
+└── sun.myeloma.news (iFrame) [12.323]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-12-EITest-Rig-V-sends-CryptoMix-ransomware.pcap..
+
+Source IP: 10.1.12.102
+
+Redirection Chains:
+
+91.121.244.84
+activaclinics.com
+└── we.sedona.news (Referrer) [1.952]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── we.sedona.news (Referrer) [1.952]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-12-Sundown-EK.pcap..
+
+Source IP: 192.168.1.2
+
+Redirection Chains:
+
+pkc.1146.mobi
+checkip.dyndns.org
+beautifulldressesonline.com
+└── ip.4941.mobi (Referrer) [3.149]
+grincode.su
+
+Extracted Malicious Redirection Chain:
+
+beautifulldressesonline.com
+└── ip.4941.mobi (Referrer) [3.149]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+beautifulldressesonline.com
+└── ip.4941.mobi (Referrer) [3.149]
+    └── pkc.1146.mobi (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-01-13-EITest-Rig-V-sends-CryptoMix-ransomware.pcap..
+
+Source IP: 10.1.13.101
+
+Redirection Chains:
+
+91.121.244.84
+activaclinics.com
+└── acc.tps15.com (Referrer/JavaScript) [5.032]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── acc.tps15.com (Referrer/JavaScript) [5.032]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-13-pseudoDarkleech-Rig-EK-sends-Cerber-Ransomware.pcap..
+
+Source IP: 192.168.1.10
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.16gjpm.top
+bbqsingapore.sg
+└── acc.shoretel.news (Referrer/iFrame) [10.88]
+
+Extracted Malicious Redirection Chain:
+
+bbqsingapore.sg
+└── acc.shoretel.news (Referrer/iFrame) [10.88]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-13-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.13.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1nos7n.top
+joellipman.com
+└── add.travelwriter.news (Referrer/iFrame) [4.408]
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── add.travelwriter.news (Referrer/iFrame) [4.408]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-17-EITest-Rig-V-sends-Spora-ransomware.pcap..
+
+Source IP: 10.1.17.103
+
+Redirection Chains:
+
+naturalhealthonline.com
+└── zome.aplusengineering-gr.com (Referrer/JavaScript) [3.99]
+
+Extracted Malicious Redirection Chain:
+
+naturalhealthonline.com
+└── zome.aplusengineering-gr.com (Referrer/JavaScript) [3.99]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-17-pseudoDarkleech-Rig-V-sends-Cerber-ransomwware.pcap..
+
+Source IP: 10.10.17.104
+
+Redirection Chains:
+
+joellipman.com
+└── acc.geoinnovativesolutions.com (Referrer/iFrame) [1.997]
+acc.geoinnovativesolutions.com
+p27dokhpz2n7nvgr.156vkx.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── acc.geoinnovativesolutions.com (Referrer/iFrame) [1.997]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-18-EITest-Rig-V-sends-Cerber-ransomware-1st-run.pcap..
+
+Source IP: 10.1.18.105
+
+Redirection Chains:
+
+activaclinics.com
+└── 5o5.careerstories.wiki (Referrer/JavaScript) [10.922]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── 5o5.careerstories.wiki (Referrer/JavaScript) [10.922]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-18-EITest-Rig-V-sends-Cerber-ransomware-2nd-run.pcap..
+
+Source IP: 10.10.17.107
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1egwye.top
+conservativesunited.com
+└── 7oc.katherine-ernst.com (Referrer/JavaScript) [3.431]
+
+Extracted Malicious Redirection Chain:
+
+conservativesunited.com
+└── 7oc.katherine-ernst.com (Referrer/JavaScript) [3.431]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-18-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.18.106
+
+Redirection Chains:
+
+joellipman.com
+└── 5o5.careerstories.wiki (Referrer/iFrame) [6.941]
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── 5o5.careerstories.wiki (Referrer/iFrame) [6.941]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-18-pseudoDarkleech-Rig-V-sends-Darkness-Madness-DDoS-botnet-malware.pcap..
+
+Source IP: 10.1.18.104
+
+Redirection Chains:
+
+joellipman.com
+└── new.cfitcchina.com (Referrer/iFrame) [1.94]
+195.161.62.33
+new.cfitcchina.com
+host.wootfunt.info
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── new.cfitcchina.com (Referrer/iFrame) [1.94]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-18-Sundown-EK.pcap..
+
+Source IP: 192.168.10.10
+
+Redirection Chains:
+
+ujs.fyu.mobi
+normhill.su
+niceandcutepuppies.com
+├── cvr.hse.mobi (Referrer/iFrame) [1.0]
+│   └── db.hse.mobi (Subdomain) [5.038]
+└── db.hse.mobi (Referrer) [8.568]
+cvr.hse.mobi
+checkip.dyndns.org
+
+Extracted Malicious Redirection Chain:
+
+niceandcutepuppies.com
+└── cvr.hse.mobi (Referrer/iFrame) [1.0]
+    └── db.hse.mobi (Subdomain) [5.038]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+niceandcutepuppies.com
+└── cvr.hse.mobi (Referrer/iFrame) [1.0]
+    ├── db.hse.mobi (Subdomain) [5.038]
+    └── ujs.fyu.mobi (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-01-19-EITest-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.19.101
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1kja1j.top
+activaclinics.com
+└── 4rl.sensorigames.com (Referrer/JavaScript) [11.456]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── 4rl.sensorigames.com (Referrer/JavaScript) [11.456]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-19-EITest-Sundown-EK-1st-run-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.19.104
+
+Redirection Chains:
+
+hxrheg.fve.mobi
+activaclinics.com
+└── hco.huc.mobi (Referrer/JavaScript) [1.864]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── hco.huc.mobi (Referrer/JavaScript) [1.864]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+activaclinics.com
+└── hco.huc.mobi (JavaScript/Referrer) [1.864]
+    └── hxrheg.fve.mobi (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-01-19-EITest-Sundown-EK-2nd-run-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.19.105
+
+Redirection Chains:
+
+hxrheg.fve.mobi
+activaclinics.com
+└── ak.hvf.mobi (Referrer/JavaScript) [1.536]
+p27dokhpz2n7nvgr.1kja1j.top
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── ak.hvf.mobi (Referrer/JavaScript) [1.536]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+activaclinics.com
+└── ak.hvf.mobi (JavaScript/Referrer) [1.563]
+    └── hxrheg.fve.mobi (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-01-19-pseudoDarkleech-Rig-V-1st-run-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.19.102
+
+Redirection Chains:
+
+joellipman.com
+└── 3xwk.sensorispace.net (Referrer/iFrame) [2.019]
+3xwk.sensorispace.net
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── 3xwk.sensorispace.net (Referrer/iFrame) [2.019]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-19-pseudoDarkleech-Rig-V-2nd-run-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.19.103
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1kja1j.top
+joellipman.com
+└── 8e5.dresdencowboy.com (Referrer/iFrame) [3.46]
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── 8e5.dresdencowboy.com (Referrer/iFrame) [3.46]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-20-EITest-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.20.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1em2j4.top
+activaclinics.com
+└── try.ciela.co (Referrer/JavaScript) [7.115]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── try.ciela.co (Referrer/JavaScript) [7.115]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-23-EITest-Rig-V-sends-CryptoMix-ransomware.pcap..
+
+Source IP: 10.1.23.104
+
+Redirection Chains:
+
+188.138.71.198
+cellar335.com
+└── xcv.killinghealth.net (Referrer/JavaScript) [4.68]
+
+Extracted Malicious Redirection Chain:
+
+cellar335.com
+└── xcv.killinghealth.net (Referrer/JavaScript) [4.68]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-23-pseudoDarkleech-Rig-EK-sends-Cerber-Ransomware.pcap..
+
+Source IP: 192.168.1.3
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.16fohp.top
+betongstudio.no
+└── 0z5w1.truepowernow.com (Referrer/iFrame) [2.44]
+
+Extracted Malicious Redirection Chain:
+
+betongstudio.no
+└── 0z5w1.truepowernow.com (Referrer/iFrame) [2.44]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-24-EITest-Rig-V-sends-CryptoMix-ransomware.pcap..
+
+Source IP: 10.1.24.102
+
+Redirection Chains:
+
+62.138.9.39
+activaclinics.com
+└── park.hospitality-health.us (Referrer/JavaScript) [16.562]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── park.hospitality-health.us (Referrer/JavaScript) [16.562]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-24-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.24.101
+
+Redirection Chains:
+
+joellipman.com
+└── park.hospitality-health.us (Referrer/iFrame) [2.172]
+park.hospitality-health.us
+p27dokhpz2n7nvgr.1321z6.top
+p27dokhpz2n7nvgr.16fohp.top
+p27dokhpz2n7nvgr.16ay2s.top
+park.hospitality-health.us
+p27dokhpz2n7nvgr.1dp6un.top
+p27dokhpz2n7nvgr.1bniyw.top
+
+Extracted Malicious Redirection Chain:
+
+joellipman.com
+└── park.hospitality-health.us (Referrer/iFrame) [2.172]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-25-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.25.101
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.15nhsf.top
+wordtemplates.org
+└── kuku.medlawpress.net (Referrer/iFrame) [2.321]
+
+Extracted Malicious Redirection Chain:
+
+wordtemplates.org
+└── kuku.medlawpress.net (Referrer/iFrame) [2.321]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-26-Afraidgate-Rig-V-1st-run-sends-Godzilla-Loader.pcap..
+
+Source IP: 10.1.26.104
+
+Redirection Chains:
+
+piatti.com
+└── lorddayle.berita.co.uk (Referrer/JavaScript) [0.907]
+    └── cong.dogamin.com (JavaScript/HTML/iFrame) [1.175]
+spotsbill.com
+
+Extracted Malicious Redirection Chain:
+
+piatti.com
+└── lorddayle.berita.co.uk (Referrer/JavaScript) [0.907]
+    └── cong.dogamin.com (JavaScript/HTML/iFrame) [1.175]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-26-Afraidgate-Rig-V-2nd-run-sends-DDoS-botnet-malware.pcap..
+
+Source IP: 10.1.26.105
+
+Redirection Chains:
+
+piatti.com
+└── lorddayle.berita.co.uk (Referrer/JavaScript) [1.928]
+    └── fufu.efsani.com (iFrame/HTML/JavaScript) [3.159]
+195.161.62.33
+help.2043kutahya.com
+wellness-daily.com
+
+Extracted Malicious Redirection Chain:
+
+piatti.com
+└── lorddayle.berita.co.uk (Referrer/JavaScript) [1.928]
+    └── fufu.efsani.com (iFrame/HTML/JavaScript) [3.159]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-26-Afraidgate-Rig-V-sends-Locky-ransomware_missingC.pcap..
+
+Source IP: 10.1.26.101
+
+Redirection Chains:
+
+kronobor.com
+194.31.59.5
+misterin.pkitup.com
+└── upd.15temmuzruhu.org (JavaScript/iFrame/HTML) [1.517]
+grentromz.com
+
+Extracted Malicious Redirection Chain:
+
+misterin.pkitup.com
+└── upd.15temmuzruhu.org (JavaScript/iFrame/HTML) [1.517]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-26-pseudoDarkleech-Rig-V-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.1.26.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1plugt.top
+wordtemplates.org
+└── rem.elasu.com (Referrer/iFrame) [3.927]
+
+Extracted Malicious Redirection Chain:
+
+wordtemplates.org
+└── rem.elasu.com (Referrer/iFrame) [3.927]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-27-Afraidgate-Rig-V-sends-Godzillar-Loader-Locky-and-something-else_missingC.pcap..
+
+Source IP: 10.1.27.101
+
+Redirection Chains:
+
+spotsbill.com
+194.31.59.5
+microname.ssaewp.com.au
+└── koko.anlayamiyorum.org (HTML/iFrame/JavaScript) [1.531]
+grentromz.com
+
+Extracted Malicious Redirection Chain:
+
+microname.ssaewp.com.au
+└── koko.anlayamiyorum.org (HTML/iFrame/JavaScript) [1.531]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-28-Rig-EK-exercise.pcap..
+
+Source IP: 172.16.4.193
+
+Redirection Chains:
+
+6b8960d1b061131b015f93f32d0a56f4.clo.footprintdns.com
+1e46ba9c0151d4d34a7939daabd778ad.clo.footprintdns.com
+3a0849dbc3c36a673eb2ddd2fcf0494a.clo.footprintdns.com
+da6ab9a9cf82c8f939081a82c7d90031.clo.footprintdns.com
+homeimprovement.com
+└── retrotip.visionurbana.com.ve (Referrer) [0.224]
+    └── tyu.benme.com (HTML/iFrame/JavaScript) [0.462]
+spotsbill.com
+p27dokhpz2n7nvgr.1jw2lx.top
+msftncsi.com
+e623e8223493b6793a476840214720b1.clo.footprintdns.com
+report.footprintdns.com
+40bbdaf00bf29a6114a5019e397a2a15.clo.footprintdns.com
+fpdownload2.macromedia.com
+api.blockcypher.com
+
+Extracted Malicious Redirection Chain:
+
+homeimprovement.com
+└── retrotip.visionurbana.com.ve (Referrer) [0.224]
+    └── tyu.benme.com (HTML/iFrame/JavaScript) [0.462]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-30-Afraidgate-Rig-V-sends-Locky-ransomware.pcap..
+
+Source IP: 10.1.30.101
+
+Redirection Chains:
+
+93.170.123.185
+troll.mysticalprinciples.com
+└── dns.mobilmhp.org (HTML/JavaScript/iFrame) [1.005]
+194.31.59.5
+
+Extracted Malicious Redirection Chain:
+
+troll.mysticalprinciples.com
+└── dns.mobilmhp.org (HTML/JavaScript/iFrame) [1.005]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-31-EITest-Rig-EK-sends-CryptoShield2.pcap..
+
+Source IP: 192.168.1.51
+
+Redirection Chains:
+
+45.76.81.110
+cedar.igrooveweb.com
+└── marfa.cholesterolwatchers.net (Referrer/JavaScript) [9.864]
+
+Extracted Malicious Redirection Chain:
+
+cedar.igrooveweb.com
+└── marfa.cholesterolwatchers.net (Referrer/JavaScript) [9.864]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-01-31-EITest-Rig-EK-sends-CryptoShield.pcap..
+
+Source IP: 10.1.31.104
+
+Redirection Chains:
+
+45.76.81.110
+activaclinics.com
+└── koko.yoncaliaparts.com (Referrer/JavaScript) [1.939]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── koko.yoncaliaparts.com (Referrer/JavaScript) [1.939]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-01-EITest-Rig-EK-sends-CryptoShield-ransomware.pcap..
+
+Source IP: 10.2.1.102
+
+Redirection Chains:
+
+45.76.81.110
+activaclinics.com
+└── ssl.myhealthandwellnesswatchers.com (Referrer/JavaScript) [3.054]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── ssl.myhealthandwellnesswatchers.com (Referrer/JavaScript) [3.054]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-02-EITest-Rig-EK-sends-CryptoShield-ransomware.pcap..
+
+Source IP: 10.2.2.101
+
+Redirection Chains:
+
+45.76.81.110
+activaclinics.com
+└── wow.wellnessmanagermd.com (Referrer) [2.131]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── wow.wellnessmanagermd.com (Referrer) [2.131]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-04-Afraidgate-Rig-EK-sends-Locky-Ransomware.pcap..
+
+Source IP: 192.168.1.51
+
+Redirection Chains:
+
+monteyplaya.com
+└── nitrindo.lasestrellas.com.ar (Referrer/JavaScript) [1.785]
+    └── lex.modernlily.info (JavaScript/iFrame/HTML) [4.253]
+grentromz.com
+spotsbill.com
+107.181.187.77
+
+Extracted Malicious Redirection Chain:
+
+monteyplaya.com
+└── nitrindo.lasestrellas.com.ar (Referrer/JavaScript) [1.785]
+    └── lex.modernlily.info (JavaScript/iFrame/HTML) [4.253]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-06-Afraidgate-Rig-EK_missingC.pcap..
+
+Source IP: 10.2.6.103
+
+Redirection Chains:
+
+spotsbill.com
+107.181.187.77
+spotropen.francoboschini.com
+└── around.thesleep.doctor (HTML/JavaScript/iFrame) [1.589]
+grentromz.com
+
+Extracted Malicious Redirection Chain:
+
+spotropen.francoboschini.com
+└── around.thesleep.doctor (HTML/JavaScript/iFrame) [1.589]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-06-EITest-Rig-EK-sends-CryptoShield.pcap..
+
+Source IP: 192.168.1.7
+
+Redirection Chains:
+
+104.238.188.209
+cedar.igrooveweb.com
+└── one.overnightsuccess.life (Referrer/JavaScript) [1.243]
+
+Extracted Malicious Redirection Chain:
+
+cedar.igrooveweb.com
+└── one.overnightsuccess.life (Referrer/JavaScript) [1.243]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-06-EITest-Rig-EK-sends-CryptoShield-ransomware.pcap..
+
+Source IP: 10.2.6.101
+
+Redirection Chains:
+
+104.238.188.209
+activaclinics.com
+└── one.overnightsuccess.life (Referrer/JavaScript) [1.872]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── one.overnightsuccess.life (Referrer/JavaScript) [1.872]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-06-pseudoDarkleech-Rig-EK-sends-Cerber-Ransomware.pcap..
+
+Source IP: 192.168.2.7
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.145rzb.top
+betongstudio.no
+└── past.overnightsuccess.solutions (Referrer/iFrame) [2.061]
+
+Extracted Malicious Redirection Chain:
+
+betongstudio.no
+└── past.overnightsuccess.solutions (Referrer/iFrame) [2.061]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-06-pseudoDarkleech-Rig-EK-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.2.6.104
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.145rzb.top
+phoenixkiosk.com
+└── list.thewakedoctor.com (Referrer/iFrame) [10.896]
+
+Extracted Malicious Redirection Chain:
+
+phoenixkiosk.com
+└── list.thewakedoctor.com (Referrer/iFrame) [10.896]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-08-EITest-Rig-EK-sends-CryptoShield-ransomware-1st-run.pcap..
+
+Source IP: 10.2.8.103
+
+Redirection Chains:
+
+173.66.46.112
+blog.masmovil.es
+└── need.southpadreforsale.com (Referrer/JavaScript) [2.848]
+
+Extracted Malicious Redirection Chain:
+
+blog.masmovil.es
+└── need.southpadreforsale.com (Referrer/JavaScript) [2.848]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-08-EITest-Rig-EK-sends-CryptoShield-ransomware-2nd-run.pcap..
+
+Source IP: 10.2.8.104
+
+Redirection Chains:
+
+173.66.46.112
+blog.masmovil.es
+└── star.southpadrefishingguide.com (Referrer/JavaScript) [3.161]
+
+Extracted Malicious Redirection Chain:
+
+blog.masmovil.es
+└── star.southpadrefishingguide.com (Referrer/JavaScript) [3.161]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-14-EITest-Rig-EK-sends-CryptoShield-ransomware-1st-run.pcap..
+
+Source IP: 10.2.13.108
+
+Redirection Chains:
+
+107.191.62.136
+caltech.fr
+└── wer.datinguppercrust.com (Referrer/JavaScript) [4.689]
+
+Extracted Malicious Redirection Chain:
+
+caltech.fr
+└── wer.datinguppercrust.com (Referrer/JavaScript) [4.689]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-14-EITest-Rig-EK-sends-CryptoShield-ransomware-2nd-run.pcap..
+
+Source IP: 10.2.14.105
+
+Redirection Chains:
+
+107.191.62.136
+new.theagingbusiness.com
+stephanemalka.com
+└── new.theagingbusiness.com (Referrer) [3.082]
+
+Extracted Malicious Redirection Chain:
+
+stephanemalka.com
+└── new.theagingbusiness.com (Referrer) [3.082]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-14-EITest-Rig-EK-sends-CryptoShield-ransomware-3rd-run.pcap..
+
+Source IP: 10.2.14.106
+
+Redirection Chains:
+
+107.191.62.136
+stephanemalka.com
+└── ex.twittergrandma.com (Referrer/JavaScript) [3.85]
+
+Extracted Malicious Redirection Chain:
+
+stephanemalka.com
+└── ex.twittergrandma.com (Referrer/JavaScript) [3.85]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-21-pseudoDarkleech-Rig-EK-sends-Cerber-Ransomware.pcap..
+
+Source IP: 192.168.1.7
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1gqqsc.top
+autismservicesaba.com
+└── art.allthin.gs (Referrer/iFrame) [4.803]
+
+Extracted Malicious Redirection Chain:
+
+autismservicesaba.com
+└── art.allthin.gs (Referrer/iFrame) [4.803]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-22-pseudoDarkleech-Rig-EK-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.2.22.101
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.13g2v9.top
+simplyconfess.com
+└── now.pooldecksealer.com (Referrer) [4.566]
+
+Extracted Malicious Redirection Chain:
+
+simplyconfess.com
+└── now.pooldecksealer.com (Referrer) [4.566]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-23-EITest-Rig-EK-sends-Dreambot.pcap..
+
+Source IP: 10.2.23.101
+
+Redirection Chains:
+
+5.196.159.175
+sunlab.org
+└── red.andrewmelbourne.net (Referrer/JavaScript) [3.986]
+curlmyip.net
+
+Extracted Malicious Redirection Chain:
+
+sunlab.org
+└── red.andrewmelbourne.net (Referrer/JavaScript) [3.986]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-27-EITest-Rig-EK.pcap..
+
+Source IP: 192.168.55.129
+
+Redirection Chains:
+
+protoday.uz
+└── dfg.o2thief.com (Referrer/JavaScript) [4.091]
+
+Extracted Malicious Redirection Chain:
+
+protoday.uz
+└── dfg.o2thief.com (Referrer/JavaScript) [4.091]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-27-EITest-Rig-EK-sends-CryptoShield.pcap..
+
+Source IP: 192.168.5.45
+
+Redirection Chains:
+
+5.154.191.90
+starterdaily.com
+└── 3rew.nicacomercial.com (Referrer/JavaScript) [8.714]
+
+Extracted Malicious Redirection Chain:
+
+starterdaily.com
+└── 3rew.nicacomercial.com (Referrer/JavaScript) [8.714]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-02-28-EITest-Rig-EK-sends-CryptoShield-ransomware.pcap..
+
+Source IP: 10.2.28.101
+
+Redirection Chains:
+
+185.125.32.2
+zonadjsperu.com
+└── cxz.localgeniuses.net (Referrer/JavaScript) [6.154]
+
+Extracted Malicious Redirection Chain:
+
+zonadjsperu.com
+└── cxz.localgeniuses.net (Referrer/JavaScript) [6.154]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-02-Nebula-EK-1st-run_missingC.pcap..
+
+Source IP: 10.3.2.101
+
+Redirection Chains:
+
+qgg.losssubwayquilt.pw
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (Referrer/iFrame) [0.785]
+slphstvz.biz
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (Referrer/iFrame) [0.785]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (iFrame/Referrer) [0.785]
+    └── qgg.losssubwayquilt.pw (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-03-02-Nebula-EK-2nd-run_missingC.pcap..
+
+Source IP: 10.3.2.102
+
+Redirection Chains:
+
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (Referrer/iFrame) [1.064]
+slphstvz.biz
+qgg.losssubwayquilt.pw
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (Referrer/iFrame) [1.064]
+
+Malicious chain extraction result was SEMI-CORRECT!
+
+Correct Malicious Chain:
+
+hurtmehard.net
+└── millenniumcollege.tboapfmsyu.stream (iFrame/Referrer) [1.064]
+    └── qgg.losssubwayquilt.pw (Advanced) [?]
+
+====================================================================================================
+
+Processing 2017-03-02-Nebula-EK-3rd-run_missingC.pcap..
+
+Source IP: 10.3.2.103
+
+Redirection Chains:
+
+hurtmehard.net
+├── ehpcc.chggannel.stream (Referrer/iFrame) [1.117]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.202]
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+├── ehpcc.chggannel.stream (Referrer/iFrame) [1.117]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.202]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-02-Nebula-EK-4th-run_missingC.pcap..
+
+Source IP: 10.3.2.104
+
+Redirection Chains:
+
+hurtmehard.net
+├── ehpcc.chggannel.stream (Referrer/iFrame) [1.207]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.332]
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+├── ehpcc.chggannel.stream (Referrer/iFrame) [1.207]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.332]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-02-Nebula-EK-5th-run_missingC.pcap..
+
+Source IP: 10.3.2.105
+
+Redirection Chains:
+
+hurtmehard.net
+├── mistmessage.commissionlegshoemaker.bid (Referrer/iFrame) [1.108]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.119]
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+├── mistmessage.commissionlegshoemaker.bid (Referrer/iFrame) [1.108]
+└── offertom-tom.commissionlegshoemaker.bid (Referrer/iFrame) [1.119]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-07-EITest-Rig-EK-sends-Dreambot.pcap..
+
+Source IP: 10.3.7.102
+
+Redirection Chains:
+
+5.196.159.173
+nod32s.com
+activaclinics.com
+└── art.locksmithcarolstream.info (Referrer/JavaScript) [2.593]
+curlmyip.net
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── art.locksmithcarolstream.info (Referrer/JavaScript) [2.593]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-07-Sundown-EK.pcap..
+
+Source IP: 10.3.7.101
+
+Redirection Chains:
+
+fbm.ytlyt.xyz
+dns.cheapghost.pw
+└── gly.ytlzz.xyz (Referrer/iFrame) [0.435]
+
+Extracted Malicious Redirection Chain:
+
+dns.cheapghost.pw
+└── gly.ytlzz.xyz (Referrer/iFrame) [0.435]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-08-Rig-EK-sends-Zbot_missingC.pcap..
+
+Source IP: 10.3.9.101
+
+Redirection Chains:
+
+85.217.170.81
+hurtmehard.net
+└── cdn3.vjv4.xyz (Referrer/iFrame) [1.038]
+portalcentr.ru
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+└── cdn3.vjv4.xyz (Referrer/iFrame) [1.038]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-13-EITest-Rig-EK-sends-GootKit.pcap..
+
+Source IP: 192.168.1.15
+
+Redirection Chains:
+
+cedar.igrooveweb.com
+└── dfg.twitttwoo.co.uk (Referrer/JavaScript) [2.084]
+
+Extracted Malicious Redirection Chain:
+
+cedar.igrooveweb.com
+└── dfg.twitttwoo.co.uk (Referrer/JavaScript) [2.084]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-13-Good-Man-Rig-EK-sends-Godzilla-Loader.pcap..
+
+Source IP: 10.3.13.103
+
+Redirection Chains:
+
+forum.alterna.pw
+portalcentr.ru
+perfectgirlss.org
+└── remote.wames.xyz (Referrer/iFrame) [1.567]
+85.217.170.81
+
+Extracted Malicious Redirection Chain:
+
+perfectgirlss.org
+└── remote.wames.xyz (Referrer/iFrame) [1.567]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-14-EITest-Rig-EK-sends-CryptoShield.pcap..
+
+Source IP: 192.168.1.5
+
+Redirection Chains:
+
+109.236.87.201
+everythingcebu.com
+└── dfg.stickneylodge.com (Referrer/JavaScript) [12.244]
+
+Extracted Malicious Redirection Chain:
+
+everythingcebu.com
+└── dfg.stickneylodge.com (Referrer/JavaScript) [12.244]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-15-EITest-Rig-EK-sends-Dreambot.pcap..
+
+Source IP: 192.168.2.20
+
+Redirection Chains:
+
+5.196.159.173
+nod32s.com
+everythingcebu.com
+└── we.winterbluemusic.com (Referrer/JavaScript) [4.818]
+curlmyip.net
+
+Extracted Malicious Redirection Chain:
+
+everythingcebu.com
+└── we.winterbluemusic.com (Referrer/JavaScript) [4.818]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-15-EITest-Rig-EK-sends-Revenge-ransomware.pcap..
+
+Source IP: 10.3.15.105
+
+Redirection Chains:
+
+91.207.7.77
+activaclinics.com
+└── try.bannerautoservice.com (Referrer/JavaScript) [3.031]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── try.bannerautoservice.com (Referrer/JavaScript) [3.031]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-15-pseudoDarkleech-Rig-EK-sends-Cerber-1st-run.pcap..
+
+Source IP: 10.3.15.102
+
+Redirection Chains:
+
+jesuisanimateur.fr
+└── rew.thebookingsites.com (Referrer/iFrame) [4.182]
+
+Extracted Malicious Redirection Chain:
+
+jesuisanimateur.fr
+└── rew.thebookingsites.com (Referrer/iFrame) [4.182]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-15-pseudoDarkleech-Rig-EK-sends-Cerber-2nd-run.pcap..
+
+Source IP: 10.3.15.103
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.16bwhs.top
+jesuisanimateur.fr
+└── rew.thebookingsites.com (Referrer/iFrame) [5.981]
+
+Extracted Malicious Redirection Chain:
+
+jesuisanimateur.fr
+└── rew.thebookingsites.com (Referrer/iFrame) [5.981]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-15-unidentified-campaign-Rig-EK-sends-DELoader.pcap..
+
+Source IP: 10.3.15.101
+
+Redirection Chains:
+
+checkip.dyndns.org
+xbox360torrent.com
+└── add.tas-goodiebag.com (Referrer/iFrame) [1.059]
+
+Extracted Malicious Redirection Chain:
+
+xbox360torrent.com
+└── add.tas-goodiebag.com (Referrer/iFrame) [1.059]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-20-EITest-Rig-EK-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.3.20.101
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1cewld.top
+regenairgy.com
+└── acc.mobilalibey.com (Referrer/JavaScript) [3.921]
+
+Extracted Malicious Redirection Chain:
+
+regenairgy.com
+└── acc.mobilalibey.com (Referrer/JavaScript) [3.921]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-20-pseudoDarkleech-Rig-EK-sends-Cerber-ransomware.pcap..
+
+Source IP: 10.3.20.102
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1cewld.top
+simply-vegan.org
+└── acc.mobilalibey.com (Referrer/iFrame) [1.966]
+
+Extracted Malicious Redirection Chain:
+
+simply-vegan.org
+└── acc.mobilalibey.com (Referrer/iFrame) [1.966]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-25-Rig-EK-sends-Ramnit-Malvert.pcap..
+
+Source IP: 192.168.2.10
+
+Redirection Chains:
+
+170.254.236.102
+cedar.igrooveweb.com
+└── america.folkartinamerica.com (Referrer/JavaScript) [1.082]
+
+Extracted Malicious Redirection Chain:
+
+cedar.igrooveweb.com
+└── america.folkartinamerica.com (Referrer/JavaScript) [1.082]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-28-EITest-Rig-EK.pcap..
+
+Source IP: 10.3.28.109
+
+Redirection Chains:
+
+stat2.s76.r53.com.ua
+activaclinics.com
+└── help.whatizzzit.com (Referrer) [7.587]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── help.whatizzzit.com (Referrer) [7.587]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-03-30-Terror-EK-traffic.pcap..
+
+Source IP: 10.3.30.101
+
+Redirection Chains:
+
+sexyvideos.club
+└── 159.203.185.4 (Location/HTML) [0.243]
+
+Extracted Malicious Redirection Chain:
+
+sexyvideos.club
+└── 159.203.185.4 (Location/HTML) [0.243]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-03-EITest-Rig-EK-sends-matrix-ransomware-variant.pcap..
+
+Source IP: 10.4.3.103
+
+Redirection Chains:
+
+statcs.s76.r53.com.ua
+activaclinics.com
+└── open.auctionforintros.com (Referrer/JavaScript) [2.933]
+
+Extracted Malicious Redirection Chain:
+
+activaclinics.com
+└── open.auctionforintros.com (Referrer/JavaScript) [2.933]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-05-Terror-EK-sends-Andromeda-1st-run_missingC.pcap..
+
+Source IP: 10.4.5.101
+
+Redirection Chains:
+
+blazingsupport.ws
+uploadrobot.download
+└── 159.203.15.85 (Location) [0.637]
+
+Extracted Malicious Redirection Chain:
+
+uploadrobot.download
+└── 159.203.15.85 (Location) [0.637]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-05-Terror-EK-sends-Andromeda-2nd-run_missingC.pcap..
+
+Source IP: 10.4.5.110
+
+Redirection Chains:
+
+159.203.185.4
+uploadrobot.download
+└── 159.203.15.85 (Location) [0.626]
+blazingsupport.ws
+
+Extracted Malicious Redirection Chain:
+
+uploadrobot.download
+└── 159.203.15.85 (Location) [0.626]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-06-EITest-Rig-EK-sends-matrix-ransomware-variant.pcap..
+
+Source IP: 10.4.6.104
+
+Redirection Chains:
+
+stat3.s76.r53.com.ua
+trackingsharks.com
+└── fast.app-garden.info (Referrer/JavaScript) [6.35]
+
+Extracted Malicious Redirection Chain:
+
+trackingsharks.com
+└── fast.app-garden.info (Referrer/JavaScript) [6.35]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-13-what-seems-like-Rig-EK-1st-run_missingC.pcap..
+
+Source IP: 10.4.13.102
+
+Redirection Chains:
+
+microfitsecuretest.info
+└── microfitsecuretest.trade (JavaScript) [0.662]
+    └── 185.158.112.49 (Referrer) [2.611]
+
+Extracted Malicious Redirection Chain:
+
+microfitsecuretest.info
+└── microfitsecuretest.trade (JavaScript) [0.662]
+    └── 185.158.112.49 (Referrer) [2.611]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-13-what-seems-like-Rig-EK-2nd-run_missingC.pcap..
+
+Source IP: 10.4.13.103
+
+Redirection Chains:
+
+microfitsecuretest.info
+└── microfitsecuretest.trade (JavaScript) [0.639]
+    └── 185.158.112.49 (Referrer) [6.459]
+
+Extracted Malicious Redirection Chain:
+
+microfitsecuretest.info
+└── microfitsecuretest.trade (JavaScript) [0.639]
+    └── 185.158.112.49 (Referrer) [6.459]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-14-Rig-EK-traffic.pcap..
+
+Source IP: 10.4.14.103
+
+Redirection Chains:
+
+vicals.pw
+└── alooki.accountant (Location) [0.464]
+
+Extracted Malicious Redirection Chain:
+
+vicals.pw
+└── alooki.accountant (Location) [0.464]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-14-Terror-EK-traffic.pcap..
+
+Source IP: 10.4.14.101
+
+Redirection Chains:
+
+vicals.pw
+└── 188.166.27.60 (Location) [0.356]
+
+Extracted Malicious Redirection Chain:
+
+vicals.pw
+└── 188.166.27.60 (Location) [0.356]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-15-EITest-Rig-EK-traffic.pcap..
+
+Source IP: 10.4.15.103
+
+Redirection Chains:
+
+cardgameheaven.com
+└── microfitsecuretest.us (Referrer/JavaScript) [3.017]
+    └── 185.158.112.49 (Referrer) [5.344]
+ss.symcd.com
+unisdr.top
+└── trackerhost.us (Unknown) [2.291]
+
+Extracted Malicious Redirection Chain:
+
+cardgameheaven.com
+└── microfitsecuretest.us (Referrer/JavaScript) [3.017]
+    └── 185.158.112.49 (Referrer) [5.344]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-16-EITest-Rig-EK-traffic.pcap..
+
+Source IP: 10.4.16.102
+
+Redirection Chains:
+
+unisdr.top
+└── trackerhost.us (Unknown) [0.876]
+tanaakk.net
+└── side.chobaniandyr.com (Referrer/JavaScript) [4.782]
+
+Extracted Malicious Redirection Chain:
+
+tanaakk.net
+└── side.chobaniandyr.com (Referrer/JavaScript) [4.782]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-18-EITest-Rig-EK-sends-QuantLoader.pcap..
+
+Source IP: 192.168.2.19
+
+Redirection Chains:
+
+unisdr.top
+└── trackerhost.us (Unknown) [1.567]
+besancon-tennis-club.fr
+└── new.5efinance.com (Referrer/JavaScript) [4.389]
+gerber.gdn
+
+Extracted Malicious Redirection Chain:
+
+besancon-tennis-club.fr
+└── new.5efinance.com (Referrer/JavaScript) [4.389]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-18-EITest-Rig-EK-traffic.pcap..
+
+Source IP: 10.4.18.102
+
+Redirection Chains:
+
+unisdr.top
+└── trackerhost.us (Unknown) [1.44]
+serialeshqip.com
+└── new.5efinance.com (Referrer/JavaScript) [3.109]
+gerber.gdn
+
+Extracted Malicious Redirection Chain:
+
+serialeshqip.com
+└── new.5efinance.com (Referrer/JavaScript) [3.109]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-20-EITest-Rig-EK-sends-Quant-Loader.pcap..
+
+Source IP: 10.4.20.102
+
+Redirection Chains:
+
+unisdr.top
+└── trackerhost.us (Unknown) [0.939]
+saywitzproperties.com
+└── port.equisenergy.com.ph (Referrer/JavaScript) [2.243]
+
+Extracted Malicious Redirection Chain:
+
+saywitzproperties.com
+└── port.equisenergy.com.ph (Referrer/JavaScript) [2.243]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-25-Good-man-campaign-Rig-EK-sends-Latentbot_missingC.pcap..
+
+Source IP: 10.4.25.101
+
+Redirection Chains:
+
+37.72.175.221
+hurtmehard.net
+└── end.chaggama.com (Referrer/iFrame) [1.358]
+
+Extracted Malicious Redirection Chain:
+
+hurtmehard.net
+└── end.chaggama.com (Referrer/iFrame) [1.358]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-04-28-EITest-Rig-EK-sends-Mole-Ransomware.pcap..
+
+Source IP: 192.168.1.7
+
+Redirection Chains:
+
+194.165.16.140
+1tajrobe.com
+└── add.thebestofwichitadirectory.com (Referrer/JavaScript) [8.568]
+
+Extracted Malicious Redirection Chain:
+
+1tajrobe.com
+└── add.thebestofwichitadirectory.com (Referrer/JavaScript) [8.568]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-09-Rig-EK-sends-Bunitu_missingC.pcap..
+
+Source IP: 10.5.9.104
+
+Redirection Chains:
+
+slotdown.info
+└── slotdown3.info (Referrer/iFrame) [1.455]
+    └── free.420native.org (Referrer/iFrame) [0.347]
+
+Extracted Malicious Redirection Chain:
+
+slotdown.info
+└── slotdown3.info (Referrer/iFrame) [1.455]
+    └── free.420native.org (Referrer/iFrame) [0.347]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-10-Rig-EK-sends-Ramnit-1st-run_missingC.pcap..
+
+Source IP: 10.5.10.105
+
+Redirection Chains:
+
+185.31.160.55
+└── sell.northwestfloridacannabis.online (Referrer/iFrame) [0.692]
+
+Extracted Malicious Redirection Chain:
+
+185.31.160.55
+└── sell.northwestfloridacannabis.online (Referrer/iFrame) [0.692]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-10-Rig-EK-sends-Ramnit-2nd-run_missingC.pcap..
+
+Source IP: 10.5.10.106
+
+Redirection Chains:
+
+185.31.160.55
+└── top.northwestfloridacannabis.org (Referrer/iFrame) [0.667]
+
+Extracted Malicious Redirection Chain:
+
+185.31.160.55
+└── top.northwestfloridacannabis.org (Referrer/iFrame) [0.667]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-24-EITest-Rig-EK-sends-Mole-Ransomware.pcap..
+
+Source IP: 192.168.1.3
+
+Redirection Chains:
+
+144.217.240.227
+cedar.igrooveweb.com
+└── set.tilleystudio.com (Referrer/JavaScript) [5.426]
+
+Extracted Malicious Redirection Chain:
+
+cedar.igrooveweb.com
+└── set.tilleystudio.com (Referrer/JavaScript) [5.426]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-26-EITest-Rig-EK-sends-Cerber-after-intothebluefishing.com.pcap..
+
+Source IP: 10.5.26.104
+
+Redirection Chains:
+
+p27dokhpz2n7nvgr.1fgywm.top
+intothebluefishing.com
+└── art.606kingsplace.com (Referrer/JavaScript) [8.883]
+
+Extracted Malicious Redirection Chain:
+
+intothebluefishing.com
+└── art.606kingsplace.com (Referrer/JavaScript) [8.883]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-30-Rig-EK-sends-Kovter-1st-run_missingC.pcap..
+
+Source IP: 10.5.30.104
+
+Redirection Chains:
+
+54.92.45.205
+96.31.44.6
+we.redeemmeall.ns02.us
+└── add.acceleratinghealthcaretransformation.com (Location/JavaScript) [0.777]
+133.30.228.17
+
+Extracted Malicious Redirection Chain:
+
+we.redeemmeall.ns02.us
+└── add.acceleratinghealthcaretransformation.com (Location/JavaScript) [0.777]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-05-30-Rig-EK-sends-Kovter-2nd-run_missingC.pcap..
+
+Source IP: 10.5.30.105
+
+Redirection Chains:
+
+151.237.118.172
+167.160.176.181
+we.redeemmeall.ns02.us
+└── set.accumen.info (Location/JavaScript) [0.742]
+40.133.197.69
+175.147.137.193
+
+Extracted Malicious Redirection Chain:
+
+we.redeemmeall.ns02.us
+└── set.accumen.info (Location/JavaScript) [0.742]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-06-02-Seamless-Rig-EK-sends-Ramnit-2nd-run_missingC.pcap..
+
+Source IP: 10.6.2.103
+
+Redirection Chains:
+
+193.124.201.22
+└── free.crystallandis.com (Referrer/iFrame) [0.631]
+
+Extracted Malicious Redirection Chain:
+
+193.124.201.22
+└── free.crystallandis.com (Referrer/iFrame) [0.631]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-06-06-RoughTed-Rig-EK-sends-Chthonic-1st-run_missingC.pcap..
+
+Source IP: 10.6.6.101
+
+Redirection Chains:
+
+redirectforum.ru
+└── 194.87.95.16 (Referrer/JavaScript/HTML) [0.73]
+
+Extracted Malicious Redirection Chain:
+
+redirectforum.ru
+└── 194.87.95.16 (Referrer/JavaScript/HTML) [0.73]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-06-06-RoughTed-Rig-EK-sends-Chthonic-2nd-run_missingC.pcap..
+
+Source IP: 10.6.6.102
+
+Redirection Chains:
+
+pationare.bit
+redirectforum.ru
+└── 194.87.95.16 (HTML/JavaScript) [0.596]
+
+Extracted Malicious Redirection Chain:
+
+redirectforum.ru
+└── 194.87.95.16 (HTML/JavaScript) [0.596]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-06-21-Rig-EK-sends-Bunitu_missingC.pcap..
+
+Source IP: 10.6.21.101
+
+Redirection Chains:
+
+jackpotfr22.cf
+└── 188.225.79.216 (Referrer/iFrame) [0.833]
+
+Extracted Malicious Redirection Chain:
+
+jackpotfr22.cf
+└── 188.225.79.216 (Referrer/iFrame) [0.833]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-08-25-Seamless-campaign-Rig-EK-sends-Ramnit_missingC.pcap..
+
+Source IP: 10.8.25.101
+
+Redirection Chains:
+
+w.bustbuy.com
+└── ww7.bustbuy.com (Location) [0.255]
+194.58.40.48
+└── 188.225.27.148 (Referrer/iFrame) [0.457]
+
+Extracted Malicious Redirection Chain:
+
+194.58.40.48
+└── 188.225.27.148 (Referrer/iFrame) [0.457]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-08-28-Fobos-campaign-Rig-EK-sends-Bunitu.pcap..
+
+Source IP: 10.8.28.101
+
+Redirection Chains:
+
+gamebingfree.info
+└── 212jhhhvvhhvvhv.cf (Referrer/iFrame) [1.365]
+    └── 188.225.73.49 (Referrer/iFrame) [0.333]
+
+Extracted Malicious Redirection Chain:
+
+gamebingfree.info
+└── 212jhhhvvhhvvhv.cf (Referrer/iFrame) [1.365]
+    └── 188.225.73.49 (Referrer/iFrame) [0.333]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-09-02-RoughTed-Rig-EK-sends-Chthonic_Malvert.pcap..
+
+Source IP: 192.168.4.18
+
+Redirection Chains:
+
+pationare.bit
+vip-red.ru
+└── 188.225.85.172 (Referrer/JavaScript/HTML) [1.064]
+
+Extracted Malicious Redirection Chain:
+
+vip-red.ru
+└── 188.225.85.172 (Referrer/JavaScript/HTML) [1.064]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-09-07-Seamless-Rig-EK-sends-Ramnit_Malvert.pcap..
+
+Source IP: 192.168.1.44
+
+Redirection Chains:
+
+15cen.redirectvoluum.com
+└── 194.58.40.7 (Referrer/JavaScript/HTML) [9.559]
+    └── 188.225.82.139 (Referrer/iFrame) [4.616]
+
+Extracted Malicious Redirection Chain:
+
+15cen.redirectvoluum.com
+└── 194.58.40.7 (Referrer/JavaScript/HTML) [9.559]
+    └── 188.225.82.139 (Referrer/iFrame) [4.616]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-09-15-Rulan-Rig-EK-sends-Chthonic.pcap..
+
+Source IP: 192.168.1.19
+
+Redirection Chains:
+
+ponedobla.bit
+rus-red.ru
+└── 188.225.83.5 (Referrer/HTML/JavaScript) [1.008]
+
+Extracted Malicious Redirection Chain:
+
+rus-red.ru
+└── 188.225.83.5 (Referrer/HTML/JavaScript) [1.008]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-09-30-Rulan-Rig-EK-sends-Panda.pcap..
+
+Source IP: 192.168.4.52
+
+Redirection Chains:
+
+redigroup.ru
+└── 188.225.82.250 (Referrer/HTML/JavaScript) [1.002]
+
+Extracted Malicious Redirection Chain:
+
+redigroup.ru
+└── 188.225.82.250 (Referrer/HTML/JavaScript) [1.002]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-01-Rulan-Rig-EK-sends-LokiBot.pcap..
+
+Source IP: 192.168.2.5
+
+Redirection Chains:
+
+colimna.me
+redi-club.ru
+└── 188.225.84.73 (Referrer/JavaScript/HTML) [0.784]
+185.106.122.248
+
+Extracted Malicious Redirection Chain:
+
+redi-club.ru
+└── 188.225.84.73 (Referrer/JavaScript/HTML) [0.784]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-09-Rig-EK_Malvert2.pcap..
+
+Source IP: 192.168.1.16
+
+Redirection Chains:
+
+aircoin.ltd
+└── 176.57.214.101 (Location) [1.075]
+
+Extracted Malicious Redirection Chain:
+
+aircoin.ltd
+└── 176.57.214.101 (Location) [1.075]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-09-Rig-EK_Malvert.pcap..
+
+Source IP: 192.168.4.171
+
+Redirection Chains:
+
+e-btc.us
+└── 176.57.217.77 (Location) [1.063]
+
+Extracted Malicious Redirection Chain:
+
+e-btc.us
+└── 176.57.217.77 (Location) [1.063]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-17-Terror-EK-example.pcap..
+
+Source IP: 10.10.17.101
+
+Redirection Chains:
+
+brsmdpfiuuhbvgc21yrz8ovkqdt7tw40k3esen9xagw5laflcyjonxzmpi6hqj.2pih5uvlsgjomgy4zuxx81adce3oj7dkv9qtcbnasnw6rqiryflfwtzphmk0eb.zhmhptkstakixgobldls4viyw1jeuno9gj6wb02enury7vra5dcqfpfxc8z3qm.explanation-brother-in-law.cricket
+└── pcbjezw.explanation-shampoo.cricket (Location) [0.477]
+    └── wdhkpsy.explanation-shampoo.cricket (Referrer/JavaScript/iFrame) [0.649]
+
+Extracted Malicious Redirection Chain:
+
+brsmdpfiuuhbvgc21yrz8ovkqdt7tw40k3esen9xagw5laflcyjonxzmpi6hqj.2pih5uvlsgjomgy4zuxx81adce3oj7dkv9qtcbnasnw6rqiryflfwtzphmk0eb.zhmhptkstakixgobldls4viyw1jeuno9gj6wb02enury7vra5dcqfpfxc8z3qm.explanation-brother-in-law.cricket
+└── pcbjezw.explanation-shampoo.cricket (Location) [0.477]
+    └── wdhkpsy.explanation-shampoo.cricket (Referrer/JavaScript/iFrame) [0.649]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-20-Rig-EK-sends-Chthonic_Malvert.pcap..
+
+Source IP: 192.168.1.11
+
+Redirection Chains:
+
+letit2.bit
+50.75.90.195
+└── 217.107.219.149 (Location) [1.199]
+
+Extracted Malicious Redirection Chain:
+
+50.75.90.195
+└── 217.107.219.149 (Location) [1.199]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-20-Seamless-Rig-EK-sends-Ramnit_Malvert.pcap..
+
+Source IP: 192.168.1.14
+
+Redirection Chains:
+
+paremated-conproxy.com
+└── 15cen.redirectvoluum.com (Referrer/HTML/JavaScript) [1.156]
+    └── 194.58.58.121 (Referrer/HTML/JavaScript) [0.491]
+        └── 188.225.9.112 (Referrer/iFrame) [1.022]
+
+Extracted Malicious Redirection Chain:
+
+paremated-conproxy.com
+└── 15cen.redirectvoluum.com (Referrer/HTML/JavaScript) [1.156]
+    └── 194.58.58.121 (Referrer/HTML/JavaScript) [0.491]
+        └── 188.225.9.112 (Referrer/iFrame) [1.022]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-25-Seamless-Rig-EK-sends-Ramnit_Malvert.pcap..
+
+Source IP: 192.168.1.160
+
+Redirection Chains:
+
+jj3et.redirectvoluum.com
+└── 194.58.40.193 (HTML) [0.306]
+    └── 188.225.84.183 (Referrer/iFrame) [0.628]
+
+Extracted Malicious Redirection Chain:
+
+jj3et.redirectvoluum.com
+└── 194.58.40.193 (HTML) [0.306]
+    └── 188.225.84.183 (Referrer/iFrame) [0.628]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-27-Rig-EK-sends-Chthonic.pcap..
+
+Source IP: 192.168.1.11
+
+Redirection Chains:
+
+letit2.bit
+new-businesseurope.com
+└── 188.225.10.219 (Location) [1.293]
+
+Extracted Malicious Redirection Chain:
+
+new-businesseurope.com
+└── 188.225.10.219 (Location) [1.293]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-10-31-Seamless-Rig-EK-sends-Ramnit_Malvert.pcap..
+
+Source IP: 192.168.1.4
+
+Redirection Chains:
+
+jj3et.redirectvoluum.com
+└── 194.58.40.193 (Referrer/HTML/JavaScript) [0.53]
+    └── 188.225.10.19 (Referrer/iFrame) [0.909]
+
+Extracted Malicious Redirection Chain:
+
+jj3et.redirectvoluum.com
+└── 194.58.40.193 (Referrer/HTML/JavaScript) [0.53]
+    └── 188.225.10.19 (Referrer/iFrame) [0.909]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-11-10-Seamless-Rig-EK-sends-Ramnit_Malvert.pcap..
+
+Source IP: 192.168.1.5
+
+Redirection Chains:
+
+flinsheer-perreene.com
+└── kcsmj.redirectvoluum.com (HTML) [1.177]
+    └── 194.58.40.193 (HTML) [0.381]
+        └── 176.57.214.216 (Referrer/iFrame) [1.027]
+
+Extracted Malicious Redirection Chain:
+
+flinsheer-perreene.com
+└── kcsmj.redirectvoluum.com (HTML) [1.177]
+    └── 194.58.40.193 (HTML) [0.381]
+        └── 176.57.214.216 (Referrer/iFrame) [1.027]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-12-08-Fobos-campaign-Rig-EK-sends-Bunitu.pcap..
+
+Source IP: 10.12.8.101
+
+Redirection Chains:
+
+krai-soft.net
+└── 103jdhhfff99500910.info (Referrer/iFrame) [0.974]
+    └── 176.57.220.131 (Referrer/iFrame) [0.344]
+
+Extracted Malicious Redirection Chain:
+
+krai-soft.net
+└── 103jdhhfff99500910.info (Referrer/iFrame) [0.974]
+    └── 176.57.220.131 (Referrer/iFrame) [0.344]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-12-12-Ngay-campaign-Rig-EK-1st-run-Rig-EK-only.pcap..
+
+Source IP: 10.12.12.102
+
+Redirection Chains:
+
+colennao.ml
+└── 174.138.32.62 (Location) [0.475]
+    └── 188.225.86.86 (Referrer/iFrame) [1.542]
+
+Extracted Malicious Redirection Chain:
+
+colennao.ml
+└── 174.138.32.62 (Location) [0.475]
+    └── 188.225.86.86 (Referrer/iFrame) [1.542]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-12-12-Ngay-campaign-Rig-EK-2nd-run-with-post-infection-traffic.pcap..
+
+Source IP: 10.12.12.103
+
+Redirection Chains:
+
+colennao.tk
+└── 174.138.32.62 (Location) [0.286]
+    └── 188.225.86.86 (Referrer/iFrame) [1.112]
+ngay16.ru
+└── 159.203.186.255 (Unknown) [0.112]
+
+Extracted Malicious Redirection Chain:
+
+colennao.tk
+└── 174.138.32.62 (Location) [0.286]
+    └── 188.225.86.86 (Referrer/iFrame) [1.112]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-12-14-Ngay-campaign-Rig-EK-traffic.pcap..
+
+Source IP: 10.12.14.101
+
+Redirection Chains:
+
+coccoc.accountant
+└── 192.241.150.92 (Location) [0.319]
+    └── 217.107.219.186 (Referrer/iFrame) [0.98]
+thang12.ru
+└── 67.205.189.141 (Unknown) [0.243]
+
+Extracted Malicious Redirection Chain:
+
+coccoc.accountant
+└── 192.241.150.92 (Location) [0.319]
+    └── 217.107.219.186 (Referrer/iFrame) [0.98]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing 2017-12-28-Seamless-campaign-Rig-EK-sends-Ramnit_missingC.pcap..
+
+Source IP: 10.12.28.102
+
+Redirection Chains:
+
+178.21.10.68
+└── 176.57.214.103 (Referrer/iFrame) [0.572]
+
+Extracted Malicious Redirection Chain:
+
+178.21.10.68
+└── 176.57.214.103 (Referrer/iFrame) [0.572]
+
+Malicious chain extraction result was CORRECT!
+
+====================================================================================================
+
+Processing Complete..
+
+Total execution time: 3 minutes and 28.68 seconds!
+Average PCAP processing time: 1.52 seconds!
+Average chain processing time: 1.52 seconds!
+
+324/330 (98.18%) Malicious URLs were correctly extracted from 137 malicious chains!
+
+====================================================================================================
+
+131/137 (95.62%) Malicious chains were correctly identified!
+6/137 (4.38%) Malicious chains were semi-correctly identified!
+0/137 (0.0%) Malicious chains were incorrectly identified!
+
+25/137 (18.25%) PCAPs were missing the compromised site!
+18/137 (13.14%) PCAPs were Malvertising!
+
+| Redir_Type   | Num     | %      |   Avg |
+|--------------+---------+--------+-------|
+| Referrer     | 131/343 | 38.19% | 0.382 |
+| iFrame       | 73/343  | 21.28% | 0.213 |
+| JavaScript   | 70/343  | 20.41% | 0.204 |
+| Unknown      | 25/343  | 7.29%  | 0.073 |
+| HTML         | 22/343  | 6.41%  | 0.064 |
+| Location     | 15/343  | 4.37%  | 0.044 |
+| Advanced     | 6/343   | 1.75%  | 0.017 |
+| Subdomain    | 1/343   | 0.29%  | 0.003 |
+| Base64       | 0/343   | 0.0%   | 0     |
+| Concat       | 0/343   | 0.0%   | 0     |
+
+32/343 (9.33%) of redirections were obfuscated!
+
+Min chain depth: 1
+Max chain depth: 3
+Avg chain depth: 1.38
+
+Max nodes per chain: 4
+Avg nodes per chain: 2.409
+
+Min time between redirects: 0.224 seconds!
+Max time between redirects: 16.562 seconds!
+Avg time between redirects: 2.607 seconds!
+
+====================================================================================================
+
