@@ -7,4 +7,6 @@ PCAPs HAVE NOT BEEN INCLUDED DUE TO SIZE: malicious PCAPs were sourced from malw
 
 I don't currently don't have much time to document the repo but the code should be fairly well commented :) Any major issues/questions then I'll do my best to help if time permits.
 
-UPDATE: Added ML-Training folder with IPython Notebooks and features for LSTM RNN training. They are a bit of a mess as I often didn't clean up previous cells and lost track.
+UPDATE: Added ML-Training folder with IPython Notebooks and feature sets, to go with academic paper "LSTM RNN: Detecting Exploit Kits using Redirection Chain Sequences" available @ https://pure.qub.ac.uk/en/publications/lstm-rnn-detecting-exploit-kits-using-redirection-chain-sequences. They are a bit of a mess as I often didn't clean up previous cells and lost track of different tasks but hopefully it can still help some future researchers.
+
+If you use some of the code/data in your work, please cite :)
