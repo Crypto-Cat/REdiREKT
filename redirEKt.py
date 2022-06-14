@@ -69,7 +69,10 @@ def create_global_vars():
 classification = 1  # Change program behaviour for malicious/benign processing
 store_csv = 1  # Enable/disable generation and storage of CSV data
 store_json = 0  # Enable/disable generation and storage of JSON data
-max_nodes_per_chain = 50  # Configured based on analysis of malicious and benign HTTP redirection chains, currently only applies to benign chains (haven't seen malicious chains this big)
+# Configured based on analysis of malicious and benign HTTP redirection
+# chains, currently only applies to benign chains (haven't seen malicious
+# chains this big)
+max_nodes_per_chain = 50
 
 
 def setup_logging(write_mode, data_dir, logger):
@@ -111,7 +114,7 @@ def generate_logs(pcap, data_dir, logger):
     # Try to generate logs
     try:
         subprocess.run(command, shell=True, timeout=time_out)
-    except:
+    except BaseException:
         logger.info(pcap.split("/")[-1] + " took longer than " + str(time_out) + " seconds!\n")
         return None, None, None, None
 
@@ -142,10 +145,11 @@ def generate_features(filename, statistics, whitelisted_sites, data_dir, logger)
         http_log, dns_log, files_log, redir_log = generate_logs(pcap_name, data_dir, logger)
 
         # Did we successfully extract the HTTP log
-        if http_log != None:
+        if http_log is not None:
 
             # Extract the HTTP features
-            http_feature_list, redir_chain_map_list = extract_http_features(http_log, redir_log, statistics, whitelisted_sites, classification, logger)
+            http_feature_list, redir_chain_map_list = extract_http_features(
+                http_log, redir_log, statistics, whitelisted_sites, classification, logger)
 
             # Create array now as there may be multiple chains (multiple SRC IP)
             chain_features = []
@@ -167,7 +171,8 @@ def generate_features(filename, statistics, whitelisted_sites, data_dir, logger)
                         statistics = verify_malicious_chain(pcap_name.split("/")[-1], malicious_chain, statistics, data_dir, logger)
                 # If we are processing the benign dataset, lets extract all chains that have at least one redirection
                 elif classification == 0:
-                    benign_chains = extract_all_benign_chains(path.basename(pcap_name), redir_chain_map_list, statistics, store_json, max_nodes_per_chain, logger)
+                    benign_chains = extract_all_benign_chains(path.basename(pcap_name), redir_chain_map_list,
+                                                              statistics, store_json, max_nodes_per_chain, logger)
                     if benign_chains:
                         found = True
                         # Build a list of features for each benign chain and add it to array
@@ -290,7 +295,7 @@ def main(argv):
         sys.exit(2)
     for opt, arg in opts:
         if opt in ('-h', '--help'):
-            print('python log_parser.py\n' \
+            print('python redirEKt.py\n'
                   '-r (input local PCAP file or directory (for multiple PCAPs)))\n')
             sys.exit()
         else:

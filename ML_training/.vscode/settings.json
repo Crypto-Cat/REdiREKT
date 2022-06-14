@@ -1,0 +1,6 @@
+{
+    "prettier.printWidth": 100,
+"jupyter.textOutputLimit": 0,
+"jupyter.maxOutputSize": -1,
+"jupyter.jupyterServerType": "local"
+}

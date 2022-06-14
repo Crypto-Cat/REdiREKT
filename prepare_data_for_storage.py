@@ -5,7 +5,7 @@ import ipaddress
 def process_content_type(current_feature_entry, features_to_store):
     # Content types to map
     content_types = {
-        'bytes_shockwave_total': ['application/x-shockwave-flash', 'application/x-shockwave-flash'],
+        'bytes_shockwave_total': ['application/x-shockwave-flash', 'application/shockwave-flash'],
         'bytes_x-dosexec_total': ['application/x-dosexec', 'application/x-msdos-program', 'application/x-msdownload', 'application/octet-stream'],
         'bytes_java_total': ['application/java-archive', 'application/x-java-archive', 'application/java', 'application/x-java-jnlp-file'],
         'bytes_silverlight_total': ['application/x-silverlight-app'],
@@ -95,7 +95,16 @@ def build_url_features(node, features_to_store):
     current_feature_entry = {}
 
     # Average features
-    features_to_average = ['domain_len', 'domain_entropy', 'uri_len', 'uri_entropy', 'uri_ch_slash', 'uri_ch_amp', 'uri_ch_dash', 'uri_ch_plus', 'response_len']
+    features_to_average = [
+        'domain_len',
+        'domain_entropy',
+        'uri_len',
+        'uri_entropy',
+        'uri_ch_slash',
+        'uri_ch_amp',
+        'uri_ch_dash',
+        'uri_ch_plus',
+        'response_len']
 
     for feature in features_to_average:
         try:
@@ -173,8 +182,8 @@ def build_chain_features(redir_chain, http_feature_list):
                 'mime_type': [],  # How to process
                 'content_type': [],  # How to process
                 'response_len': [],  # How to process
-                #'req_type': [],  # How to process
-                #'resp_code': [] # How to process
+                # 'req_type': [],  # How to process
+                # 'resp_code': [] # How to process
             }
 
             # Aggregate features across HTTP entries

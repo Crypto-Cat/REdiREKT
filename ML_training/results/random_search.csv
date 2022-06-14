@@ -1,0 +1,2 @@
+date_time,accuracy,precision,recall,f1,data_size,test_size,val_split,neurons,layers,dropout,epochs,rank,fit_time,test_time
+2022-06-13_23:55:17,0.9963438893993566,0.99121881223117,0.9882831181252989,0.989723649982021,7180,0.2,5,40,6,0.4,298,1,5265.287,1.55
