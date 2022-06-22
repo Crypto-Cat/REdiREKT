@@ -296,4 +296,9 @@ def add_node(http_entries, root_node, current_node, redir_type, new_node_url, ts
 
 def clean_url(url):
     stripped_url = (re.search(r"(https?://)?(www\.)?([a-z0-9\-\.\:]+)", url, flags=re.I))
-    return stripped_url.group(3).lower()
+    cleaned_url = ""
+    try:
+        cleaned_url = stripped_url.group(3).lower()
+    except:
+        print('Failed to clean: ' + url)
+    return cleaned_url
