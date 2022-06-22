@@ -104,10 +104,11 @@ def print_timing(num_of_pcaps, statistics, logger):
     # Print total execution time
     total_time = divmod(time.time() - statistics['start_time'], 60)
     average_pcap_time = round((time.time() - statistics['start_time']) / num_of_pcaps, 2)
-    average_chain_time = round((time.time() - statistics['start_time']) / statistics['total_chains'], 2)
     logger.info("Total execution time: " + str(int(total_time[0])) + " minutes and " + str(round(total_time[1], 2)) + " seconds!")
     logger.info("Average PCAP processing time: " + str(average_pcap_time) + " seconds!")
-    logger.info("Average chain processing time: " + str(average_chain_time) + " seconds!\n")
+    if statistics['total_chains'] > 0:
+        average_chain_time = round((time.time() - statistics['start_time']) / statistics['total_chains'], 2)
+        logger.info("Average chain processing time: " + str(average_chain_time) + " seconds!\n")
 
 
 def print_tree(tree, logger):
