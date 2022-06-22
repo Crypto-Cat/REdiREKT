@@ -232,6 +232,9 @@ def process_csv_file(filename, num_of_lines, data_dir):
 
     # Find out how many PCAPs are listed in CSV
     row_count = sum(1 for line in rows)
+    if row_count == 0:
+        logger.info("Zero PCAPs to process!")
+        exit(0)
     logger.info("Processing " + str(row_count) + " PCAPs..\n")
 
     # Find the row in CSV file with current PCAP name
