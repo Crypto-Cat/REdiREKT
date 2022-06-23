@@ -20464,24 +20464,48 @@
     }
   },
   {
-    "2019-11-25-Fallout-EK-sends-RAT.pcap": {
-      "name": "popcash.net",
-      "children": [
-        {
-          "name": "mybestdc.com",
-          "redirs": ["Location", "Referrer"],
-          "seconds": 2.571,
-          "children": [
-            {
-              "name": "bitcoinsmaker.site",
-              "redirs": ["Location"],
-              "seconds": 3.003
-            }
-          ]
-        }
-      ]
-    }
-  },
+  "2019-11-25-Fallout-EK-sends-RAT.pcap": {
+    "name": "popcash.net",
+    "children": [
+      {
+        "name": "ps.popcash.net",
+        "redirs": [
+          "Location"
+        ],
+        "seconds": 0,
+        "children": [
+          {
+            "name": "mybestdc.com",
+            "redirs": [
+              "Location",
+              "Referrer",
+              "HTML"
+            ],
+            "seconds": 1.602,
+            "children": [
+              {
+                "name": "p149800.mybestdc.com",
+                "redirs": [
+                  "Location"
+                ],
+                "seconds": 0,
+                "children": [
+                  {
+                    "name": "bitcoinsmaker.site",
+                    "redirs": [
+                      "Location"
+                    ],
+                    "seconds": 1.773
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+},
   {
     "2019-11-30-Rig-EK-sends-Ransomware.pcap": {
       "name": "usa.lucretius-ada.com",
