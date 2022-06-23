@@ -199,7 +199,7 @@ def level_extract(http_entries, root_node, current_node, pos):
                 # If the currently processed node is equal to the domain in the HTTP entry
                 if re.search(current_node.name, entry['domain']):
                     # Was there was a redirection via location header?
-                    if not (re.search(entry['domain'], entry['location'])) and not (re.search(current_node.name, entry['location'])):
+                    if not current_node.name == entry['location']:
                         # Make sure the potential redirected URL was actually visited
                         if any(d['domain'] == entry['location'].split(':')[0] for d in http_entries):
                             # Store the redirection type, this is a useful feature
@@ -300,6 +300,8 @@ def clean_url(url):
         cleaned_url = ""
         try:
             cleaned_url = stripped_url.group(3).lower()
+            if cleaned_url.endswith(':80'):
+                cleaned_url = cleaned_url.rstrip(':80')
         except:
             print('Failed to clean: ' + url)
         return cleaned_url
