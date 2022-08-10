@@ -6,12 +6,12 @@ import tldextract
 def extract_redir_chain(http_entries):
     final_redir_list = []
     new_http_entries = []
-    # If there is more than x (15) mins between HTTP requests, we should seperate into sessions
-    # This means if the user visits the same URL that he visited 15 minutes ago, it will be in a seperate chain
+    # If there is more than x (2) mins between HTTP requests, we should seperate into sessions
+    # This means if the user visits the same URL that he visited 2 minutes ago, it will be in a seperate chain
     # Note that the x parameter should be determined by experience / trial and error
     sessions = extract_sessions(http_entries)
 
-    # For each 15 minute sessions
+    # For each 2 minute sessions
     for _, session in enumerate(sessions):
         # Keep track of URLs and map redirections that occur
         url_list = []
@@ -45,7 +45,9 @@ def extract_redir_chain(http_entries):
             new_node, single_url_chains = subdomain_redirects(chain.root, single_url_chains, session)
             new_redir_list.append(new_node)
 
-        # Add single URL chains to our new chain list (without duplicating URLs that were in single chain but have been marked as subdomain redirections)
+        # Add single URL chains to our new chain list (without duplicating URLs
+        # that were in single chain but have been marked as subdomain
+        # redirections)
         new_redir_list += single_url_chains
 
         # Make sure each node is root or we'll have problems when printing
@@ -67,8 +69,8 @@ def extract_sessions(http_entries):
     for current_pos in range(len(http_entries) - 1):
         # Get the difference between time of previous request and current request
         difference = (http_entries[current_pos + 1]['ts'] - http_entries[current_pos]['ts']).total_seconds()
-        # Is there more than 15 minutes between the requests?
-        if difference >= (15 * 60):
+        # Is there more than 2 minutes between the requests?
+        if difference >= (2 * 60):
             # Extract subset
             subset = http_entries[start_pos:current_pos]
             # Add it to the list
@@ -231,7 +233,14 @@ def level_extract(http_entries, root_node, current_node, pos):
                                 # Make sure the redirection is to a new domain
                                 if not re.search(redir_entry['redir_url'], redir_entry['url']):
                                     # Add the redirect to the tree
-                                    root_node = add_node(http_entries, root_node, current_node, redir_entry['redir_type'], redir_entry['redir_url'], redir_entry['ts'], index)
+                                    root_node = add_node(
+                                        http_entries,
+                                        root_node,
+                                        current_node,
+                                        redir_entry['redir_type'],
+                                        redir_entry['redir_url'],
+                                        redir_entry['ts'],
+                                        index)
 
     return root_node, current_node, http_entries
 
@@ -302,6 +311,6 @@ def clean_url(url):
             cleaned_url = stripped_url.group(3).lower()
             if cleaned_url.endswith(':80'):
                 cleaned_url = cleaned_url.rstrip(':80')
-        except:
+        except BaseException:
             print('Failed to clean: ' + url)
         return cleaned_url
